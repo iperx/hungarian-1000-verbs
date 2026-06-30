@@ -1,0 +1,597 @@
+<!doctype html><html><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HU-1000 card design preview (en)</title>
+<style>
+body { margin:0; font-family:-apple-system,"Segoe UI",Arial,sans-serif; background:#f0f1f3; }
+h1 { text-align:center; font-size:18px; color:#444; padding:14px; margin:0; }
+.themes { display:flex; flex-wrap:wrap; }
+.theme { flex:1 1 420px; min-width:320px; padding:10px; }
+.theme h2 { text-align:center; font-size:13px; letter-spacing:2px; color:#888; text-transform:uppercase; }
+.light { background:#f0f1f3; }
+.dark  { background:#1d1d1d; }
+.dark h2 { color:#aaa; }
+.demo { margin:0 auto 18px; max-width:560px; }
+.demo-title { font-size:12px; color:#999; text-align:center; margin-bottom:6px; }
+.dark .demo-title { color:#777; }
+.pair { display:flex; gap:10px; flex-wrap:wrap; }
+.side { flex:1 1 240px; }
+.side-lbl { font-size:10px; letter-spacing:1px; color:#bbb; text-align:center; margin-bottom:3px; }
+.side .card { border:1px solid #ddd; border-radius:10px; box-shadow:0 1px 3px rgba(0,0,0,.08); }
+.dark .side .card { border-color:#3a3a3a; }
+/* the real deck CSS, scoped under .card */
+
+.card { font-family: -apple-system, "Segoe UI", Arial, sans-serif;
+        font-size: clamp(18px, 5vw, 22px); line-height: 1.5;
+        text-align: center; color: #1a1a1a; background: #fff; padding: 14px 10px; }
+.num  { color: #9aa0a6; font-size: 13px; letter-spacing: .5px; margin-bottom: 8px; }
+.hu   { font-size: clamp(22px, 6.5vw, 30px); font-weight: 500; color: #14377d;
+        margin: 12px auto; max-width: 32em; overflow-wrap: anywhere; }
+.vf   { font-weight: 700; background: rgba(255,201,71,.5);
+        border-radius: 4px; padding: 0 .12em; }
+.tr   { font-size: clamp(19px, 5.5vw, 26px); color: #222; margin: 12px auto; max-width: 32em;
+        overflow-wrap: anywhere; }
+.hint { color: #6b7280; font-size: clamp(15px, 4.5vw, 18px); font-style: italic; }
+.verb { font-size: clamp(17px, 5vw, 20px); margin-top: 12px; }
+.vtr  { color: #555; }
+.inf  { color: #9aa0a6; font-size: .82em; font-style: italic; }
+.audio2 { margin-top: 12px; display: flex; flex-wrap: wrap; gap: 10px 20px; justify-content: center; }
+.play { display: inline-flex; }
+.lbl  { color: #9aa0a6; font-size: 12px; }
+/* Single steel-blue Play button. Each note is bound to ONE voice (male or female,
+   chosen ~50/50 at build time), so there is just one button and native autoplay
+   works everywhere. Anki's native icon is hidden and replaced by a larger,
+   corner-rounded play triangle drawn as a background image, so it looks identical
+   on every platform (desktop / AnkiMobile / AnkiDroid). */
+.play .replay-button { position: relative; display: inline-flex; width: 54px; height: 54px;
+        border-radius: 50%; background: #0284c7; text-decoration: none;
+        box-shadow: 0 1px 3px rgba(0,0,0,.20); transition: transform .08s ease; cursor: pointer; }
+.play .replay-button:active { transform: scale(.94); }
+.play .replay-button svg { display: none; }
+.play .replay-button::after { content: ""; position: absolute; top: 0; right: 0; bottom: 0; left: 0;
+        background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M7 5.5L7 18.5L18.5 12Z' fill='white' stroke='white' stroke-width='2.6' stroke-linejoin='round'/%3E%3C/svg%3E") center / 50% no-repeat; }
+.audio-big .replay-button { width: 74px; height: 74px; }
+hr#answer { border: none; border-top: 1px solid #e0e0e0; margin: 16px auto; max-width: 36em; }
+
+.badges { display: flex; flex-wrap: wrap; gap: 6px; justify-content: center; margin-top: 14px; }
+.badge  { font-size: 12px; font-weight: 600; padding: 2px 9px; border-radius: 999px; line-height: 1.6; }
+.reg-colloquial { color: #1565c0; background: rgba(21,101,192,.12); }
+.reg-vulgar     { color: #b00020; background: rgba(176,0,32,.12); }
+.reg-violent    { color: #8a4b00; background: rgba(138,75,0,.12); }
+
+.nightMode .card { color: #e8e8e8; background: #2b2b2b; }
+.nightMode .hu   { color: #8ab4f8; }
+.nightMode .vf   { background: rgba(255,201,71,.30); color: #fff; }
+.nightMode .tr   { color: #eaeaea; }
+.nightMode .verb { color: #e8e8e8; }
+.nightMode hr#answer { border-top-color: #444; }
+.nightMode .reg-colloquial { color: #7fb0ff; background: rgba(127,176,255,.16); }
+.nightMode .reg-vulgar     { color: #ff7a8a; background: rgba(255,122,138,.16); }
+.nightMode .reg-violent    { color: #e0a060; background: rgba(224,160,96,.16); }
+
+/* force dark-mode rendering inside the .dark column */
+.dark .card { color:#e8e8e8; background:#2b2b2b; }
+.dark .hu { color:#8ab4f8; }
+.dark .vf { background:rgba(255,201,71,.30); color:#fff; }
+.dark .tr { color:#eaeaea; }
+.dark .verb { color:#e8e8e8; }
+.dark hr#answer { border-top-color:#444; }
+.dark .freq { color:#e8c46a; background:rgba(232,196,106,.16); }
+.dark .reg-colloquial { color:#7fb0ff; background:rgba(127,176,255,.16); }
+.dark .reg-vulgar { color:#ff7a8a; background:rgba(255,122,138,.16); }
+.dark .reg-violent { color:#e0a060; background:rgba(224,160,96,.16); }
+</style></head>
+<body>
+<h1>Hungarian 1000 verbs &mdash; card design preview (en). 🔊 = audio placeholder.</h1>
+<div class="themes">
+  <div class="theme light"><h2>Light</h2>
+      <div class="demo">
+        <div class="demo-title">#1 van &middot; 1 Listening HU->Tr</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#1</div>
+<div class="hu">Ő most az iskolában <span class="vf">van</span>.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#1</div>
+<div class="hu">Ő most az iskolában <span class="vf">van</span>.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<hr id=answer>
+<div class="tr">She is at school right now.</div>
+<div class="verb">van — <span class="vtr">to be</span></div>
+<div class="inf">lenni</div>
+</div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#1 van &middot; 2 Recall Tr->HU</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#1</div>
+<div class="tr">She is at school right now.</div>
+<div class="hint">to be</div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#1</div>
+<div class="tr">She is at school right now.</div>
+<div class="hint">to be</div>
+<hr id=answer>
+<div class="hu">Ő most az iskolában <span class="vf">van</span>.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="verb">van <span class="inf">(lenni)</span></div>
+</div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#1 van &middot; 3 Pure audio->HU+Tr</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#1</div>
+<div class="audio2 audio-big"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="hint">?</div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#1</div>
+<div class="audio2 audio-big"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="hint">?</div>
+<hr id=answer>
+<div class="hu">Ő most az iskolában <span class="vf">van</span>.</div>
+<div class="tr">She is at school right now.</div>
+<div class="verb">van — <span class="vtr">to be</span> <span class="inf">(lenni)</span></div>
+</div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#381 feltesz &middot; 1 Listening HU->Tr</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#381</div>
+<div class="hu">Mindig sok kérdést <span class="vf">teszek fel</span> az órán.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#381</div>
+<div class="hu">Mindig sok kérdést <span class="vf">teszek fel</span> az órán.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<hr id=answer>
+<div class="tr">I always ask a lot of questions in class.</div>
+<div class="verb">feltesz — <span class="vtr">to ask (a question)</span></div>
+<div class="inf">feltenni</div>
+</div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#381 feltesz &middot; 2 Recall Tr->HU</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#381</div>
+<div class="tr">I always ask a lot of questions in class.</div>
+<div class="hint">to ask (a question)</div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#381</div>
+<div class="tr">I always ask a lot of questions in class.</div>
+<div class="hint">to ask (a question)</div>
+<hr id=answer>
+<div class="hu">Mindig sok kérdést <span class="vf">teszek fel</span> az órán.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="verb">feltesz <span class="inf">(feltenni)</span></div>
+</div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#381 feltesz &middot; 3 Pure audio->HU+Tr</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#381</div>
+<div class="audio2 audio-big"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="hint">?</div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#381</div>
+<div class="audio2 audio-big"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="hint">?</div>
+<hr id=answer>
+<div class="hu">Mindig sok kérdést <span class="vf">teszek fel</span> az órán.</div>
+<div class="tr">I always ask a lot of questions in class.</div>
+<div class="verb">feltesz — <span class="vtr">to ask (a question)</span> <span class="inf">(feltenni)</span></div>
+</div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#104 imád &middot; 1 Listening HU->Tr</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#104</div>
+<div class="hu"><span class="vf">Imádom</span> a csokoládét.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#104</div>
+<div class="hu"><span class="vf">Imádom</span> a csokoládét.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<hr id=answer>
+<div class="tr">I love chocolate.</div>
+<div class="verb">imád — <span class="vtr">to love / to adore</span></div>
+<div class="inf">imádni</div>
+</div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#104 imád &middot; 2 Recall Tr->HU</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#104</div>
+<div class="tr">I love chocolate.</div>
+<div class="hint">to love / to adore</div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#104</div>
+<div class="tr">I love chocolate.</div>
+<div class="hint">to love / to adore</div>
+<hr id=answer>
+<div class="hu"><span class="vf">Imádom</span> a csokoládét.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="verb">imád <span class="inf">(imádni)</span></div>
+</div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#104 imád &middot; 3 Pure audio->HU+Tr</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#104</div>
+<div class="audio2 audio-big"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="hint">?</div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#104</div>
+<div class="audio2 audio-big"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="hint">?</div>
+<hr id=answer>
+<div class="hu"><span class="vf">Imádom</span> a csokoládét.</div>
+<div class="tr">I love chocolate.</div>
+<div class="verb">imád — <span class="vtr">to love / to adore</span> <span class="inf">(imádni)</span></div>
+</div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#362 lelő &middot; 1 Listening HU->Tr</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#362</div>
+<div class="hu">Egy nyulat <span class="vf">lőtt le</span> a réten.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#362</div>
+<div class="hu">Egy nyulat <span class="vf">lőtt le</span> a réten.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<hr id=answer>
+<div class="tr">He shot a rabbit dead in the meadow.</div>
+<div class="verb">lelő — <span class="vtr">to shoot dead</span></div>
+<div class="inf">lelőni</div>
+<div class="badges"><span class="badge reg-violent">⚠ violent</span></div></div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#362 lelő &middot; 2 Recall Tr->HU</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#362</div>
+<div class="tr">He shot a rabbit dead in the meadow.</div>
+<div class="hint">to shoot dead</div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#362</div>
+<div class="tr">He shot a rabbit dead in the meadow.</div>
+<div class="hint">to shoot dead</div>
+<hr id=answer>
+<div class="hu">Egy nyulat <span class="vf">lőtt le</span> a réten.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="verb">lelő <span class="inf">(lelőni)</span></div>
+<div class="badges"><span class="badge reg-violent">⚠ violent</span></div></div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#362 lelő &middot; 3 Pure audio->HU+Tr</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#362</div>
+<div class="audio2 audio-big"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="hint">?</div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#362</div>
+<div class="audio2 audio-big"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="hint">?</div>
+<hr id=answer>
+<div class="hu">Egy nyulat <span class="vf">lőtt le</span> a réten.</div>
+<div class="tr">He shot a rabbit dead in the meadow.</div>
+<div class="verb">lelő — <span class="vtr">to shoot dead</span> <span class="inf">(lelőni)</span></div>
+<div class="badges"><span class="badge reg-violent">⚠ violent</span></div></div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#917 felhoz &middot; 1 Listening HU->Tr</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#917</div>
+<div class="hu">Mindig ezt a témát <span class="vf">hozza fel</span> a vacsoránál.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#917</div>
+<div class="hu">Mindig ezt a témát <span class="vf">hozza fel</span> a vacsoránál.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<hr id=answer>
+<div class="tr">He always brings up this topic at dinner.</div>
+<div class="verb">felhoz — <span class="vtr">to bring up, to raise (a topic)</span></div>
+<div class="inf">felhozni</div>
+</div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#917 felhoz &middot; 2 Recall Tr->HU</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#917</div>
+<div class="tr">He always brings up this topic at dinner.</div>
+<div class="hint">to bring up, to raise (a topic)</div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#917</div>
+<div class="tr">He always brings up this topic at dinner.</div>
+<div class="hint">to bring up, to raise (a topic)</div>
+<hr id=answer>
+<div class="hu">Mindig ezt a témát <span class="vf">hozza fel</span> a vacsoránál.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="verb">felhoz <span class="inf">(felhozni)</span></div>
+</div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#917 felhoz &middot; 3 Pure audio->HU+Tr</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#917</div>
+<div class="audio2 audio-big"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="hint">?</div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#917</div>
+<div class="audio2 audio-big"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="hint">?</div>
+<hr id=answer>
+<div class="hu">Mindig ezt a témát <span class="vf">hozza fel</span> a vacsoránál.</div>
+<div class="tr">He always brings up this topic at dinner.</div>
+<div class="verb">felhoz — <span class="vtr">to bring up, to raise (a topic)</span> <span class="inf">(felhozni)</span></div>
+</div></div>
+        </div>
+      </div></div>
+  <div class="theme dark"><h2>Dark</h2>
+      <div class="demo">
+        <div class="demo-title">#1 van &middot; 1 Listening HU->Tr</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#1</div>
+<div class="hu">Ő most az iskolában <span class="vf">van</span>.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#1</div>
+<div class="hu">Ő most az iskolában <span class="vf">van</span>.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<hr id=answer>
+<div class="tr">She is at school right now.</div>
+<div class="verb">van — <span class="vtr">to be</span></div>
+<div class="inf">lenni</div>
+</div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#1 van &middot; 2 Recall Tr->HU</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#1</div>
+<div class="tr">She is at school right now.</div>
+<div class="hint">to be</div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#1</div>
+<div class="tr">She is at school right now.</div>
+<div class="hint">to be</div>
+<hr id=answer>
+<div class="hu">Ő most az iskolában <span class="vf">van</span>.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="verb">van <span class="inf">(lenni)</span></div>
+</div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#1 van &middot; 3 Pure audio->HU+Tr</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#1</div>
+<div class="audio2 audio-big"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="hint">?</div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#1</div>
+<div class="audio2 audio-big"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="hint">?</div>
+<hr id=answer>
+<div class="hu">Ő most az iskolában <span class="vf">van</span>.</div>
+<div class="tr">She is at school right now.</div>
+<div class="verb">van — <span class="vtr">to be</span> <span class="inf">(lenni)</span></div>
+</div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#381 feltesz &middot; 1 Listening HU->Tr</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#381</div>
+<div class="hu">Mindig sok kérdést <span class="vf">teszek fel</span> az órán.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#381</div>
+<div class="hu">Mindig sok kérdést <span class="vf">teszek fel</span> az órán.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<hr id=answer>
+<div class="tr">I always ask a lot of questions in class.</div>
+<div class="verb">feltesz — <span class="vtr">to ask (a question)</span></div>
+<div class="inf">feltenni</div>
+</div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#381 feltesz &middot; 2 Recall Tr->HU</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#381</div>
+<div class="tr">I always ask a lot of questions in class.</div>
+<div class="hint">to ask (a question)</div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#381</div>
+<div class="tr">I always ask a lot of questions in class.</div>
+<div class="hint">to ask (a question)</div>
+<hr id=answer>
+<div class="hu">Mindig sok kérdést <span class="vf">teszek fel</span> az órán.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="verb">feltesz <span class="inf">(feltenni)</span></div>
+</div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#381 feltesz &middot; 3 Pure audio->HU+Tr</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#381</div>
+<div class="audio2 audio-big"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="hint">?</div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#381</div>
+<div class="audio2 audio-big"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="hint">?</div>
+<hr id=answer>
+<div class="hu">Mindig sok kérdést <span class="vf">teszek fel</span> az órán.</div>
+<div class="tr">I always ask a lot of questions in class.</div>
+<div class="verb">feltesz — <span class="vtr">to ask (a question)</span> <span class="inf">(feltenni)</span></div>
+</div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#104 imád &middot; 1 Listening HU->Tr</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#104</div>
+<div class="hu"><span class="vf">Imádom</span> a csokoládét.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#104</div>
+<div class="hu"><span class="vf">Imádom</span> a csokoládét.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<hr id=answer>
+<div class="tr">I love chocolate.</div>
+<div class="verb">imád — <span class="vtr">to love / to adore</span></div>
+<div class="inf">imádni</div>
+</div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#104 imád &middot; 2 Recall Tr->HU</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#104</div>
+<div class="tr">I love chocolate.</div>
+<div class="hint">to love / to adore</div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#104</div>
+<div class="tr">I love chocolate.</div>
+<div class="hint">to love / to adore</div>
+<hr id=answer>
+<div class="hu"><span class="vf">Imádom</span> a csokoládét.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="verb">imád <span class="inf">(imádni)</span></div>
+</div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#104 imád &middot; 3 Pure audio->HU+Tr</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#104</div>
+<div class="audio2 audio-big"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="hint">?</div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#104</div>
+<div class="audio2 audio-big"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="hint">?</div>
+<hr id=answer>
+<div class="hu"><span class="vf">Imádom</span> a csokoládét.</div>
+<div class="tr">I love chocolate.</div>
+<div class="verb">imád — <span class="vtr">to love / to adore</span> <span class="inf">(imádni)</span></div>
+</div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#362 lelő &middot; 1 Listening HU->Tr</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#362</div>
+<div class="hu">Egy nyulat <span class="vf">lőtt le</span> a réten.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#362</div>
+<div class="hu">Egy nyulat <span class="vf">lőtt le</span> a réten.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<hr id=answer>
+<div class="tr">He shot a rabbit dead in the meadow.</div>
+<div class="verb">lelő — <span class="vtr">to shoot dead</span></div>
+<div class="inf">lelőni</div>
+<div class="badges"><span class="badge reg-violent">⚠ violent</span></div></div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#362 lelő &middot; 2 Recall Tr->HU</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#362</div>
+<div class="tr">He shot a rabbit dead in the meadow.</div>
+<div class="hint">to shoot dead</div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#362</div>
+<div class="tr">He shot a rabbit dead in the meadow.</div>
+<div class="hint">to shoot dead</div>
+<hr id=answer>
+<div class="hu">Egy nyulat <span class="vf">lőtt le</span> a réten.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="verb">lelő <span class="inf">(lelőni)</span></div>
+<div class="badges"><span class="badge reg-violent">⚠ violent</span></div></div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#362 lelő &middot; 3 Pure audio->HU+Tr</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#362</div>
+<div class="audio2 audio-big"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="hint">?</div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#362</div>
+<div class="audio2 audio-big"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="hint">?</div>
+<hr id=answer>
+<div class="hu">Egy nyulat <span class="vf">lőtt le</span> a réten.</div>
+<div class="tr">He shot a rabbit dead in the meadow.</div>
+<div class="verb">lelő — <span class="vtr">to shoot dead</span> <span class="inf">(lelőni)</span></div>
+<div class="badges"><span class="badge reg-violent">⚠ violent</span></div></div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#917 felhoz &middot; 1 Listening HU->Tr</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#917</div>
+<div class="hu">Mindig ezt a témát <span class="vf">hozza fel</span> a vacsoránál.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#917</div>
+<div class="hu">Mindig ezt a témát <span class="vf">hozza fel</span> a vacsoránál.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<hr id=answer>
+<div class="tr">He always brings up this topic at dinner.</div>
+<div class="verb">felhoz — <span class="vtr">to bring up, to raise (a topic)</span></div>
+<div class="inf">felhozni</div>
+</div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#917 felhoz &middot; 2 Recall Tr->HU</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#917</div>
+<div class="tr">He always brings up this topic at dinner.</div>
+<div class="hint">to bring up, to raise (a topic)</div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#917</div>
+<div class="tr">He always brings up this topic at dinner.</div>
+<div class="hint">to bring up, to raise (a topic)</div>
+<hr id=answer>
+<div class="hu">Mindig ezt a témát <span class="vf">hozza fel</span> a vacsoránál.</div>
+<div class="audio2"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="verb">felhoz <span class="inf">(felhozni)</span></div>
+</div></div>
+        </div>
+      </div>
+
+      <div class="demo">
+        <div class="demo-title">#917 felhoz &middot; 3 Pure audio->HU+Tr</div>
+        <div class="pair">
+          <div class="side"><div class="side-lbl">FRONT</div><div class="card"><div class="num">#917</div>
+<div class="audio2 audio-big"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="hint">?</div></div></div>
+          <div class="side"><div class="side-lbl">BACK</div><div class="card"><div class="num">#917</div>
+<div class="audio2 audio-big"><span class="play"><a class="replay-button soundLink" href="#" onclick="return false"><svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="29"/><path d="M56.502,32.301l-37.502,21.654l0,-43.308l37.502,21.654Z"/></svg></a></span></div>
+<div class="hint">?</div>
+<hr id=answer>
+<div class="hu">Mindig ezt a témát <span class="vf">hozza fel</span> a vacsoránál.</div>
+<div class="tr">He always brings up this topic at dinner.</div>
+<div class="verb">felhoz — <span class="vtr">to bring up, to raise (a topic)</span> <span class="inf">(felhozni)</span></div>
+</div></div>
+        </div>
+      </div></div>
+</div>
+</body></html>

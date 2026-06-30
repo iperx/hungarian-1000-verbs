@@ -1,0 +1,7 @@
+# Heavy binaries (Anki decks, audio packs, listening tracks) are distributed via
+# GitHub Releases, NOT committed to git. They live here locally, ready to upload.
+dist/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db

@@ -1,0 +1,1001 @@
+﻿№,Ige (HU),Infinitivus,Példamondat (HU),Verb (EN),Sentence (EN),Audio
+1,van,lenni,Ő most az iskolában van.,to be,She is at school right now.,0001_van_m.mp3
+2,tud,tudni,Nem tudok jól úszni.,"to be able to, can",I can't swim well.,0002_tud_m.mp3
+3,lesz,lenni,Holnap otthon leszünk egész nap.,to be (future),We'll be home all day tomorrow.,0003_lesz_m.mp3
+4,kell,kelleni,Holnap korán kell kelnem.,"to need to, must",I have to get up early tomorrow.,0004_kell_m.mp3
+5,mond,mondani,Mindig igazat mondok neked.,"to tell, to say",I always tell you the truth.,0005_mond_m.mp3
+6,akar,akarni,Ma este pizzát akarok enni.,to want,I want to eat pizza tonight.,0006_akar_m.mp3
+7,jön,jönni,Holnap busszal jövök az iskolába.,"to come, to arrive",Tomorrow I'm coming to school by bus.,0007_jon_m.mp3
+8,megy,menni,Holnap moziba megyek a barátommal.,to go,Tomorrow I'm going to the cinema with my friend.,0008_megy_m.mp3
+9,fog,fogni,Erősen fogom a kezedet.,"to hold, to grasp",I'm holding your hand tightly.,0009_fog_m.mp3
+10,lát,látni,Innen jól látom a tengert.,to see,I see the sea clearly from here.,0010_lat_m.mp3
+11,hisz,hinni,Nem hiszek neked.,to believe,I don't believe you.,0011_hisz_m.mp3
+12,tesz,tenni,A kulcsot mindig az asztalra teszem.,"to put, to place",I always put the key on the table.,0012_tesz_m.mp3
+13,csinál,csinálni,Most a házi feladatomat csinálom.,to do,I'm doing my homework right now.,0013_csinal_m.mp3
+14,szeret,szeretni,Nagyon szeretem a meleg nyári estéket.,"to love, to like",I really love warm summer evenings.,0014_szeret_m.mp3
+15,nincs,lenni,Ma nincs időm a boltba menni.,to not have / there is no,I don't have time to go to the shop today.,0015_nincs_m.mp3
+16,néz,nézni,Este szívesen nézek filmet.,to watch,I like watching a film in the evening.,0016_nez_m.mp3
+17,kér,kérni,"Kérek egy pohár vizet, legyen szíves.",to ask for,"I'd like to ask for a glass of water, please.",0017_ker_m.mp3
+18,beszél,beszélni,Jól beszélek magyarul.,to speak,I speak Hungarian well.,0018_beszel_m.mp3
+19,gondol,gondolni,Gyakran gondolok a nyaralásra.,to think about,I often think about holidays.,0019_gondol_m.mp3
+20,ért,érteni,Most már jól értem a feladatot.,to understand,I understand the task well now.,0020_ert_m.mp3
+21,vár,várni,A buszra várok a megállóban.,to wait (for),I'm waiting for the bus at the stop.,0021_var_m.mp3
+22,köszön,köszönni,Reggel mindig köszönök a szomszédoknak.,"to say hello, to greet",I always say hello to the neighbors in the morning.,0022_koszon_m.mp3
+23,ad,adni,Most adok neked egy pohár vizet.,to give,I'm giving you a glass of water right now.,0023_ad_m.mp3
+24,vesz,venni,Reggel mindig veszek friss kenyeret.,to buy,I always buy fresh bread in the morning.,0024_vesz_m.mp3
+25,hagy,hagyni,A kulcsot az asztalon hagytam.,to leave (behind),I left the key on the table.,0025_hagy_m.mp3
+26,áll,állni,A buszmegállóban állok és várok.,to stand,I'm standing at the bus stop and waiting.,0026_all_m.mp3
+27,tart,tartani,A film két óráig tart.,"to last, to run",The movie lasts two hours.,0027_tart_m.mp3
+28,talál,találni,Mindig találok jó könyveket a könyvtárban.,to find,I always find good books at the library.,0028_talal_m.mp3
+29,marad,maradni,Ma este otthon maradok.,to stay,I'm staying home tonight.,0029_marad_m.mp3
+30,hív,hívni,Este mindig hívlak telefonon.,to call,I always call you on the phone in the evening.,0030_hiv_m.mp3
+31,hall,hallani,Jól hallak a telefonon.,to hear,I can hear you well on the phone.,0031_hall_m.mp3
+32,sajnál,sajnálni,Nagyon sajnálom ezt a hibát.,"to be sorry, to regret",I'm very sorry about this mistake.,0032_sajnal_m.mp3
+33,kap,kapni,Minden reggel friss kenyeret kapok a boltban.,"to get, to receive",Every morning I get fresh bread at the shop.,0033_kap_m.mp3
+34,érez,érezni,Ma reggel nagyon jól érzem magam.,to feel,I feel really good this morning.,0034_erez_m.mp3
+35,segít,segíteni,Szívesen segítek neked holnap.,to help,I'll gladly help you tomorrow.,0035_segit_m.mp3
+36,hoz,hozni,Mindig hozok ajándékot a buliba.,to bring,I always bring a gift to the party.,0036_hoz_m.mp3
+37,ismer,ismerni,Jól ismerem ezt a várost.,"to know, to be familiar with",I know this city well.,0037_ismer_m.mp3
+38,figyel,figyelni,Most figyelek a tanárra.,"to pay attention, to listen carefully",I'm paying attention to the teacher right now.,0038_figyel_m.mp3
+39,dolgozik,dolgozni,Egy nagy gyárban dolgozom.,to work,I work in a big factory.,0039_dolgozik_m.mp3
+40,él,élni,Egy kis faluban élek.,to live,I live in a small village.,0040_el_m.mp3
+41,találkozik,találkozni,Holnap találkozunk a kávézóban.,to meet up,Tomorrow we're meeting up at the café.,0041_talalkozik_m.mp3
+42,próbál,próbálni,Ma este próbálunk korán lefeküdni.,to try,Tonight we're trying to go to bed early.,0042_probal_m.mp3
+43,keres,keresni,A munkámmal jól keresek.,to earn,I earn good money at my job.,0043_keres_m.mp3
+44,tűnik,tűnni,Ma nagyon fáradtnak tűnsz.,"to seem, to look",You look very tired today.,0044_tunik_m.mp3
+45,szól,szólni,A telefonom most szól a táskában.,to ring,My phone is ringing in my bag right now.,0045_szol_m.mp3
+46,kezd,kezdeni,Reggel mindig kávéval kezdem a napot.,to start,In the morning I always start my day with coffee.,0046_kezd_m.mp3
+47,elmegy,elmenni,Holnap reggel elmegyek a boltba.,"to go, to head out",Tomorrow morning I'm going to the shop.,0047_elmegy_m.mp3
+48,meghal,meghalni,Majdnem meghaltam a nevetéstől.,to die,I almost died laughing.,0048_meghal_m.mp3
+49,jelent,jelenteni,"Ez a szó magyarul „víz""-et jelent.",to mean,"This word means ""water"" in Hungarian.",0049_jelent_m.mp3
+50,visz,vinni,Holnap viszek egy könyvet a barátomnak.,"to bring, to take",Tomorrow I'm taking a book to my friend.,0050_visz_m.mp3
+51,lehet,lehetni,Itt nem lehet parkolni.,to be possible; to be allowed,You can't park here.,0051_lehet_m.mp3
+52,jár,járni,Minden reggel gyalog járok dolgozni.,"to go, to walk",Every morning I walk to work.,0052_jar_m.mp3
+53,megöl,megölni,Tegnap megöltem egy farkast.,to kill,Yesterday I killed a wolf.,0053_megol_m.mp3
+54,ér,érni,Ez nagyon sokat ér nekem.,"to be worth, to mean (a lot)",This means a lot to me.,0054_er_m.mp3
+55,elmond,elmondani,Holnap elmondom neked a titkomat.,"to tell, to share",Tomorrow I'll tell you my secret.,0055_elmond_m.mp3
+56,emlékszik,emlékezni,Jól emlékszem a tegnapi napra.,to remember,I remember yesterday clearly.,0056_emlekszik_m.mp3
+57,örül,örülni,Nagyon örülök az ajándéknak.,"to be glad about, to be happy about",I'm very happy about the gift.,0057_orul_m.mp3
+58,öl,ölni,A macska gyakran öl egeret.,to kill,The cat often kills mice.,0058_ol_m.mp3
+59,ír,írni,Minden reggel írok egy üzenetet.,to write,Every morning I write a message.,0059_ir_m.mp3
+60,enged,engedni,Nem engedi a kutyát az ágyra.,"to let, to allow",He doesn't let the dog on the bed.,0060_enged_m.mp3
+61,remél,remélni,"Remélem, holnap szép idő lesz.",to hope,I hope the weather will be nice tomorrow.,0061_remel_m.mp3
+62,használ,használni,Minden nap használom ezt a szótárt.,to use,I use this dictionary every day.,0062_hasznal_m.mp3
+63,megtalál,megtalálni,Végre megtaláltam a kulcsomat a táskában.,to find,I finally found my key in the bag.,0063_megtalal_m.mp3
+64,érdekel,érdekelni,Engem nagyon érdekel a magyar történelem.,to be interested in,I am very interested in Hungarian history.,0064_erdekel_m.mp3
+65,aggódik,aggódni,Mindig aggódom a vizsga előtt.,to worry,I always worry before the exam.,0065_aggodik_m.mp3
+66,megvan,meglenni,"Megvan a kulcsom, mehetünk.",to have (with one),"I have my key, we can go.",0066_megvan_m.mp3
+67,ül,ülni,Este a kanapén ülök és olvasok.,to sit,In the evening I sit on the sofa and read.,0067_ul_m.mp3
+68,tetszik,tetszeni,Nagyon tetszik ez a piros kabát.,to like (to appeal to),I really like this red coat.,0068_tetszik_m.mp3
+69,tehet,tehetni,"Holnap azt teheted, amit akarsz.","can do, to be free to do",Tomorrow you can do whatever you want.,0069_tehet_m.mp3
+70,hal,halni,Te is éhen halsz egyszer.,to die (of hunger),You will also starve to death one day.,0070_hal_m.mp3
+71,kerül,kerülni,Mennyibe kerül ez a kávé?,to cost,How much does this coffee cost?,0071_kerul_m.mp3
+72,történik,történni,Mi történik most odakint?,"to happen, to be going on",What is happening outside right now?,0072_tortenik_m.mp3
+73,megtesz,megtenni,Mindent megteszek a sikerért.,to do everything one can,I do everything I can to succeed.,0073_megtesz_m.mp3
+74,kérdez,kérdezni,Mindig sokat kérdezek az órán.,to ask (questions),I always ask a lot of questions in class.,0074_kerdez_m.mp3
+75,mutat,mutatni,A térképen mutatom az utat.,to show,I am showing the way on the map.,0075_mutat_m.mp3
+76,játszik,játszani,A gyerekek délután a parkban játszanak.,to play,The children play in the park in the afternoon.,0076_jatszik_m.mp3
+77,végez,végezni,Ma korán végzek a munkával.,"to finish, to be done with",I am finishing work early today.,0077_vegez_m.mp3
+78,hallgat,hallgatni,Esténként szívesen hallgatok zenét.,to listen to,In the evenings I enjoy listening to music.,0078_hallgat_m.mp3
+79,küld,küldeni,Minden reggel küldök egy üzenetet a barátomnak.,to send,Every morning I send a message to my friend.,0079_kuld_m.mp3
+80,számít,számítani,"Mindig számíthatsz rám, ha baj van.","to count on, to rely on",You can always count on me if something goes wrong.,0080_szamit_m.mp3
+81,követ,követni,Minden reggel követem a híreket.,to follow (the news),Every morning I follow the news.,0081_kovet_m.mp3
+82,eszik,enni,Reggel mindig kenyeret eszem.,to eat,I always eat bread in the morning.,0082_eszik_m.mp3
+83,vigyáz,vigyázni,"Vigyázz, nagyon csúszós az út!","to be careful, to watch out","Watch out, the road is very slippery!",0083_vigyaz_m.mp3
+84,jut,jutni,Hogyan jutok a pályaudvarra?,"to get (somewhere), to reach",How do I get to the train station?,0084_jut_m.mp3
+85,alszik,aludni,Este mindig sokat alszom.,to sleep,I always sleep a lot in the evening.,0085_alszik_m.mp3
+86,megért,megérteni,Végre megértettem a feladatot.,"to understand, to figure out",I finally understood the task.,0086_megert_m.mp3
+87,ég,égni,A napon gyorsan égek.,"to burn (in the sun), to get sunburned",I burn quickly in the sun.,0087_eg_m.mp3
+88,mehet,mehetni,Most már mehetsz haza.,"can go, may go",You can go home now.,0088_mehet_m.mp3
+89,szerez,szerezni,Holnap szerzek két jegyet a koncertre.,"to get, to obtain",Tomorrow I'll get two tickets for the concert.,0089_szerez_m.mp3
+90,megpróbál,megpróbálni,Holnap megpróbálom megfőzni a levest.,"to try, to attempt",Tomorrow I'll try to cook the soup.,0090_megprobal_m.mp3
+91,indul,indulni,Holnap reggel hatkor indulunk a tengerhez.,"to set off, to head out",Tomorrow morning at six we're setting off for the sea.,0091_indul_m.mp3
+92,iszik,inni,Reggel mindig kávét iszik.,to drink,He always drinks coffee in the morning.,0092_iszik_m.mp3
+93,fizet,fizetni,Mindig kártyával fizetek a boltban.,to pay,I always pay by card at the store.,0093_fizet_m.mp3
+94,vezet,vezetni,Minden reggel autót vezetek.,to drive,I drive a car every morning.,0094_vezet_m.mp3
+95,sikerül,sikerülni,Végre sikerült megtalálnom a kulcsot.,"to manage, to succeed in",I finally managed to find the key.,0095_sikerul_m.mp3
+96,eljön,eljönni,Holnap este eljövök hozzátok vacsorára.,to come over,Tomorrow evening I'll come over to your place for dinner.,0096_eljon_m.mp3
+97,működik,működni,A telefonom most jól működik.,"to work, to function",My phone is working well now.,0097_mukodik_m.mp3
+98,fogad,fogadni,Ma este vendégeket fogadunk.,"to receive, to host",We're hosting guests tonight.,0098_fogad_m.mp3
+99,állít,állítani,"Mindig azt állítja, hogy igaza van.","to claim, to insist",He always claims that he is right.,0099_allit_m.mp3
+100,megmond,megmondani,Mindjárt megmondom neked az igazat.,to tell,I'll tell you the truth right now.,0100_megmond_m.mp3
+101,nyit,nyitni,Reggel nyolckor nyitom az üzletet.,to open,I open the shop at eight in the morning.,0101_nyit_m.mp3
+102,esik,esni,Ma egész nap esik az eső.,to rain / to fall,It is raining all day today.,0102_esik_m.mp3
+103,elvisz,elvinni,Holnap elviszlek az állomásra.,to take (someone somewhere),I'll take you to the station tomorrow.,0103_elvisz_m.mp3
+104,imád,imádni,Imádom a csokoládét.,to love / to adore,I love chocolate.,0104_imad_m.mp3
+105,folyik,folyni,A víz lassan folyik a csapból.,to run / to flow,The water runs slowly from the tap.,0105_folyik_m.mp3
+106,felejt,felejteni,Mindig itt felejtem a kulcsomat.,to forget / to leave behind,I always forget my key here.,0106_felejt_m.mp3
+107,lép,lépni,Óvatosan lépek a jeges úton.,to step / to tread,I step carefully on the icy road.,0107_lep_m.mp3
+108,nyer,nyerni,Tegnap nyertem egy szép könyvet.,to win,Yesterday I won a nice book.,0108_nyer_m.mp3
+109,megnéz,megnézni,Este megnézünk egy jó filmet.,to watch / to see,We're going to watch a good film tonight.,0109_megnez_m.mp3
+110,hazudik,hazudni,"Néha hazudik, hogy ne legyen baj.",to lie,Sometimes he lies to avoid trouble.,0110_hazudik_m.mp3
+111,dönt,dönteni,Holnap döntök az új munkáról.,to decide,Tomorrow I'll decide on the new job.,0111_dont_m.mp3
+112,meglát,meglátni,Végre megláttam a tengert!,"to see, to spot",I finally saw the sea!,0112_meglat_m.mp3
+113,rájön,rájönni,Végre rájöttem a megoldásra.,"to figure out, to realize",I finally figured out the solution.,0113_rajon_m.mp3
+114,bír,bírni,Nem bírom tovább ezt a meleget.,"to stand, to bear",I can't stand this heat any longer.,0114_bir_m.mp3
+115,száll,szállni,Holnap repülőre szállunk.,"to board, to get on",Tomorrow we're boarding a plane.,0115_szall_m.mp3
+116,utál,utálni,Nagyon utálom a hideg időt.,to hate,I really hate cold weather.,0116_utal_m.mp3
+117,elkap,elkapni,Gyorsan elkaptam a labdát.,to catch,I quickly caught the ball.,0117_elkap_m.mp3
+118,hangzik,hangzani,Ez a dal nagyon szépen hangzik.,to sound,This song sounds really beautiful.,0118_hangzik_m.mp3
+119,hat,hatni,Te jól hatsz rám.,to influence,You have a good influence on me.,0119_hat_m.mp3
+120,tölt,tölteni,Sok időt töltök otthon hétvégén.,to spend (time),I spend a lot of time at home on weekends.,0120_tolt_m.mp3
+121,tanul,tanulni,Minden este magyarul tanulok otthon.,to study / to learn,Every evening I study Hungarian at home.,0121_tanul_m.mp3
+122,megkap,megkapni,Tegnap megkaptam az új telefonomat.,to receive / to get,Yesterday I got my new phone.,0122_megkap_m.mp3
+123,olvas,olvasni,Esténként szívesen olvasok egy jó könyvet.,to read,In the evenings I love reading a good book.,0123_olvas_m.mp3
+124,tartozik,tartozni,Még tíz euróval tartozom neked.,to owe,I still owe you ten euros.,0124_tartozik_m.mp3
+125,folytat,folytatni,Holnap folytatjuk a munkát.,to continue,Tomorrow we will continue the work.,0125_folytat_m.mp3
+126,megtud,megtudni,Holnap megtudom az eredményt.,to find out,Tomorrow I will find out the result.,0126_megtud_m.mp3
+127,húz,húzni,Most húzom a nehéz bőröndöt.,to drag / to pull,I am dragging the heavy suitcase right now.,0127_huz_m.mp3
+128,felhív,felhívni,Holnap reggel felhívom az orvost.,to call / to phone,Tomorrow morning I will call the doctor.,0128_felhiv_m.mp3
+129,lő,lőni,Most a nyúlra lövök.,to shoot,I am shooting at the rabbit right now.,0129_lo_m.mp3
+130,mesél,mesélni,Esténként mindig mesél a barátainak.,to tell stories,Every evening he tells his friends stories.,0130_mesel_m.mp3
+131,képzel,képzelni,Gyakran szebb jövőt képzelek magamnak.,"to imagine, to picture",I often imagine a better future for myself.,0131_kepzel_m.mp3
+132,lakik,lakni,Egy kis faluban lakom.,to live,I live in a small village.,0132_lakik_m.mp3
+133,szokik,szokni,Reggel kávét szoktam inni.,"to usually do, to tend to do",I usually drink coffee in the morning.,0133_szokik_m.mp3
+134,hiányzik,hiányozni,Nagyon hiányzol nekem ma.,to miss (someone),I miss you so much today.,0134_hianyzik_m.mp3
+135,tér,térni,Most másik útra térünk.,"to turn (onto), to switch (to)",Now we are turning onto a different road.,0135_ter_m.mp3
+136,elfelejt,elfelejteni,Tegnap elfelejtettem a nevedet.,to forget,Yesterday I forgot your name.,0136_elfelejt_m.mp3
+137,fáj,fájni,Reggel óta fáj a fejem.,"to hurt, to ache",My head has been hurting since this morning.,0137_faj_m.mp3
+138,fordít,fordítani,Minden este angol szöveget fordítok.,to translate,Every evening I translate an English text.,0138_fordit_m.mp3
+139,készül,készülni,Holnap egy nehéz vizsgára készülök.,"to prepare (for), to study for",Tomorrow I am preparing for a difficult exam.,0139_keszul_m.mp3
+140,siet,sietni,Reggel mindig sietek a munkába.,"to hurry, to rush",I always rush to work in the morning.,0140_siet_m.mp3
+141,készít,készíteni,Ma finom levest készítek ebédre.,"to make, to prepare",Today I'm making a delicious soup for lunch.,0141_keszit_m.mp3
+142,dob,dobni,A labdát messzire dobom.,to throw,I throw the ball far away.,0142_dob_m.mp3
+143,tűz,tűzni,Nyáron a nap erősen tűz délben.,to beat down (of the sun),In summer the sun beats down hard at noon.,0143_tuz_m.mp3
+144,elkezd,elkezdeni,Tegnap elkezdtem egy új könyvet.,"to start, to begin",Yesterday I started a new book.,0144_elkezd_m.mp3
+145,beszélget,beszélgetni,Esténként szívesen beszélgetünk a teraszon.,"to chat, to talk",In the evenings we love to chat on the terrace.,0145_beszelget_m.mp3
+146,válaszol,válaszolni,Mindig gyorsan válaszolok az emailekre.,"to reply, to respond",I always reply to emails quickly.,0146_valaszol_m.mp3
+147,megcsinál,megcsinálni,Holnap megcsinálom a házi feladatot.,"to do, to complete",Tomorrow I'll do my homework.,0147_megcsinal_m.mp3
+148,válik,válni,Lassan jó barátokká válunk.,to become,We are slowly becoming good friends.,0148_valik_m.mp3
+149,zavar,zavarni,"Ne haragudj, zavarlak egy percre?","to bother, to disturb","Sorry, can I bother you for a minute?",0149_zavar_m.mp3
+150,fordul,fordulni,Most jobbra fordulunk a sarkon.,to turn,We're turning right at the corner now.,0150_fordul_m.mp3
+151,fut,futni,Reggel mindig futok a parkban.,to run / to jog,I always run in the park in the morning.,0151_fut_m.mp3
+152,okoz,okozni,A vihar sok kárt okozott tegnap.,to cause / to do (damage),The storm caused a lot of damage yesterday.,0152_okoz_m.mp3
+153,választ,választani,Mindig csokoládés fagylaltot választok.,to choose / to pick,I always choose chocolate ice cream.,0153_valaszt_m.mp3
+154,vág,vágni,Most vágom a kenyeret.,to cut / to slice,I'm cutting the bread right now.,0154_vag_m.mp3
+155,ígér,ígérni,Ígérek neked egy könyvet.,to promise,I promise you a book.,0155_iger_m.mp3
+156,visszajön,visszajönni,Holnap visszajövök a könyvért.,to come back / to return,I'll come back tomorrow for the book.,0156_visszajon_m.mp3
+157,harcol,harcolni,A katonák bátran harcolnak a háborúban.,to fight / to combat,The soldiers fight bravely in the war.,0157_harcol_m.mp3
+158,sír,sírni,Egész éjjel sírtam.,to cry / to weep,I cried all night.,0158_sir_m.mp3
+159,elveszt,elveszteni,Tegnap elvesztettem a kulcsomat a parkban.,to lose,Yesterday I lost my key in the park.,0159_elveszt_m.mp3
+160,megmutat,megmutatni,Holnap megmutatom neked a várost.,to show,Tomorrow I'll show you the city.,0160_megmutat_m.mp3
+161,csúszik,csúszni,Télen gyakran csúszom a jégen.,"to slip, to slide",In winter I often slip on the ice.,0161_csuszik_m.mp3
+162,látszik,látszani,A hegyek tisztán látszanak innen.,"to be visible, to be seen",The mountains are clearly visible from here.,0162_latszik_m.mp3
+163,téved,tévedni,Néha én is tévedek a számolásban.,"to be wrong, to make a mistake",Sometimes I make mistakes in math too.,0163_teved_m.mp3
+164,üt,ütni,Néha ütöm a labdát.,"to hit, to strike",Sometimes I hit the ball.,0164_ut_m.mp3
+165,viccel,viccelni,"Csak viccelek, ne haragudj!","to joke, to kid","I'm just kidding, don't be mad!",0165_viccel_m.mp3
+166,bánt,bántani,"Ne bánts engem, kérlek!","to hurt, to harm",Please don't hurt me!,0166_bant_m.mp3
+167,érkezik,érkezni,A vonat tíz perc múlva érkezik.,to arrive,The train arrives in ten minutes.,0167_erkezik_m.mp3
+168,megment,megmenteni,Tegnap megmentette a kutyát a folyóból.,"to save, to rescue",Yesterday he rescued the dog from the river.,0168_megment_m.mp3
+169,foglalkozik,foglalkozni,Esténként szívesen foglalkozom a kutyámmal.,"to spend time with, to deal with",In the evenings I enjoy spending time with my dog.,0169_foglalkozik_m.mp3
+170,létezik,létezni,Szerintem léteznek földönkívüliek valahol.,to exist,I think aliens exist somewhere.,0170_letezik_m.mp3
+171,nevez,nevezni,Minek nevezed ezt magyarul?,"to call, to name",What do you call this in Hungarian?,0171_nevez_m.mp3
+172,haragszik,haragudni,Sokszor haragszom a rossz időjárás miatt.,"to get angry, to be angry",I often get angry because of bad weather.,0172_haragszik_m.mp3
+173,visel,viselni,Télen mindig meleg sapkát viselek.,to wear,In winter I always wear a warm hat.,0173_visel_m.mp3
+174,kedvel,kedvelni,Nagyon kedvelem a kollégáimat.,"to like, to be fond of",I really like my colleagues.,0174_kedvel_m.mp3
+175,elhagy,elhagyni,Reggel elhagytam a házat.,to leave,I left the house in the morning.,0175_elhagy_m.mp3
+176,elvesz,elvenni,Elvette a jogosítványomat.,to take away,He took away my driver's license.,0176_elvesz_m.mp3
+177,megtörténik,megtörténni,Velem is megtörtént ez tegnap.,to happen,This happened to me yesterday too.,0177_megtortenik_m.mp3
+178,elér,elérni,Tegnap végre elértem a barátomat telefonon.,"to reach (by phone), to get through to",Yesterday I finally reached my friend by phone.,0178_eler_m.mp3
+179,felvesz,felvenni,Reggel gyorsan felveszem a kabátomat.,to put on (clothing),In the morning I quickly put on my coat.,0179_felvesz_m.mp3
+180,gondolkodik,gondolkodni,Most a válaszon gondolkodom.,"to think about, to consider",I am thinking about the answer right now.,0180_gondolkodik_m.mp3
+181,bízik,bízni,Mindig bízom a barátaimban.,to trust,I always trust my friends.,0181_bizik_m.mp3
+182,bán,bánni,Most már nagyon bánom a döntésemet.,to regret,I really regret my decision now.,0182_ban_m.mp3
+183,változik,változni,Tavasszal gyorsan változik az időjárás.,to change,"In spring, the weather changes quickly.",0183_valtozik_m.mp3
+184,kíván,kívánni,Boldog születésnapot kívánok neked!,to wish,I wish you a happy birthday!,0184_kivan_m.mp3
+185,esküszik,esküdni,"Esküszöm, hogy mindig igazat mondok.",to swear,I swear that I always tell the truth.,0185_eskuszik_m.mp3
+186,szed,szedni,Reggelente vitamint szedek.,to take,I take vitamins every morning.,0186_szed_m.mp3
+187,elintéz,elintézni,Holnap elintézem ezt a dolgot.,"to sort out, to take care of",I'll take care of this tomorrow.,0187_elintez_m.mp3
+188,visszatér,visszatérni,Holnap visszatérek a munkába.,"to return, to go back",I'm going back to work tomorrow.,0188_visszater_m.mp3
+189,kezdődik,kezdődni,A film este nyolckor kezdődik.,"to start, to begin",The film starts at eight in the evening.,0189_kezdodik_m.mp3
+190,árul,árulni,A piacon friss gyümölcsöt árulnak.,to sell,They sell fresh fruit at the market.,0190_arul_m.mp3
+191,élvez,élvezni,Nyáron nagyon élvezem a tengerpartot.,to enjoy,In summer I really enjoy the beach.,0191_elvez_m.mp3
+192,zár,zárni,Este mindig kulcsra zárom az ajtót.,to lock,In the evening I always lock the door.,0192_zar_m.mp3
+193,gratulál,gratulálni,Szívből gratulálok a sikeredhez!,to congratulate,I wholeheartedly congratulate you on your success!,0193_gratulal_m.mp3
+194,elfogad,elfogadni,Mindig elfogadom a segítségedet.,to accept,I always accept your help.,0194_elfogad_m.mp3
+195,befejez,befejezni,Holnap befejezem a munkát.,to finish,I will finish the work tomorrow.,0195_befejez_m.mp3
+196,megígér,megígérni,"Megígérem, hogy holnap korán jövök.",to promise,I promise that I will come early tomorrow.,0196_megiger_m.mp3
+197,tervez,tervezni,Nyáron Olaszországba tervezünk utazni.,to plan,We are planning to travel to Italy in the summer.,0197_tervez_m.mp3
+198,megkér,megkérni,Megkértem őt egy kis segítségre.,to ask (for help),I asked him for a little help.,0198_megker_m.mp3
+199,megkérdez,megkérdezni,Megkérdezem az utat egy rendőrtől.,to ask (directions),I will ask a police officer for directions.,0199_megkerdez_m.mp3
+200,elhisz,elhinni,Nem hiszem el ezt a történetet.,to believe,I don't believe this story.,0200_elhisz_m.mp3
+201,kitalál,kitalálni,Sosem tudom kitalálni a jó megoldást.,to figure out,I can never figure out the right solution.,0201_kitalal_m.mp3
+202,táncol,táncolni,Este szívesen táncolunk a barátainkkal.,to dance,In the evenings we love dancing with our friends.,0202_tancol_m.mp3
+203,szórakozik,szórakozni,Esténként a barátaimmal szórakozom.,"to have fun, to enjoy oneself",In the evenings I have fun with my friends.,0203_szorakozik_m.mp3
+204,véd,védeni,A kapus jól védi a kaput a meccsen.,"to defend, to guard",The goalkeeper defends the goal well during the match.,0204_ved_m.mp3
+205,ver,verni,Erősen verem az ajtót.,"to bang, to pound",I am banging hard on the door.,0205_ver_m.mp3
+206,törődik,törődni,Sokat törődöm az egészségemmel.,"to take care of, to look after",I take care of my health a lot.,0206_torodik_m.mp3
+207,változtat,változtatni,Néha változtatok a terveimen.,"to change, to alter",Sometimes I change my plans.,0207_valtoztat_m.mp3
+208,tör,törni,Néha török egy poharat.,to break,Sometimes I break a glass.,0208_tor_m.mp3
+209,halad,haladni,A vonat gyorsan halad a hegyek között.,"to move, to travel",The train moves quickly through the mountains.,0209_halad_m.mp3
+210,kel,kelni,Minden reggel hatkor kelek.,"to get up, to rise",I get up at six every morning.,0210_kel_m.mp3
+211,kezel,kezelni,Jól kezelem a betegeket.,to treat (patients),I treat patients well.,0211_kezel_m.mp3
+212,kapcsol,kapcsolni,Most a másik csatornára kapcsolok.,to switch (channels),I'm switching to the other channel now.,0212_kapcsol_m.mp3
+213,támad,támadni,Néha a kutyák hirtelen támadnak.,to attack,Sometimes dogs attack suddenly.,0213_tamad_m.mp3
+214,ellop,ellopni,Tegnap ellopták a biciklimet.,to steal,Someone stole my bicycle yesterday.,0214_ellop_m.mp3
+215,megold,megoldani,Gyorsan megoldottam a feladatot.,"to solve, to complete",I solved the task quickly.,0215_megold_m.mp3
+216,megvéd,megvédeni,Mindig megvédelek a barátaid előtt.,"to defend, to stand up for",I always stand up for you in front of your friends.,0216_megved_m.mp3
+217,intéz,intézni,Holnap intézem a banki ügyeket.,"to take care of, to sort out",I'm sorting out my banking tomorrow.,0217_intez_m.mp3
+218,mer,merni,Nem merek éjszaka egyedül hazamenni.,to dare,I don't dare go home alone at night.,0218_mer_m.mp3
+219,rak,rakni,A könyveket az asztalra rakom.,"to put, to place",I'm putting the books on the table.,0219_rak_m.mp3
+220,irányít,irányítani,Ő irányítja a nagy projektet.,"to manage, to lead",They manage the big project.,0220_iranyit_m.mp3
+221,bejön,bejönni,Mindig korán bejövök az irodába.,to come in,I always come into the office early.,0221_bejon_m.mp3
+222,gondolkozik,gondolkozni,Most a holnapi vacsorán gondolkozom.,to think about,I'm thinking about tomorrow's dinner right now.,0222_gondolkozik_m.mp3
+223,ellenőriz,ellenőrizni,Reggel mindig ellenőrzöm az e-mailjeimet.,"to check, to verify",I always check my emails in the morning.,0223_ellenoriz_m.mp3
+224,visszamegy,visszamenni,Holnap visszamegyek a boltba.,"to go back, to return",I'm going back to the store tomorrow.,0224_visszamegy_m.mp3
+225,bizonyít,bizonyítani,A rendőröknek könnyen bizonyítottam az igazamat.,"to prove, to demonstrate",I easily proved my point to the police officers.,0225_bizonyit_m.mp3
+226,megváltozik,megváltozni,Az időjárás hirtelen megváltozott délután.,"to change, to shift",The weather suddenly changed in the afternoon.,0226_megvaltozik_m.mp3
+227,énekel,énekelni,A zuhany alatt mindig énekelek.,to sing,I always sing in the shower.,0227_enekel_m.mp3
+228,bemegy,bemenni,Reggel korán bemegyek az irodába.,"to go in, to head into (a place)",I go into the office early in the morning.,0228_bemegy_m.mp3
+229,telik,telni,Az idő gyorsan telik a munkahelyen.,"to pass (of time), to go by",Time passes quickly at work.,0229_telik_m.mp3
+230,köt,kötni,Most egy meleg sálat kötök.,to knit,I'm knitting a warm scarf right now.,0230_kot_m.mp3
+231,csatlakozik,csatlakozni,Holnap csatlakozom hozzátok a parkban.,to join,I'll join you in the park tomorrow.,0231_csatlakozik_m.mp3
+232,bocsát,bocsátani,Délután szabadon bocsátják a foglyot.,to release,They will release the prisoner in the afternoon.,0232_bocsat_m.mp3
+233,tanít,tanítani,Minden nap angolt tanítok az iskolában.,to teach,I teach English at school every day.,0233_tanit_m.mp3
+234,elad,eladni,Holnap eladom a régi biciklimet.,to sell,I'm selling my old bike tomorrow.,0234_elad_m.mp3
+235,viselkedik,viselkedni,Ma nagyon jól viselkedik az osztályban.,to behave,He is behaving very well in class today.,0235_viselkedik_m.mp3
+236,győz,győzni,Ma este biztosan győzünk a meccsen.,to win,We will definitely win the match tonight.,0236_gyoz_m.mp3
+237,mozdul,mozdulni,Reggel nagyon nehezen mozdulok.,to move,I can barely move in the morning.,0237_mozdul_m.mp3
+238,sétál,sétálni,Minden reggel a parkban sétálok.,"to walk, to stroll",I walk in the park every morning.,0238_setal_m.mp3
+239,megáll,megállni,A piros lámpánál mindig megállunk.,to stop,We always stop at the red light.,0239_megall_m.mp3
+240,fekszik,feküdni,Este tíz órakor az ágyban fekszem.,to lie (in bed),At ten in the evening I'm lying in bed.,0240_fekszik_m.mp3
+241,megérkezik,megérkezni,Holnap reggel érkezünk meg Budapestre.,to arrive,We arrive in Budapest tomorrow morning.,0241_megerkezik_m.mp3
+242,megbeszél,megbeszélni,Holnap megbeszéljük a tervet.,"to discuss, to go over",Tomorrow we'll discuss the plan.,0242_megbeszel_m.mp3
+243,szolgál,szolgálni,Két évig szolgáltam a hadseregben.,to serve,I served in the army for two years.,0243_szolgal_m.mp3
+244,egyetért,egyetérteni,Teljesen egyetértek veled ebben.,to agree,I completely agree with you on this.,0244_egyetert_m.mp3
+245,repül,repülni,Holnap Budapestre repülök.,to fly,I'm flying to Budapest tomorrow.,0245_repul_m.mp3
+246,utazik,utazni,Nyáron gyakran utazom a tengerhez.,"to travel, to go",In summer I often go to the sea.,0246_utazik_m.mp3
+247,vet,vetni,Tavasszal búzát vetünk a földbe.,to sow,In spring we sow wheat in the ground.,0247_vet_m.mp3
+248,elveszít,elveszíteni,Tegnap elveszítettem a kulcsomat a parkban.,to lose,Yesterday I lost my key in the park.,0248_elveszit_m.mp3
+249,illet,illetni,Ez a kérdés engem is illet.,"to concern, to apply to",This question concerns me too.,0249_illet_m.mp3
+250,basz ⚠️,baszni,Tegnap este végre megint basztunk.,to fuck,Last night we finally fucked again.,0250_basz_m.mp3
+251,művel,művelni,Most a kertet műveljük.,"to cultivate, to tend",We are cultivating the garden right now.,0251_muvel_m.mp3
+252,lop,lopni,Néha lopok cukrot a boltban.,to steal,Sometimes I steal sugar from the shop.,0252_lop_m.mp3
+253,vállal,vállalni,Szívesen vállalom a nehéz feladatot.,"to take on, to undertake",I am happy to take on the difficult task.,0253_vallal_m.mp3
+254,emlékezik,emlékezni,Jól emlékszem erre a napra.,to remember,I remember this day well.,0254_emlekezik_m.mp3
+255,elárul,elárulni,Soha nem árulom el a titkodat.,"to reveal, to give away (a secret)",I will never give away your secret.,0255_elarul_m.mp3
+256,ajánl,ajánlani,Ajánlok neked egy jó éttermet.,"to recommend, to suggest",I recommend a good restaurant to you.,0256_ajanl_m.mp3
+257,emel,emelni,Lassan emelem a nehéz dobozt.,to lift,I am slowly lifting the heavy box.,0257_emel_m.mp3
+258,megad,megadni,Holnap megadom neked a pénzt.,"to give back, to repay",I will give you the money back tomorrow.,0258_megad_m.mp3
+259,bemutat,bemutatni,Holnap bemutatom az új kollégámat.,to introduce,Tomorrow I will introduce my new colleague.,0259_bemutat_m.mp3
+260,értékel,értékelni,Nagyon értékelem a segítségedet.,"to appreciate, to value",I really appreciate your help.,0260_ertekel_m.mp3
+261,jelentkezik,jelentkezni,Holnap jelentkezem egy nyelvtanfolyamra.,"to sign up (for), to register",Tomorrow I'm signing up for a language course.,0261_jelentkezik_m.mp3
+262,kinyit,kinyitni,Reggel mindig kinyitom az ablakot.,to open,I always open the window in the morning.,0262_kinyit_m.mp3
+263,telefonál,telefonálni,Este telefonálok a barátomnak.,"to call, to phone",I'll call my friend in the evening.,0263_telefonal_m.mp3
+264,eltűnik,eltűnni,Reggelre eltűnt a hó az utcáról.,"to disappear, to vanish",By morning the snow had disappeared from the street.,0264_eltunik_m.mp3
+265,épít,építeni,Most egy nagy házat építünk.,to build,We are building a big house right now.,0265_epit_m.mp3
+266,lóg,lógni,A kabát a szekrényben lóg.,to hang,The coat is hanging in the wardrobe.,0266_log_m.mp3
+267,foglal,foglalni,Asztalt foglalok ma este a vacsorához.,"to reserve, to book",I'm reserving a table for dinner tonight.,0267_foglal_m.mp3
+268,gondoskodik,gondoskodni,Mindig gondoskodom a növényekről.,"to take care of, to look after",I always take care of the plants.,0268_gondoskodik_m.mp3
+269,említ,említeni,Tegnap említettem ezt a problémát.,to mention,I mentioned this problem yesterday.,0269_emlit_m.mp3
+270,ment,menteni,Tegnap mentett egy kiskutyát a folyóból.,"to rescue, to save",Yesterday he rescued a puppy from the river.,0270_ment_m.mp3
+271,lefekszik,lefeküdni,Este tíz órakor fekszem le.,to go to bed,I go to bed at ten o'clock in the evening.,0271_lefekszik_m.mp3
+272,kimegy,kimenni,Reggel kimegyek a kertbe.,to go out,In the morning I go out into the garden.,0272_kimegy_m.mp3
+273,felad,feladni,Soha nem adom fel a céljaimat.,to give up,I never give up on my goals.,0273_felad_m.mp3
+274,kijön,kijönni,Lassan kijövök a házból.,to come out,I slowly come out of the house.,0274_kijon_m.mp3
+275,ugrik,ugrani,Reggel mindig ugrom egyet.,to jump,I always jump in the morning.,0275_ugrik_m.mp3
+276,meglesz,meglenni,Holnapra meglesz az ebéd.,to be ready / to be done,Lunch will be ready by tomorrow.,0276_meglesz_m.mp3
+277,hazamegy,hazamenni,Délután korán hazamegyek a munkából.,to go home,In the afternoon I go home early from work.,0277_hazamegy_m.mp3
+278,idejön,idejönni,"Idejössz hozzám holnap, kérlek?",to come over,"Will you come over tomorrow, please?",0278_idejon_m.mp3
+279,megismer,megismerni,Tegnap megismertem egy kedves lányt.,to meet / to get to know,Yesterday I met a nice girl.,0279_megismer_m.mp3
+280,szenved,szenvedni,Télen mindig sokat szenvedek a hidegtől.,to suffer,In winter I always suffer a lot from the cold.,0280_szenved_m.mp3
+281,megszerez,megszerezni,Tegnap megszereztem a jegyeket a koncertre.,"to get, to obtain",Yesterday I got the tickets for the concert.,0281_megszerez_m.mp3
+282,megállít,megállítani,Megállította az autót az úton.,to stop (something),He stopped the car on the road.,0282_megallit_m.mp3
+283,nevet,nevetni,Most nagyon hangosan nevet.,to laugh,Right now he is laughing very loudly.,0283_nevet_m.mp3
+284,megőrül,megőrülni,Majdnem megőrültem ettől a zajtól.,"to go crazy, to lose one's mind",I almost went crazy from this noise.,0284_megorul_m.mp3
+285,menekül,menekülni,Gyorsan menekülök a hideg elől.,"to flee, to run away",I am quickly running away from the cold.,0285_menekul_m.mp3
+286,megváltoztat,megváltoztatni,Holnap megváltoztatom a jelszavamat.,to change (something),Tomorrow I will change my password.,0286_megvaltoztat_m.mp3
+287,veszít,veszíteni,Tegnap megint veszítettünk egy fontos meccset.,to lose (a game),Yesterday we lost an important match again.,0287_veszit_m.mp3
+288,vél,vélni,Okos embernek vélem őt.,"to consider, to think",I consider him a smart person.,0288_vel_m.mp3
+289,megkeres,megkeresni,Holnap megkeresem a barátomat.,"to reach out to, to look up",Tomorrow I will reach out to my friend.,0289_megkeres_m.mp3
+290,észrevesz,észrevenni,Azonnal észrevettem a hibát a szövegben.,"to notice, to spot",I immediately noticed the mistake in the text.,0290_eszrevesz_m.mp3
+291,ébred,ébredni,Reggel hét órakor ébredek.,to wake up,I wake up at seven in the morning.,0291_ebred_m.mp3
+292,javasol,javasolni,Javaslok neked egy másik megoldást.,"to suggest, to recommend",I suggest a different solution.,0292_javasol_m.mp3
+293,elküld,elküldeni,Holnap elküldöm neked az e-mailt.,to send,I'll send you the email tomorrow.,0293_elkuld_m.mp3
+294,baszik ⚠️,baszni,Én tegnap este basztam a barátnőmet.,to fuck,I fucked my girlfriend last night.,0294_baszik_m.mp3
+295,támogat,támogatni,Mindig támogatom a barátaimat.,to support,I always support my friends.,0295_tamogat_m.mp3
+296,elhoz,elhozni,Holnap elhozom a könyvet.,to bring,I'll bring the book tomorrow.,0296_elhoz_m.mp3
+297,megbocsát,megbocsátani,Mindig megbocsátok a barátaimnak.,to forgive,I always forgive my friends.,0297_megbocsat_m.mp3
+298,pihen,pihenni,Most pihenek egy kicsit a kanapén.,"to rest, to relax",I'm resting on the sofa for a bit.,0298_pihen_m.mp3
+299,kirúg,kirúgni,Tegnap kirúgtak a munkahelyemről.,"to fire, to sack",I got fired from my job yesterday.,0299_kirug_m.mp3
+300,távozik,távozni,Most azonnal távozom a teremből.,"to leave, to depart",I am leaving the hall right now.,0300_tavozik_m.mp3
+301,megtanul,megtanulni,Tavaly megtanultam jól úszni.,"to learn, to pick up a skill",Last year I learned to swim well.,0301_megtanul_m.mp3
+302,lelép,lelépni,Reggel csendben lelépek a buliból.,"to slip away, to sneak out",In the morning I quietly slip out of the party.,0302_lelep_m.mp3
+303,odaad,odaadni,Holnap odaadom neked a könyvet.,"to give (over), to hand over",Tomorrow I'll give you the book.,0303_odaad_m.mp3
+304,magyaráz,magyarázni,Lassan és türelmesen magyarázza a leckét.,to explain,He explains the lesson slowly and patiently.,0304_magyaraz_m.mp3
+305,imádkozik,imádkozni,Minden este imádkozik a szobájában.,to pray,Every evening he prays in his room.,0305_imadkozik_m.mp3
+306,abbahagy,abbahagyni,Most abbahagyom a munkát.,"to stop, to quit",I'm stopping work now.,0306_abbahagy_m.mp3
+307,letartóztat,letartóztatni,Tegnap letartóztatták a tolvajt.,to arrest,Yesterday the thief was arrested.,0307_letartoztat_m.mp3
+308,koncentrál,koncentrálni,Most nem tudok jól koncentrálni.,"to concentrate, to focus",Right now I can't concentrate well.,0308_koncentral_m.mp3
+309,átad,átadni,Most átadom neked a könyvet.,"to hand over, to pass on",I'm handing you the book now.,0309_atad_m.mp3
+310,megtámad,megtámadni,Hirtelen megtámadtam egy nagy kutyát.,to attack,I suddenly attacked a large dog.,0310_megtamad_m.mp3
+311,örvend,örvendeni,Nagyon örvendek a találkozásnak!,"to be delighted, to be glad",I am very glad to meet you!,0311_orvend_m.mp3
+312,rendel,rendelni,Egy kávét rendelek a kávézóban.,to order,I am ordering a coffee at the café.,0312_rendel_m.mp3
+313,vall,vallani,A rendőrségen őszintén vallottam mindent.,"to confess, to testify","At the police station, I honestly confessed everything.",0313_vall_m.mp3
+314,késik,késni,Mindig késem az óráról.,to be late,I am always late for class.,0314_kesik_m.mp3
+315,küzd,küzdeni,Minden nap keményen küzdök a céljaimért.,"to fight, to strive",Every day I fight hard for my goals.,0315_kuzd_m.mp3
+316,mozog,mozogni,Reggelente sokat mozgok a parkban.,"to move, to exercise",In the mornings I get a lot of exercise in the park.,0316_mozog_m.mp3
+317,meglátogat,meglátogatni,Holnap meglátogatom a barátomat.,to visit,Tomorrow I will visit my friend.,0317_meglatogat_m.mp3
+318,megér,megérni,Ez a film megéri a pénzt.,to be worth,This movie is worth the money.,0318_meger_m.mp3
+319,árt,ártani,A sok cukor árt az egészségnek.,"to harm, to be bad for",A lot of sugar is bad for your health.,0319_art_m.mp3
+320,bezár,bezárni,Este mindig bezárom az ajtót.,"to lock, to close",In the evening I always lock the door.,0320_bezar_m.mp3
+321,gyűlöl,gyűlölni,Gyűlölöm a hideg időt télen.,to hate,I hate cold weather in winter.,0321_gyulol_m.mp3
+322,túlél,túlélni,Szerencsére túléltem a hosszú telet.,"to survive, to get through","Luckily, I survived the long winter.",0322_tulel_m.mp3
+323,emlékeztet,emlékeztetni,Mindig emlékeztet engem a régi nyári napokra.,to remind,It always reminds me of those old summer days.,0323_emlekeztet_m.mp3
+324,vágyik,vágyni,Néha egy kis nyugalomra vágyom.,to long for,Sometimes I long for a little peace and quiet.,0324_vagyik_m.mp3
+325,vacsorázik,vacsorázni,Ma este otthon vacsorázunk.,to have dinner,Tonight we are having dinner at home.,0325_vacsorazik_m.mp3
+326,születik,születni,Egy nagyon hideg téli napon születtem.,to be born,I was born on a very cold winter day.,0326_szuletik_m.mp3
+327,megegyezik,megegyezni,Végül megegyeztünk az árban.,to agree,We finally agreed on the price.,0327_megegyezik_m.mp3
+328,rúg,rúgni,Erősen rúgta a labdát.,to kick,He kicked the ball hard.,0328_rug_m.mp3
+329,átmegy,átmenni,Holnap átmegyek a vizsgán.,to pass (an exam),Tomorrow I will pass the exam.,0329_atmegy_m.mp3
+330,múlik,múlni,Gyorsan múlik az idő nyáron.,"to pass, to go by",Time passes quickly in summer.,0330_mulik_m.mp3
+331,próbálkozik,próbálkozni,Még egyszer próbálkozom holnap reggel.,"to try, to give it a go",I'll try again tomorrow morning.,0331_probalkozik_m.mp3
+332,megjön,megjönni,Este végre megjöttem.,"to arrive, to get back",I finally got back in the evening.,0332_megjon_m.mp3
+333,figyelmeztet,figyelmeztetni,Mindig figyelmeztet engem a veszélyre.,to warn,He always warns me about the danger.,0333_figyelmeztet_m.mp3
+334,rendez,rendezni,Minden évben bulit rendezünk a kertben.,"to organize, to throw",Every year we throw a party in the garden.,0334_rendez_m.mp3
+335,mosolyog,mosolyogni,Boldogan mosolygott a tükör előtt.,to smile,She smiled happily in front of the mirror.,0335_mosolyog_m.mp3
+336,függ,függeni,A kabát a fogason függ.,to hang,The coat is hanging on the hook.,0336_fugg_m.mp3
+337,alakul,alakulni,Lassan minden jól alakul.,"to work out, to take shape",Slowly everything is working out well.,0337_alakul_m.mp3
+338,számol,számolni,Minden este számolom a pénzt.,to count,Every evening I count the money.,0338_szamol_m.mp3
+339,elenged,elengedni,Most elengedem a kutyát a parkban.,"to let go, to release",I'm letting the dog go in the park now.,0339_elenged_m.mp3
+340,könyörög,könyörögni,"Sokáig könyörögtem neki, de nemet mondott.","to beg, to plead","I begged him for a long time, but he said no.",0340_konyorog_m.mp3
+341,randizik,randizni,Szombaton este egy fiúval randizom.,to go on a date,I'm going on a date with a guy on Saturday evening.,0341_randizik_m.mp3
+342,álmodik,álmodni,Tegnap éjjel szépet álmodtam.,to dream,I had a nice dream last night.,0342_almodik_m.mp3
+343,hasonlít,hasonlítani,Nagyon hasonlítasz az anyukádra.,"to look like, to resemble",You look a lot like your mom.,0343_hasonlit_m.mp3
+344,költözik,költözni,Jövő hónapban új lakásba költözöm.,to move (home),I'm moving into a new apartment next month.,0344_koltozik_m.mp3
+345,feltételez,feltételezni,"Feltételezem, hogy holnap esni fog.","to assume, to suppose",I assume it's going to rain tomorrow.,0345_feltetelez_m.mp3
+346,helyez,helyezni,A könyvet az asztalra helyezem.,to place,I'm placing the book on the table.,0346_helyez_m.mp3
+347,fest,festeni,Ma kékre festem a szobát.,to paint,Today I'm painting the room blue.,0347_fest_m.mp3
+348,bánik,bánni,Mindig kedvesen bánik a vendégekkel.,"to treat, to deal with",He always treats guests kindly.,0348_banik_m.mp3
+349,elindul,elindulni,Reggel hétkor elindulunk a vonattal.,"to leave, to set off",We're leaving by train at seven in the morning.,0349_elindul_m.mp3
+350,bámul,bámulni,Gyakran bámulom az utcát az ablakból.,"to gaze at, to stare at",I often gaze at the street from the window.,0350_bamul_m.mp3
+351,származik,származni,Én Oroszországból származom.,"to come from, to be from",I am from Russia.,0351_szarmazik_m.mp3
+352,kiderít,kideríteni,Holnap kiderítem az igazságot.,"to find out, to uncover",Tomorrow I will find out the truth.,0352_kiderit_m.mp3
+353,átvesz,átvenni,Holnap átveszem a csomagot a postán.,"to pick up, to collect",Tomorrow I will pick up the package at the post office.,0353_atvesz_m.mp3
+354,szabadul,szabadulni,Holnap szabadulok a kórházból.,"to get out of, to be released from",Tomorrow I am getting out of the hospital.,0354_szabadul_m.mp3
+355,dug,dugni,A kulcsot a zsebembe dugom.,"to put, to slip",I put the key in my pocket.,0355_dug_m.mp3
+356,indít,indítani,Reggel mindig elsőként indítom a számítógépet.,"to start up, to boot up",I am always the first to start up the computer in the morning.,0356_indit_m.mp3
+357,megenged,megengedni,"Ma megengedem, hogy tovább játssz.","to allow, to let",Today I will let you play longer.,0357_megenged_m.mp3
+358,főz,főzni,Ma este levest főzök vacsorára.,"to cook, to make",Tonight I am making soup for dinner.,0358_foz_m.mp3
+359,parancsol,parancsolni,"Ne parancsolj nekem, kérlek!","to order around, to boss around",Please don't order me around!,0359_parancsol_m.mp3
+360,üdvözöl,üdvözölni,Üdvözlöm a vendégeket az ajtóban.,"to greet, to welcome",I greet the guests at the door.,0360_udvozol_m.mp3
+361,biztosít,biztosítani,Minden évben biztosítom az autómat.,to insure,I insure my car every year.,0361_biztosit_m.mp3
+362,lelő,lelőni,Egy nyulat lőtt le a réten.,to shoot dead,He shot a rabbit dead in the meadow.,0362_lelo_m.mp3
+363,megtart,megtartani,Megtartom ezt a régi könyvet.,to keep,I'm keeping this old book.,0363_megtart_m.mp3
+364,old,oldani,A sót vízben oldom.,to dissolve,I dissolve the salt in water.,0364_old_m.mp3
+365,megvesz,megvenni,Holnap megveszem ezt a könyvet.,to buy,I'll buy this book tomorrow.,0365_megvesz_m.mp3
+366,következik,következni,Most te következel a sorban.,to be next (in line),You're next in line now.,0366_kovetkezik_m.mp3
+367,flörtöl,flörtölni,A buliban sokat flörtöl velem.,to flirt,He is flirting with me a lot at the party.,0367_flortol_m.mp3
+368,illik,illeni,Ez a kalap nagyon jól illik hozzád.,"to suit, to go well with",This hat suits you really well.,0368_illik_m.mp3
+369,nyúl,nyúlni,Ne nyúlj a forró tűzhelyhez!,"to touch, to reach for",Don't touch the hot stove!,0369_nyul_m.mp3
+370,megmagyaráz,megmagyarázni,Holnap megmagyarázom neked a feladatot.,to explain,I'll explain the task to you tomorrow.,0370_megmagyaraz_m.mp3
+371,hord,hordani,Télen mindig meleg sapkát hordok.,to wear,In winter I always wear a warm hat.,0371_hord_m.mp3
+372,elrabol,elrabolni,A filmben elrabolják a kislányt.,to kidnap,"In the film, they kidnap a little girl.",0372_elrabol_m.mp3
+373,meggondol,meggondolni,Holnapig meggondolom a dolgot.,to think over,I'll think it over by tomorrow.,0373_meggondol_m.mp3
+374,ragad,ragadni,Ma egész nap itthon ragadtam.,to be stuck,I was stuck at home all day today.,0374_ragad_m.mp3
+375,hajt,hajtani,Gyorsan hajtok az autópályán.,to drive,I'm driving fast on the motorway.,0375_hajt_m.mp3
+376,felismer,felismerni,Azonnal felismertem a régi barátomat.,to recognize,I recognized my old friend right away.,0376_felismer_m.mp3
+377,kiabál,kiabálni,Miért kiabálsz rám ilyen hangosan?,"to shout, to yell",Why are you shouting at me so loudly?,0377_kiabal_m.mp3
+378,osztozik,osztozni,Mindig osztozunk a süteményen.,to share,We always share the cake.,0378_osztozik_m.mp3
+379,von,vonni,Magára vonja a figyelmet.,to attract,He attracts attention to himself.,0379_von_m.mp3
+380,belép,belépni,Reggel nyolckor belépek az irodába.,"to enter, to walk into",I walk into the office at eight in the morning.,0380_belep_m.mp3
+381,feltesz,feltenni,Mindig sok kérdést teszek fel az órán.,to ask (a question),I always ask a lot of questions in class.,0381_feltesz_m.mp3
+382,kihagy,kihagyni,Ma reggel kihagytam a reggelit.,"to skip, to miss",I skipped breakfast this morning.,0382_kihagy_m.mp3
+383,felébred,felébredni,Reggel korán felébredtem.,to wake up,I woke up early in the morning.,0383_felebred_m.mp3
+384,sejt,sejteni,Már régóta sejtettem az igazságot.,"to suspect, to sense",I had suspected the truth for a long time.,0384_sejt_m.mp3
+385,ejt,ejteni,Néha véletlenül ejtek egy poharat.,to drop,Sometimes I accidentally drop a glass.,0385_ejt_m.mp3
+386,szerepel,szerepelni,Holnap szerepelek egy színdarabban.,"to perform, to appear",Tomorrow I'm performing in a play.,0386_szerepel_m.mp3
+387,legyőz,legyőzni,Tegnap könnyen legyőztem a barátomat sakkban.,"to beat, to defeat",Yesterday I easily beat my friend at chess.,0387_legyoz_m.mp3
+388,kimond,kimondani,Végre kimondtam az igazságot.,"to speak out, to say out loud",I finally spoke the truth out loud.,0388_kimond_m.mp3
+389,gyakorol,gyakorolni,Minden reggel gyakorlom a magyar szavakat.,to practice,Every morning I practice the Hungarian words.,0389_gyakorol_m.mp3
+390,szakít,szakítani,Tegnap szakított a barátjával.,to break up (with someone),Yesterday she broke up with her boyfriend.,0390_szakit_m.mp3
+391,felkészül,felkészülni,Holnap jól felkészülök a vizsgára.,"to prepare (for), to get ready (for)",Tomorrow I will prepare well for the exam.,0391_felkeszul_m.mp3
+392,hibáztat,hibáztatni,Mindig másokat hibáztat a hibákért.,to blame,He always blames others for mistakes.,0392_hibaztat_m.mp3
+393,eldönt,eldönteni,"Holnap eldöntöm, hová utazunk.",to decide,Tomorrow I will decide where we will go.,0393_eldont_m.mp3
+394,csal,csalni,Soha nem csalok a vizsgán.,to cheat,I never cheat on exams.,0394_csal_m.mp3
+395,felel,felelni,Mindig gyorsan felel a kérdésekre.,"to answer, to respond",She always answers questions quickly.,0395_felel_m.mp3
+396,meghív,meghívni,Holnap meghívlak egy kávéra.,to invite,Tomorrow I will invite you for a coffee.,0396_meghiv_m.mp3
+397,akad,akadni,A halászléban néha akad egy szálka.,"to turn up, to be found",Sometimes a fishbone turns up in fish soup.,0397_akad_m.mp3
+398,ragaszkodik,ragaszkodni,Mindig ragaszkodom a reggeli kávémhoz.,"to stick to, to be attached to",I always stick to my morning coffee.,0398_ragaszkodik_m.mp3
+399,kifizet,kifizetni,Tegnap kifizettem a számlát.,"to pay, to settle (a bill)",Yesterday I paid the bill.,0399_kifizet_m.mp3
+400,tisztel,tisztelni,Nagyon tisztelem a tanáromat.,to respect,I greatly respect my teacher.,0400_tisztel_m.mp3
+401,fedez,fedezni,A biztosítás mindent fedez.,to cover,The insurance covers everything.,0401_fedez_m.mp3
+402,érdemel,érdemelni,Szerintem jobb fizetést érdemelsz.,to deserve,I think you deserve a better salary.,0402_erdemel_m.mp3
+403,azonosít,azonosítani,Gyorsan azonosítottam a problémát.,to identify,I quickly identified the problem.,0403_azonosit_m.mp3
+404,kinyír,kinyírni,Tegnap kinyírtak egy bankrablót.,"to bump off, to take out",Yesterday they bumped off a bank robber.,0404_kinyir_m.mp3
+405,megérdemel,megérdemelni,Megérdemelsz egy kis pihenést ma.,to deserve,You deserve a little rest today.,0405_megerdemel_m.mp3
+406,elkésik,elkésni,Ma reggel elkéstem a munkáról.,to be late,I was late for work this morning.,0406_elkesik_m.mp3
+407,hazajön,hazajönni,Ma este későn jövök haza.,to come home,I'm coming home late tonight.,0407_hazajon_m.mp3
+408,tekint,tekinteni,Barátomnak tekintem őt.,"to consider, to regard as",I consider him my friend.,0408_tekint_m.mp3
+409,elmagyaráz,elmagyarázni,Most elmagyarázom neked a feladatot.,to explain,I'll explain the task to you now.,0409_elmagyaraz_m.mp3
+410,cselekszik,cselekedni,Mindig gyorsan cselekszem vészhelyzetben.,to act,I always act quickly in an emergency.,0410_cselekszik_m.mp3
+411,megszabadul,megszabadulni,Végre megszabadultam a régi telefonomtól.,"to get rid of, to free oneself from",I finally got rid of my old phone.,0411_megszabadul_m.mp3
+412,cserél,cserélni,Holnap pénzt cserélek a bankban.,"to exchange, to change (money)",Tomorrow I'm changing money at the bank.,0412_cserel_m.mp3
+413,tisztáz,tisztázni,Tegnap végre tisztáztuk a félreértést.,"to clear up, to sort out",Yesterday we finally cleared up the misunderstanding.,0413_tisztaz_m.mp3
+414,megnyer,megnyerni,Tegnap megnyertük a meccset.,to win,Yesterday we won the match.,0414_megnyer_m.mp3
+415,felkel,felkelni,Minden reggel hatkor felkelek.,"to get up, to rise",I get up at six every morning.,0415_felkel_m.mp3
+416,lemond,lemondani,Lemondok a holnapi találkozóról.,"to cancel, to call off",I'm cancelling tomorrow's meeting.,0416_lemond_m.mp3
+417,közeledik,közeledni,Lassan közeledünk a városhoz.,"to approach, to get closer",We are slowly approaching the city.,0417_kozeledik_m.mp3
+418,eljut,eljutni,Gyorsan eljutottam a vasútállomásra.,"to get to, to reach",I got to the train station quickly.,0418_eljut_m.mp3
+419,vizsgál,vizsgálni,Most vizsgálom a beteget.,to examine,I'm examining the patient now.,0419_vizsgal_m.mp3
+420,ünnepel,ünnepelni,Ma este a barátaimmal ünnepelünk.,to celebrate,Tonight we're celebrating with my friends.,0420_unnepel_m.mp3
+421,kényszerít,kényszeríteni,Nem kényszerítelek semmire.,"to force, to compel",I'm not forcing you to do anything.,0421_kenyszerit_m.mp3
+422,vádol,vádolni,Mindig engem vádolnak lopással.,to accuse,They always accuse me of stealing.,0422_vadol_m.mp3
+423,öregszik,öregedni,Az ember lassan öregszik.,"to grow old, to age",People grow old slowly.,0423_oregszik_m.mp3
+424,megfelel,megfelelni,Ez az időpont nekem tökéletesen megfelel.,"to suit, to work for",This time works perfectly for me.,0424_megfelel_m.mp3
+425,lemegy,lemenni,Reggel mindig gyorsan lemegyek a boltba.,to go down (to),Every morning I quickly go down to the shop.,0425_lemegy_m.mp3
+426,átnéz,átnézni,Reggel mindig átnézem az e-mailjeimet.,"to go through, to check over",Every morning I go through my emails.,0426_atnez_m.mp3
+427,úszik,úszni,Reggelente a tóban úszom.,to swim,In the mornings I swim in the lake.,0427_uszik_m.mp3
+428,reagál,reagálni,Gyorsan reagáltam az üzenetre.,"to respond, to react",I responded to the message quickly.,0428_reagal_m.mp3
+429,tönkretesz,tönkretenni,Tegnap véletlenül tönkretettem a telefonomat.,"to ruin, to wreck",Yesterday I accidentally ruined my phone.,0429_tonkretesz_m.mp3
+430,felfog,felfogni,Most végre felfogom a helyzetet.,"to grasp, to understand",Now I finally understand the situation.,0430_felfog_m.mp3
+431,odamegy,odamenni,"Odamegyek a pénztárhoz, és fizetek.","to walk up to, to go up to",I walk up to the checkout and pay.,0431_odamegy_m.mp3
+432,aláír,aláírni,Ma reggel aláírtam a szerződést.,to sign,I signed the contract this morning.,0432_alair_m.mp3
+433,megfog,megfogni,Gyorsan megfogtam a labdát.,"to catch, to grab",I caught the ball quickly.,0433_megfog_m.mp3
+434,csap,csapni,Néha az asztalra csapok dühömben.,"to slam, to slap",Sometimes I bang on the table in anger.,0434_csap_m.mp3
+435,mos,mosni,Reggel mindig kezet mosok.,to wash,I always wash my hands in the morning.,0435_mos_m.mp3
+436,utal,utalni,Holnap utalom a pénzt.,to transfer (money),I'll transfer the money tomorrow.,0436_utal_m.mp3
+437,javít,javítani,Most javítom a régi biciklimet.,"to fix, to repair",I'm fixing my old bike right now.,0437_javit_m.mp3
+438,csókol,csókolni,Reggel mindig megpuszilom és csókolom őt.,to kiss,Every morning I give them a peck and a kiss.,0438_csokol_m.mp3
+439,leül,leülni,"Fáradt vagyok, leülök egy kicsit.",to sit down,"I'm tired, I'll sit down for a bit.",0439_leul_m.mp3
+440,fúj,fújni,Ma erősen fúj a szél kint.,to blow,The wind is blowing hard outside today.,0440_fuj_m.mp3
+441,felmegy,felmenni,Reggel gyalog megyek fel a lépcsőn.,"to go up, to walk up",In the morning I walk up the stairs.,0441_felmegy_m.mp3
+442,levesz,levenni,Reggel mindig leveszem a kabátomat.,to take off,I always take off my coat in the morning.,0442_levesz_m.mp3
+443,kockáztat,kockáztatni,Most nem kockáztatok semmit.,to risk,Right now I'm not risking anything.,0443_kockaztat_m.mp3
+444,rohan,rohanni,Minden reggel a buszhoz rohanok.,"to rush, to dash",Every morning I rush to the bus.,0444_rohan_m.mp3
+445,elolvas,elolvasni,Tegnap elolvastam egy érdekes könyvet.,"to read (through), to finish reading",Yesterday I read an interesting book.,0445_elolvas_m.mp3
+446,üldöz,üldözni,Üldözzük a tolvajt az utcán.,"to chase, to pursue",We are chasing the thief on the street.,0446_uldoz_m.mp3
+447,odaér,odaérni,Időben odaértünk az állomásra.,"to get there, to arrive",We got to the station on time.,0447_odaer_m.mp3
+448,elképzel,elképzelni,Nehezen képzelem el a jövőt.,"to imagine, to picture",It is hard for me to imagine the future.,0448_elkepzel_m.mp3
+449,meggyőz,meggyőzni,Végül meggyőztem őt az igazamról.,"to convince, to persuade",In the end I convinced him that I was right.,0449_meggyoz_m.mp3
+450,kijut,kijutni,Végre kijutottunk a friss levegőre.,"to get out, to make it outside",We finally got out into the fresh air.,0450_kijut_m.mp3
+451,otthagy,otthagyni,Tegnap otthagytam a táskámat a buszon.,to leave behind,Yesterday I left my bag on the bus.,0451_otthagy_m.mp3
+452,kidob,kidobni,Tegnap kidobtam a régi cipőmet.,to throw out,Yesterday I threw out my old shoes.,0452_kidob_m.mp3
+453,egyezik,egyezni,A válaszod pontosan egyezik az enyémmel.,"to match, to agree",Your answer matches mine exactly.,0453_egyezik_m.mp3
+454,kiszáll,kiszállni,A megállóban szállok ki a buszból.,to get off,I get off the bus at the stop.,0454_kiszall_m.mp3
+455,elalszik,elaludni,Tegnap este gyorsan elaludtam a kanapén.,to fall asleep,Last night I fell asleep quickly on the sofa.,0455_elalszik_m.mp3
+456,kihasznál,kihasználni,Mindig kihasználom a jó időt.,"to make the most of, to take advantage of",I always make the most of good weather.,0456_kihasznal_m.mp3
+457,teljesít,teljesíteni,Mindig teljesítem a kötelességemet.,"to fulfill, to carry out",I always fulfill my duty.,0457_teljesit_m.mp3
+458,visszakap,visszakapni,Holnap visszakapom a pénzemet.,to get back,Tomorrow I will get my money back.,0458_visszakap_m.mp3
+459,megvár,megvárni,Megvárlak téged a sarkon.,to wait for,I will wait for you on the corner.,0459_megvar_m.mp3
+460,töröl,törölni,Most törlöm a régi fényképeket.,to delete,I am deleting the old photos now.,0460_torol_m.mp3
+461,vásárol,vásárolni,A piacon zöldséget vásárolok.,"to buy, to shop for",I'm buying vegetables at the market.,0461_vasarol_m.mp3
+462,összezavarodik,összezavarodni,Teljesen összezavarodtam a sok új szótól.,"to get confused, to get mixed up",I got completely confused by all the new words.,0462_osszezavarodik_m.mp3
+463,elpusztít,elpusztítani,A tűz tegnap elpusztította a régi házat.,to destroy,The fire destroyed the old house yesterday.,0463_elpusztit_m.mp3
+464,visszahív,visszahívni,Holnap reggel biztosan visszahívlak telefonon.,to call back,I'll definitely call you back tomorrow morning.,0464_visszahiv_m.mp3
+465,gyűjt,gyűjteni,Minden nyáron pénzt gyűjtök egy új biciklire.,"to save up, to collect",Every summer I save up money for a new bicycle.,0465_gyujt_m.mp3
+466,lezár,lezárni,Este mindig lezárom az ajtót.,to lock,I always lock the door in the evening.,0466_lezar_m.mp3
+467,nyújt,nyújtani,Szívesen nyújtok neked segítséget.,"to offer, to give",I'm happy to offer you some help.,0467_nyujt_m.mp3
+468,átél,átélni,Tegnap egy szép pillanatot éltem át.,to experience,Yesterday I experienced a beautiful moment.,0468_atel_m.mp3
+469,szólít,szólítani,A tanár mindig a nevemen szólít.,"to address, to call (by name)",The teacher always calls me by name.,0469_szolit_m.mp3
+470,szégyell,szégyellni,Néha szégyellem a régi fényképeimet.,to be ashamed of,Sometimes I'm ashamed of my old photos.,0470_szegyell_m.mp3
+471,ebédel,ebédelni,Ma egy étteremben ebédelek.,to have lunch,Today I'm having lunch at a restaurant.,0471_ebedel_m.mp3
+472,értesít,értesíteni,Holnap értesítjük a vendégeket a változásról.,"to notify, to inform",Tomorrow we will notify the guests about the change.,0472_ertesit_m.mp3
+473,kivesz,kivenni,Kiveszek egy könyvet a táskából.,to take out,I take a book out of the bag.,0473_kivesz_m.mp3
+474,átver,átverni,A boltban tegnap átvertek engem.,"to rip off, to con",Yesterday they ripped me off at the shop.,0474_atver_m.mp3
+475,bevall,bevallani,"Végül bevallottam, hogy hibáztam.","to admit, to confess",In the end I admitted that I made a mistake.,0475_bevall_m.mp3
+476,hazaér,hazaérni,Este későn hazaértem a munkából.,"to get home, to make it home",I got home late from work in the evening.,0476_hazaer_m.mp3
+477,szexel,szexelni,Tegnap este sokáig szexeltünk.,to have sex,Last night we had sex for a long time.,0477_szexel_m.mp3
+478,elfog,elfogni,Tegnap elfogták a tolvajt.,"to catch, to apprehend",Yesterday they caught the thief.,0478_elfog_m.mp3
+479,céloz,célozni,A táblára célzol a nyíllal.,to aim,You aim at the target with the arrow.,0479_celoz_m.mp3
+480,ereszt,ereszteni,Eresztem a vizet a kádba.,"to run (water), to fill",I'm running water into the tub.,0480_ereszt_m.mp3
+481,megerősít,megerősíteni,E-mailben megerősítettem a foglalást.,to confirm,I confirmed the reservation by email.,0481_megerosit_m.mp3
+482,visszaad,visszaadni,Holnap visszaadom neked a könyvet.,"to give back, to return",I'll give you the book back tomorrow.,0482_visszaad_m.mp3
+483,stimmel,stimmelni,A számla összege most stimmel.,"to add up, to check out",The total on the bill adds up now.,0483_stimmel_m.mp3
+484,igyekszik,igyekezni,Munka után mindig igyekszem haza.,"to hurry, to rush",I always hurry home after work.,0484_igyekszik_m.mp3
+485,derít,deríteni,Végre fényt derítünk a rejtélyre.,"to uncover, to solve",We are finally going to solve the mystery.,0485_derit_m.mp3
+486,betör,betörni,Az éjjel betörtek a boltba.,"to break in, to burglarize",Someone broke into the shop last night.,0486_betor_m.mp3
+487,leesik,leesni,Tegnap leestem a bicikliről.,to fall off,Yesterday I fell off my bike.,0487_leesik_m.mp3
+488,lejár,lejárni,Holnap lejár az igazolványom.,to expire,My ID card expires tomorrow.,0488_lejar_m.mp3
+489,letesz,letenni,Leteszem a táskát az asztalra.,"to put down, to set down",I'm putting the bag down on the table.,0489_letesz_m.mp3
+490,oszt,osztani,Most osztom a kártyákat.,"to deal, to hand out",I'm dealing the cards now.,0490_oszt_m.mp3
+491,megcsókol,megcsókolni,Reggel gyengéden megcsókoltam az arcát.,to kiss,This morning I gently kissed her face.,0491_megcsokol_m.mp3
+492,leáll,leállni,A liftünk hirtelen leállt a harmadik emeleten.,"to break down, to stop working",Our elevator suddenly broke down on the third floor.,0492_leall_m.mp3
+493,bejut,bejutni,Végre bejutottunk a moziba.,"to get in, to make it in",We finally made it into the cinema.,0493_bejut_m.mp3
+494,levág,levágni,Reggel mindig levágom a kenyér héját.,to cut off,I always cut the crust off the bread in the morning.,0494_levag_m.mp3
+495,összejön,összejönni,Ma este összejövünk a barátokkal.,"to get together, to meet up",We're getting together with friends tonight.,0495_osszejon_m.mp3
+496,érint,érinteni,Ez a kérdés mindenkit érint.,"to affect, to concern",This issue affects everyone.,0496_erint_m.mp3
+497,elvisel,elviselni,Nehezen viselem el a nagy meleget.,"to stand, to bear",I can barely stand the heat.,0497_elvisel_m.mp3
+498,süt,sütni,Ma reggel szépen süt a nap.,to shine (of the sun),The sun is shining beautifully this morning.,0498_sut_m.mp3
+499,szavaz,szavazni,Holnap először szavazok a választáson.,to vote,Tomorrow I'm voting in the election for the first time.,0499_szavaz_m.mp3
+500,juttat,juttatni,Minden hónapban pénzt juttatok nekik.,"to provide, to send (funds)",I send them money every month.,0500_juttat_m.mp3
+501,kelt,kelteni,A film jó benyomást keltett bennem.,"to make (an impression), to create",The film made a good impression on me.,0501_kelt_m.mp3
+502,közöl,közölni,Holnap közlöm veled a döntésemet.,"to tell, to let someone know",Tomorrow I'll tell you my decision.,0502_kozol_m.mp3
+503,megeszik,megenni,Reggelire megettem egy almát.,"to eat, to finish eating",I ate an apple for breakfast.,0503_megeszik_m.mp3
+504,rabol,rabolni,A maffia gyakran rabol bankokat.,to rob,The mafia often robs banks.,0504_rabol_m.mp3
+505,lefogad,lefogadni,"Lefogadom, hogy holnap esni fog.","to bet, to make a bet",I bet it's going to rain tomorrow.,0505_lefogad_m.mp3
+506,meghall,meghallani,Hirtelen meghallottam a kutya ugatását.,"to hear, to catch a sound",I suddenly heard the dog barking.,0506_meghall_m.mp3
+507,elvégez,elvégezni,Tegnap elvégeztem az összes feladatot.,"to finish, to complete",Yesterday I finished all the tasks.,0507_elvegez_m.mp3
+508,un,unni,Nagyon unom ezt a hosszú filmet.,to find boring,I find this long film very boring.,0508_un_m.mp3
+509,ítél,ítélni,Öt évre ítéltem a tolvajt.,"to sentence, to convict",I sentenced the thief to five years.,0509_itel_m.mp3
+510,meghallgat,meghallgatni,Figyelmesen meghallgattam a véleményedet.,"to listen to, to hear out",I listened carefully to your opinion.,0510_meghallgat_m.mp3
+511,szállít,szállítani,Holnap szállítjuk a bútorokat a házba.,"to deliver, to transport",We are delivering the furniture to the house tomorrow.,0511_szallit_m.mp3
+512,ideér,ideérni,Holnap reggel ideérek a vonattal.,"to arrive here, to get here",I will get here by train tomorrow morning.,0512_ideer_m.mp3
+513,áld,áldani,Minden vasárnap áldja a híveket.,to bless,Every Sunday he blesses the congregation.,0513_ald_m.mp3
+514,felrobbant,felrobbantani,Felrobbantották a régi hidat.,"to blow up, to detonate",They blew up the old bridge.,0514_felrobbant_m.mp3
+515,üzen,üzenni,Holnap üzenek neked telefonon.,"to send a message, to get word to",I'll send you a message by phone tomorrow.,0515_uzen_m.mp3
+516,őriz,őrizni,A kutya éjszaka őrzi a házat.,"to guard, to watch over",The dog guards the house at night.,0516_oriz_m.mp3
+517,megjelenik,megjelenni,Holnap megjelenik az új könyvem a boltokban.,"to come out, to be published",My new book comes out in stores tomorrow.,0517_megjelenik_m.mp3
+518,elmesél,elmesélni,Tegnap elmeséltem neki egy vicces történetet.,to tell (a story),Yesterday I told him a funny story.,0518_elmesel_m.mp3
+519,panaszkodik,panaszkodni,Mindig a rossz időre panaszkodik.,to complain,He always complains about the bad weather.,0519_panaszkodik_m.mp3
+520,felajánl,felajánlani,Felajánlottam neki a helyemet a buszon.,to offer,I offered him my seat on the bus.,0520_felajanl_m.mp3
+521,kipróbál,kipróbálni,Holnap kipróbálom az új biciklit.,"to try out, to test",Tomorrow I'm going to try out the new bike.,0521_kiprobal_m.mp3
+522,elfogy,elfogyni,Reggelre elfogyott a kávé.,to run out,"By morning, the coffee had run out.",0522_elfogy_m.mp3
+523,forog,forogni,A Föld lassan forog a tengelye körül.,"to rotate, to spin",The Earth slowly rotates around its axis.,0523_forog_m.mp3
+524,becsuk,becsukni,Mindig becsukom az ablakot este.,"to close, to shut",I always close the window in the evening.,0524_becsuk_m.mp3
+525,elismer,elismerni,Végül elismerte a hibáját.,"to admit, to acknowledge",He finally admitted his mistake.,0525_elismer_m.mp3
+526,kilép,kilépni,Reggel kilépek a házból.,"to leave, to go out",In the morning I leave the house.,0526_kilep_m.mp3
+527,elkezdődik,elkezdődni,Minden hamarosan elkezdődik.,"to begin, to start",Everything will start soon.,0527_elkezdodik_m.mp3
+528,izgul,izgulni,Mindig izgulok a vizsga előtt.,"to be nervous, to stress out",I always get nervous before an exam.,0528_izgul_m.mp3
+529,veszteget,vesztegetni,Ne vesztegesd az időt!,to waste,Don't waste time!,0529_veszteget_m.mp3
+530,összetör,összetörni,Tegnap véletlenül összetörtem egy poharat.,"to smash, to break",Yesterday I accidentally broke a glass.,0530_osszetor_m.mp3
+531,megvizsgál,megvizsgálni,Tegnap alaposan megvizsgáltam a beteget.,to examine,Yesterday I examined the patient thoroughly.,0531_megvizsgal_m.mp3
+532,elkerül,elkerülni,Reggel mindig elkerülöm a forgalmat.,to avoid,In the morning I always avoid traffic.,0532_elkerul_m.mp3
+533,kísér,kísérni,Minden reggel az iskolába kísérem.,"to accompany, to walk to",Every morning I walk them to school.,0533_kiser_m.mp3
+534,szúr,szúrni,Megint az ujjamba szúrtam a tűvel.,"to prick, to stab",I pricked my finger with the needle again.,0534_szur_m.mp3
+535,vadászik,vadászni,Télen gyakran vadászunk az erdőben.,to hunt,In winter we often hunt in the forest.,0535_vadaszik_m.mp3
+536,jelez,jelezni,A piros lámpa veszélyt jelez.,"to signal, to indicate",The red light signals danger.,0536_jelez_m.mp3
+537,megakadályoz,megakadályozni,Tegnap megakadályoztam egy nagy balesetet.,to prevent,Yesterday I prevented a major accident.,0537_megakadalyoz_m.mp3
+538,szán,szánni,Ezt a könyvet neked szánom.,"to mean for, to intend for",This book is meant for you.,0538_szan_m.mp3
+539,látogat,látogatni,Gyakran látogatom a beteg barátomat.,to visit,I often visit my sick friend.,0539_latogat_m.mp3
+540,leszáll,leszállni,A buszról a következő megállónál szállok le.,to get off (transport),I'm getting off the bus at the next stop.,0540_leszall_m.mp3
+541,veszekedik,veszekedni,Megint veszekszünk a szomszéddal.,"to quarrel, to argue",We're quarreling with the neighbor again.,0541_veszekedik_m.mp3
+542,lélegzik,lélegezni,"Mély levegőt veszek, és lassan lélegzem.",to breathe,I take a deep breath and breathe slowly.,0542_lelegzik_m.mp3
+543,rávesz,rávenni,Tegnap rávettem a barátomat egy közös vacsorára.,"to talk into, to persuade",Yesterday I talked my friend into having dinner together.,0543_ravesz_m.mp3
+544,eltalál,eltalálni,Végre eltaláltam a helyes választ.,"to get right, to hit on",I finally got the right answer.,0544_eltalal_m.mp3
+545,bevesz,bevenni,Reggel beveszem a gyógyszert.,to take (medicine),I take my medicine in the morning.,0545_bevesz_m.mp3
+546,rendelkezik,rendelkezni,Most elég pénzzel rendelkezem az úthoz.,"to have available, to possess",I have enough money for the trip right now.,0546_rendelkezik_m.mp3
+547,vitatkozik,vitatkozni,Gyakran vitatkozunk a politikáról.,"to argue, to debate",We often argue about politics.,0547_vitatkozik_m.mp3
+548,megoszt,megosztani,Megosztottam a fotót a barátaimmal.,to share,I shared the photo with my friends.,0548_megoszt_m.mp3
+549,kihoz,kihozni,Mindjárt kihozom a kávét a teraszra.,to bring out,I'll bring the coffee out to the terrace in a moment.,0549_kihoz_m.mp3
+550,ás,ásni,A kertben egy mély gödröt ások.,to dig,I'm digging a deep hole in the garden.,0550_as_m.mp3
+551,visszahoz,visszahozni,Holnap visszahozom a könyvet a könyvtárból.,to bring back,Tomorrow I'll bring the book back from the library.,0551_visszahoz_m.mp3
+552,haldoklik,haldokolni,A beteg már napok óta haldoklik.,to be dying,The patient has been dying for days.,0552_haldoklik_m.mp3
+553,nyomoz,nyomozni,A rendőrök most egy lopás után nyomoznak.,to investigate,The police are currently investigating a theft.,0553_nyomoz_m.mp3
+554,fenyeget,fenyegetni,Gyakran fenyegeti az ellenségeit.,to threaten,He often threatens his enemies.,0554_fenyeget_m.mp3
+555,kiad,kiadni,Jövőre kiadom az első könyvemet.,to publish,Next year I'm going to publish my first book.,0555_kiad_m.mp3
+556,megüt,megütni,Véletlenül megütöttem a térdemet.,"to hit, to bang",I accidentally hit my knee.,0556_megut_m.mp3
+557,kinéz,kinézni,Ma nagyon fáradtnak nézek ki.,to look (a certain way),I look very tired today.,0557_kinez_m.mp3
+558,öltözik,öltözni,Reggel mindig gyorsan öltözöm.,to get dressed,I always get dressed quickly in the morning.,0558_oltozik_m.mp3
+559,takarít,takarítani,Minden reggel takarítom a konyhát.,to clean,I clean the kitchen every morning.,0559_takarit_m.mp3
+560,utánanéz,utánanézni,Holnap utánanézek az áraknak az interneten.,"to look up, to check",Tomorrow I'll look up the prices online.,0560_utananez_m.mp3
+561,elszúr,elszúrni,Tegnap teljesen elszúrtam a vizsgát.,"to screw up, to botch",Yesterday I totally screwed up the exam.,0561_elszur_m.mp3
+562,követel,követelni,Több pénzt követelünk a főnöktől.,to demand,We demand more money from the boss.,0562_kovetel_m.mp3
+563,tájékoztat,tájékoztatni,A rádió pontosan tájékoztat minket az időjárásról.,to inform,The radio accurately informs us about the weather.,0563_tajekoztat_m.mp3
+564,eltör,eltörni,Tegnap véletlenül eltörtem egy poharat.,to break,Yesterday I accidentally broke a glass.,0564_eltor_m.mp3
+565,elront,elrontani,Tegnap elrontottam a vacsorát.,"to ruin, to spoil",Yesterday I ruined dinner.,0565_elront_m.mp3
+566,megszeg,megszegni,Tegnap megszegtem az ígéretemet.,to break (a promise),Yesterday I broke my promise.,0566_megszeg_m.mp3
+567,kutat,kutatni,A laborban új gyógyszert kutatunk.,"to research, to do research on",We are researching a new medicine in the lab.,0567_kutat_m.mp3
+568,megbán,megbánni,Most már nagyon megbántam a döntésemet.,to regret,Now I really regret my decision.,0568_megban_m.mp3
+569,tagad,tagadni,A rendőrségen mindent tagadott.,to deny,"At the police station, he denied everything.",0569_tagad_m.mp3
+570,bebizonyít,bebizonyítani,Végre bebizonyítottam az igazamat.,to prove,I finally proved that I was right.,0570_bebizonyit_m.mp3
+571,rejteget,rejtegetni,Te mindig titkokat rejtegetsz előlem.,"to keep secrets, to hide things",You are always hiding secrets from me.,0571_rejteget_m.mp3
+572,megír,megírni,Holnap megírom a levelet.,"to write up, to finish writing",I will write the letter tomorrow.,0572_megir_m.mp3
+573,lemarad,lemaradni,Majdnem lemaradtam a buszról reggel.,"to miss (a bus/train), to be left behind",I almost missed the bus this morning.,0573_lemarad_m.mp3
+574,kiáll,kiállni,Mindig kiállok a barátaim mellett.,"to stand up for, to stand by",I always stand up for my friends.,0574_kiall_m.mp3
+575,szervez,szervezni,Minden évben bulit szervezünk a parkban.,"to organize, to arrange",Every year we organize a party in the park.,0575_szervez_m.mp3
+576,tiltakozik,tiltakozni,Hangosan tiltakoztunk a döntés ellen.,"to protest, to object",We protested loudly against the decision.,0576_tiltakozik_m.mp3
+577,lassít,lassítani,A kanyarban mindig lassítok.,"to slow down, to reduce speed",I always slow down at corners.,0577_lassit_m.mp3
+578,feláll,felállni,A buszon mindig felállok az idős néniknek.,"to stand up, to get up",On the bus I always get up for elderly women.,0578_felall_m.mp3
+579,elmenekül,elmenekülni,Gyorsan elmenekültünk a tűz elől.,"to flee, to escape",We quickly fled from the fire.,0579_elmenekul_m.mp3
+580,éget,égetni,Most égetem a régi leveleket a kertben.,to burn,I am burning the old letters in the garden right now.,0580_eget_m.mp3
+581,leír,leírni,Leírom a címet egy papírra.,"to write down, to note down",I'm writing down the address on a piece of paper.,0581_leir_m.mp3
+582,elcsesz ⚠️,elcseszni,Megint elcsesztem a vizsgát.,"to fuck up, to screw up",I fucked up the exam again.,0582_elcsesz_m.mp3
+583,elutasít,elutasítani,Udvariasan elutasítottam a meghívást.,"to decline, to turn down",I politely declined the invitation.,0583_elutasit_m.mp3
+584,ráér,ráérni,Holnap délután ráérek.,"to be free, to have time",I'm free tomorrow afternoon.,0584_raer_m.mp3
+585,meggyilkol,meggyilkolni,A filmben tegnap meggyilkolták a királyt.,"to murder, to assassinate","Yesterday in the film, the king was murdered.",0585_meggyilkol_m.mp3
+586,merészel,merészelni,Nem merészelek éjszaka egyedül sétálni.,to dare,I don't dare walk alone at night.,0586_mereszel_m.mp3
+587,kever,keverni,Kanállal keverem a teát.,to stir,I'm stirring the tea with a spoon.,0587_kever_m.mp3
+588,rejt,rejteni,A mosolya szomorúságot rejt.,"to hide, to conceal",Her smile hides sadness.,0588_rejt_m.mp3
+589,elválik,elválni,Tavaly elváltam a férjemtől.,to get divorced,Last year I got divorced from my husband.,0589_elvalik_m.mp3
+590,kienged,kiengedni,Kiengedtem a kutyát a kertbe.,"to let out, to release",I let the dog out into the garden.,0590_kienged_m.mp3
+591,tol,tolni,Reggel mindig én tolom a babakocsit.,to push,In the morning I always push the stroller.,0591_tol_m.mp3
+592,behoz,behozni,Mindig behozom a postát reggel.,to bring in,I always bring in the mail in the morning.,0592_behoz_m.mp3
+593,kihúz,kihúzni,Gyorsan kihúztam a szöget a falból.,to pull out,I quickly pulled the nail out of the wall.,0593_kihuz_m.mp3
+594,alkot,alkotni,Esténként szép dolgokat alkotok.,to create,In the evenings I create beautiful things.,0594_alkot_m.mp3
+595,fárad,fáradni,Munka után gyakran nagyon fáradok.,to get tired,After work I often get very tired.,0595_farad_m.mp3
+596,képvisel,képviselni,Holnap én képviselem a cégünket.,to represent,Tomorrow I will represent our company.,0596_kepvisel_m.mp3
+597,reménykedik,reménykedni,Mindig jó hírben reménykedem.,to hope,I always hope for good news.,0597_remenykedik_m.mp3
+598,megfizet,megfizetni,Holnap megfizetem az adósságomat.,to pay off,Tomorrow I will pay off my debt.,0598_megfizet_m.mp3
+599,terjed,terjedni,A tűz gyorsan terjed a száraz erdőben.,to spread,The fire spreads quickly in the dry forest.,0599_terjed_m.mp3
+600,lazít,lazítani,Munka után mindig lazítok egy kicsit.,to relax,After work I always relax for a bit.,0600_lazit_m.mp3
+601,bukkan,bukkanni,A padláson egy régi fényképre bukkantam.,"to come across, to stumble upon",In the attic I came across an old photograph.,0601_bukkan_m.mp3
+602,felnő,felnőni,Egy kis faluban nőttem fel.,to grow up,I grew up in a small village.,0602_felno_m.mp3
+603,átgondol,átgondolni,Holnapig még átgondolom az ajánlatot.,to think over,I'll think over the offer by tomorrow.,0603_atgondol_m.mp3
+604,beismer,beismerni,Végre beismerte a hibáját.,"to admit, to acknowledge",He finally admitted his mistake.,0604_beismer_m.mp3
+605,tartóztat,tartóztatni,Sokáig tartóztattak minket a határon.,to detain,We were detained at the border for a long time.,0605_tartoztat_m.mp3
+606,felfedez,felfedezni,Tegnap felfedeztünk egy új éttermet.,"to discover, to find",Yesterday we discovered a new restaurant.,0606_felfedez_m.mp3
+607,kikapcsol,kikapcsolni,Este mindig kikapcsolom a telefonomat.,"to turn off, to switch off",I always turn off my phone in the evening.,0607_kikapcsol_m.mp3
+608,ellenáll,ellenállni,Nem tudok ellenállni a csokoládénak.,to resist,I can't resist chocolate.,0608_ellenall_m.mp3
+609,érdeklődik,érdeklődni,Mindig érdeklődöm a magyar zene iránt.,to be interested in,I'm always interested in Hungarian music.,0609_erdeklodik_m.mp3
+610,megijed,megijedni,Tegnap nagyon megijedtem a kutyától.,"to get scared, to be frightened",Yesterday I got really scared by the dog.,0610_megijed_m.mp3
+611,elutazik,elutazni,Holnap elutazom Budapestre.,"to leave (for), to travel to",Tomorrow I'm leaving for Budapest.,0611_elutazik_m.mp3
+612,mászik,mászni,Ügyesen mászom a fára.,to climb,I climb the tree well.,0612_maszik_m.mp3
+613,befog,befogni,Reggel befogja a lovakat a szekér elé.,"to harness, to hitch up",In the morning he harnesses the horses to the cart.,0613_befog_m.mp3
+614,bulizik,bulizni,Ma este a barátaimmal bulizom.,to party,Tonight I'm partying with my friends.,0614_bulizik_m.mp3
+615,megsérül,megsérülni,Tegnap megsérültem a meccsen.,"to get injured, to get hurt",Yesterday I got injured at the match.,0615_megserul_m.mp3
+616,zajlik,zajlani,Most fontos esemény zajlik a városban.,"to take place, to be going on",An important event is taking place in the city right now.,0616_zajlik_m.mp3
+617,eltéved,eltévedni,Tegnap eltévedtem a nagy városban.,to get lost,Yesterday I got lost in the big city.,0617_elteved_m.mp3
+618,előfordul,előfordulni,Ilyen hiba ritkán fordul elő.,"to occur, to happen",This kind of mistake rarely occurs.,0618_elofordul_m.mp3
+619,ráz,rázni,Reggel mindig rázom a takarót.,to shake,I always shake the blanket in the morning.,0619_raz_m.mp3
+620,rajzol,rajzolni,Most egy nagy házat rajzolok.,to draw,I'm drawing a big house right now.,0620_rajzol_m.mp3
+621,végződik,végződni,A vizsgám jól végződött.,"to end, to finish",My exam ended well.,0621_vegzodik_m.mp3
+622,házasodik,házasodni,"Jövőre házasodom, alig várom!",to get married,I'm getting married next year — I can hardly wait!,0622_hazasodik_m.mp3
+623,bukik,bukni,Nyáron a víz alá bukok.,"to dive, to go under",In the summer I dive underwater.,0623_bukik_m.mp3
+624,elkövet,elkövetni,Tegnap egy nagy hibát követtem el.,"to make, to commit",Yesterday I made a big mistake.,0624_elkovet_m.mp3
+625,eldob,eldobni,Ezt most eldobom.,"to throw away, to toss out",I'm throwing this away now.,0625_eldob_m.mp3
+626,költ,költeni,Sok pénzt költök ruhákra.,to spend,I spend a lot of money on clothes.,0626_kolt_m.mp3
+627,lefoglal,lefoglalni,Tegnap lefoglaltam egy szállodai szobát.,"to book, to reserve",Yesterday I booked a hotel room.,0627_lefoglal_m.mp3
+628,folytatódik,folytatódni,A film holnap folytatódik a moziban.,to continue,The film continues tomorrow at the cinema.,0628_folytatodik_m.mp3
+629,összeszed,összeszedni,Gyorsan összeszedem a játékokat a földről.,"to pick up, to gather",I quickly pick up the toys from the floor.,0629_osszeszed_m.mp3
+630,nevel,nevelni,Két kislányt nevelünk otthon.,"to raise, to bring up",We are raising two little girls at home.,0630_nevel_m.mp3
+631,megfordul,megfordulni,"Lassan megfordultam, és rád néztem.",to turn around,I slowly turned around and looked at you.,0631_megfordul_m.mp3
+632,ered,eredni,Régi nemesi családból eredek.,"to come from, to descend from",I come from an old noble family.,0632_ered_m.mp3
+633,gyilkol,gyilkolni,A filmben a gonosz ember kegyetlenül gyilkol.,"to kill, to murder","In the film, the evil man kills mercilessly.",0633_gyilkol_m.mp3
+634,beleegyezik,beleegyezni,Végül beleegyezett a tervbe.,"to agree to, to consent to",He finally agreed to the plan.,0634_beleegyezik_m.mp3
+635,szorít,szorítani,Ma este a magyar csapatnak szorítunk.,"to root for, to cheer for",Tonight we're rooting for the Hungarian team.,0635_szorit_m.mp3
+636,jelenik,jelenni,Néha furcsa hibák jelennek meg a képernyőn.,"to appear, to show up",Sometimes strange errors appear on the screen.,0636_jelenik_m.mp3
+637,felbukkan,felbukkanni,Hirtelen felbukkant egy ismerős arc.,"to pop up, to appear suddenly",Suddenly a familiar face appeared.,0637_felbukkan_m.mp3
+638,alkalmaz,alkalmazni,Ezt a módszert gyakran alkalmazzuk a munkában.,"to use, to apply",We often use this method at work.,0638_alkalmaz_m.mp3
+639,forgat,forgatni,Most egy új filmet forgatnak a parkban.,"to film, to shoot (a movie)",They are shooting a new film in the park right now.,0639_forgat_m.mp3
+640,feled,feledni,Sosem feledem ezt a szép napot.,to forget,I will never forget this beautiful day.,0640_feled_m.mp3
+641,mar,marni,A füst marja a szememet.,"to sting, to burn",The smoke is stinging my eyes.,0641_mar_m.mp3
+642,idehoz,idehozni,Holnap idehozom a könyvedet.,to bring here,I'll bring your book here tomorrow.,0642_idehoz_m.mp3
+643,szorul,szorulni,Most segítségre szorulunk.,"to need, to be in need of",We need help right now.,0643_szorul_m.mp3
+644,megbízik,megbízni,Teljesen megbízom benned.,to trust,I trust you completely.,0644_megbizik_m.mp3
+645,elrejt,elrejteni,Gyorsan elrejtettem a kulcsot a szőnyeg alá.,to hide,I quickly hid the key under the rug.,0645_elrejt_m.mp3
+646,tárgyal,tárgyalni,Holnap a főnökkel tárgyalok a fizetésről.,"to negotiate, to discuss",Tomorrow I'm negotiating my salary with my boss.,0646_targyal_m.mp3
+647,zuhan,zuhanni,Tegnap majdnem a földre zuhantam.,"to fall, to plunge",Yesterday I almost fell to the ground.,0647_zuhan_m.mp3
+648,csodál,csodálni,Gyakran csodálom a naplementét a tengernél.,to admire,I often admire the sunset by the sea.,0648_csodal_m.mp3
+649,boldogul,boldogulni,Egyedül is jól boldogulok a munkámmal.,"to manage, to cope",I manage just fine with my work on my own.,0649_boldogul_m.mp3
+650,passzol,passzolni,Ez a sapka jól passzol a kabátodhoz.,"to match, to go with",This hat goes well with your coat.,0650_passzol_m.mp3
+651,leállít,leállítani,Gyorsan leállítottam a gépet.,"to stop, to shut down",I quickly stopped the machine.,0651_leallit_m.mp3
+652,megtanít,megtanítani,Megtanítlak úszni a nyáron.,to teach,I'll teach you to swim this summer.,0652_megtanit_m.mp3
+653,visszautasít,visszautasítani,Udvariasan visszautasítottam a meghívást.,"to decline, to turn down",I politely declined the invitation.,0653_visszautasit_m.mp3
+654,mér,mérni,Minden reggel mérem a súlyomat.,"to weigh (oneself), to measure",I weigh myself every morning.,0654_mer_m.mp3
+655,pisil,pisilni,A kutya minden reggel a fa mellé pisil.,"to pee, to wee",The dog pees next to the tree every morning.,0655_pisil_m.mp3
+656,megijeszt,megijeszteni,Tegnap este nagyon megijesztettél engem.,"to frighten, to scare",You really scared me last night.,0656_megijeszt_m.mp3
+657,elvág,elvágni,Késsel elvágtam a zsineget.,"to cut, to cut through",I cut the string with a knife.,0657_elvag_m.mp3
+658,csökken,csökkenni,Télen gyorsan csökken a hőmérséklet.,"to drop, to decrease",In winter the temperature drops quickly.,0658_csokken_m.mp3
+659,etet,etetni,Reggel mindig etetem a macskát.,to feed,I always feed the cat in the morning.,0659_etet_m.mp3
+660,megúszik,megúszni,Szerencsére megúsztam a büntetést.,to get away with,"Luckily, I got away with it.",0660_meguszik_m.mp3
+661,meghoz,meghozni,Ma meghozzuk a fontos döntést.,to make (a decision),Today we will make the important decision.,0661_meghoz_m.mp3
+662,kussol ⚠️,kussolni,"Most kussolj egy kicsit, kérlek!","to shut up, to keep quiet","Just shut up for a bit, please!",0662_kussol_m.mp3
+663,felír,felírni,Felírom a címet egy papírra.,"to write down, to jot down",I'm writing down the address on a piece of paper.,0663_felir_m.mp3
+664,vonul,vonulni,A tüntetők lassan vonulnak a téren.,"to march, to parade",The protesters are slowly marching in the square.,0664_vonul_m.mp3
+665,izgat,izgatni,Nagyon izgatom magam a vizsga előtt.,"to get nervous, to worry",I get very nervous before the exam.,0665_izgat_m.mp3
+666,mondogat,mondogatni,"Gyakran mondogatja, hogy fáradt.","to keep saying, to repeat",He keeps saying he's tired.,0666_mondogat_m.mp3
+667,pakol,pakolni,Most pakolom a bőröndömet.,to pack,I'm packing my suitcase right now.,0667_pakol_m.mp3
+668,megkönnyebbül,megkönnyebbülni,A jó hír hallatán végre megkönnyebbültem.,to feel relieved,"When I heard the good news, I finally felt relieved.",0668_megkonnyebbul_m.mp3
+669,emelkedik,emelkedni,A nap lassan emelkedik az égen.,"to rise, to climb",The sun is slowly rising in the sky.,0669_emelkedik_m.mp3
+670,meglehet,meglehetni,"Meglehet, hogy holnap esik az eső.",to be possible,It may well rain tomorrow.,0670_meglehet_m.mp3
+671,meglepődik,meglepődni,Nagyon meglepődtem az ajándékon.,to be surprised,I was really surprised by the gift.,0671_meglepodik_m.mp3
+672,garantál,garantálni,Garantálom a gyors szállítást holnapra.,to guarantee,I guarantee fast delivery by tomorrow.,0672_garantal_m.mp3
+673,elfoglal,elfoglalni,Mindig elfoglalom a legjobb helyet.,to take (a seat/place),I always take the best seat.,0673_elfoglal_m.mp3
+674,megver,megverni,Tegnap megvertek a meccsen.,to beat up,I got beat up at the match yesterday.,0674_megver_m.mp3
+675,bevisz,bevinni,Reggel beviszem a biciklit a garázsba.,"to bring in, to take in",In the morning I bring the bike into the garage.,0675_bevisz_m.mp3
+676,bérel,bérelni,Nyáron egy kis lakást bérelünk a tengernél.,to rent,In the summer we rent a small apartment by the sea.,0676_berel_m.mp3
+677,megiszik,meginni,Reggel mindig megiszom egy csésze kávét.,"to drink up, to finish drinking",I always drink a cup of coffee in the morning.,0677_megiszik_m.mp3
+678,dumál,dumálni,Egész nap a barátaimmal dumálok.,"to chat, to yap",I chat with my friends all day long.,0678_dumal_m.mp3
+679,kivisz,kivinni,Reggel kiviszem a szemetet.,"to take out, to carry out",In the morning I take out the trash.,0679_kivisz_m.mp3
+680,bűzlik,bűzleni,A szemét már nagyon bűzlik a konyhában.,"to stink, to reek",The trash in the kitchen already stinks.,0680_buzlik_m.mp3
+681,teremt,teremteni,Gyönyörű világot teremtek.,to create,I am creating a beautiful world.,0681_teremt_m.mp3
+682,visszaszerez,visszaszerezni,Tegnap visszaszereztem a pénzemet.,"to get back, to recover",Yesterday I got my money back.,0682_visszaszerez_m.mp3
+683,kirabol,kirabolni,Tegnap kiraboltak egy nagy bankot.,to rob,Yesterday they robbed a big bank.,0683_kirabol_m.mp3
+684,akadályoz,akadályozni,Néha akadályozlak a tanulásban.,"to hinder, to obstruct",Sometimes I hinder you from studying.,0684_akadalyoz_m.mp3
+685,titkol,titkolni,Titkolom az érzéseimet előled.,"to hide, to keep secret",I am hiding my feelings from you.,0685_titkol_m.mp3
+686,nyír,nyírni,Minden héten nyírom a füvet.,to mow,I mow the grass every week.,0686_nyir_m.mp3
+687,bejelent,bejelenteni,Holnap bejelentem a jó hírt.,to announce,Tomorrow I will announce the good news.,0687_bejelent_m.mp3
+688,visszaér,visszaérni,Estére biztosan visszaérek a városból.,"to be back, to get back",I will definitely be back from the city by evening.,0688_visszaer_m.mp3
+689,kóstol,kóstolni,Ma este új levest kóstolok.,"to taste, to try",Tonight I am tasting a new soup.,0689_kostol_m.mp3
+690,vérzik,vérezni,Erősen vérzik az ujjam.,to bleed,My finger is bleeding badly.,0690_verzik_m.mp3
+691,ízlik,ízleni,Nagyon ízlik nekem ez a leves.,to taste good,This soup tastes really good to me.,0691_izlik_m.mp3
+692,belegondol,belegondolni,"Ha jobban belegondolok, igazad van.","to think it over, to think carefully about","If I think about it more carefully, you are right.",0692_belegondol_m.mp3
+693,megbíz,megbízni,Megbíztalak egy fontos feladattal.,"to entrust, to assign",I've entrusted you with an important task.,0693_megbiz_m.mp3
+694,lerombol,lerombolni,Tegnap lerombolták a régi házat.,"to demolish, to tear down",Yesterday they demolished the old house.,0694_lerombol_m.mp3
+695,hazavisz,hazavinni,Este hazaviszem a barátomat kocsival.,"to drive home, to take home",In the evening I'll drive my friend home by car.,0695_hazavisz_m.mp3
+696,tettet,tettetni,Néha betegséget tettetek a munkahelyen.,"to fake, to pretend",Sometimes you pretended to be sick at work.,0696_tettet_m.mp3
+697,létrehoz,létrehozni,Tegnap létrehoztam egy új e-mail-fiókot.,"to create, to set up",Yesterday I created a new email account.,0697_letrehoz_m.mp3
+698,felhasznál,felhasználni,Ma minden tojást felhasználtam a süteményhez.,"to use up, to use",Today I used up all the eggs for the cake.,0698_felhasznal_m.mp3
+699,visszavon,visszavonni,Tegnap visszavontam a kérdésemet.,"to take back, to withdraw",Yesterday I took back my question.,0699_visszavon_m.mp3
+700,szakad,szakadni,Mindig szakadok a nevetéstől.,"to crack up, to burst out laughing",I always crack up laughing.,0700_szakad_m.mp3
+701,helyrehoz,helyrehozni,Holnap helyrehozom a hibámat.,"to fix, to make up for",Tomorrow I'll fix my mistake.,0701_helyrehoz_m.mp3
+702,átjön,átjönni,Holnap átjössz hozzánk vacsorára?,to come over,Are you coming over for dinner tomorrow?,0702_atjon_m.mp3
+703,elfut,elfutni,A kutya gyorsan elfutott az utcán.,"to run away, to run off",The dog ran off quickly down the street.,0703_elfut_m.mp3
+704,gyújt,gyújtani,Este gyertyát gyújtok a konyhában.,to light,In the evening I light a candle in the kitchen.,0704_gyujt_m.mp3
+705,tartalmaz,tartalmazni,Ez a leves sok zöldséget tartalmaz.,to contain,This soup contains a lot of vegetables.,0705_tartalmaz_m.mp3
+706,hülyéskedik,hülyéskedni,"Ne hülyéskedj most, sietünk!","to fool around, to mess around","Don't fool around now, we're in a hurry!",0706_hulyeskedik_m.mp3
+707,leszar ⚠️,leszarni,Én leszarom az egészet.,"to not give a damn, to not give a shit",I don't give a shit about any of this.,0707_leszar_m.mp3
+708,kínoz,kínozni,Ne kínozd a macskát!,"to torment, to torture",Don't torment the cat!,0708_kinoz_m.mp3
+709,megjavít,megjavítani,Tegnap megjavítottam a régi kerékpárt.,"to fix, to repair",Yesterday I fixed the old bicycle.,0709_megjavit_m.mp3
+710,szül,szülni,Tavaly egészséges kislányt szült.,to give birth to,Last year she gave birth to a healthy baby girl.,0710_szul_m.mp3
+711,csodálkozik,csodálkozni,Nagyon csodálkozom a hideg időn.,"to be surprised, to wonder",I'm really surprised by the cold weather.,0711_csodalkozik_m.mp3
+712,betesz,betenni,Beteszem a tejet a hűtőbe.,"to put in, to place inside",I'm putting the milk in the fridge.,0712_betesz_m.mp3
+713,zaklat,zaklatni,Ne zaklass engem ilyen késő este!,"to bother, to harass",Don't bother me so late in the evening!,0713_zaklat_m.mp3
+714,ölel,ölelni,Boldogan ölelem a barátomat.,"to hug, to embrace",I happily hug my friend.,0714_olel_m.mp3
+715,megérint,megérinteni,Óvatosan megérintettem a forró tányért.,to touch,I carefully touched the hot dish.,0715_megerint_m.mp3
+716,ránéz,ránézni,Reggel mindig ránézek az órára.,"to glance at, to look at",I always look at the clock in the morning.,0716_ranez_m.mp3
+717,visszavonul,visszavonulni,Este korán visszavonulok a szobámba.,"to retire to, to withdraw to",In the evening I retire to my room early.,0717_visszavonul_m.mp3
+718,benéz,benézni,Holnap benézek hozzátok egy kávéra.,"to drop by, to stop in",Tomorrow I'll drop by your place for a coffee.,0718_benez_m.mp3
+719,pusztít,pusztítani,A vihar gyakran pusztítja a falvakat.,"to devastate, to ravage",The storm often devastates the villages.,0719_pusztit_m.mp3
+720,uralkodik,uralkodni,Sokáig uralkodott az országban.,"to rule, to reign",He ruled the country for a long time.,0720_uralkodik_m.mp3
+721,ront,rontani,A sok cukor rontja az egészséget.,"to harm, to damage",Too much sugar harms your health.,0721_ront_m.mp3
+722,idéz,idézni,Gyakran idézem a kedvenc írómat.,to quote,I often quote my favorite author.,0722_idez_m.mp3
+723,megragad,megragadni,Gyorsan megragadtam a kezét.,"to grab, to seize",I quickly grabbed their hand.,0723_megragad_m.mp3
+724,találgat,találgatni,Egész nap találgattuk a helyes választ.,"to guess, to keep guessing",We spent the whole day guessing the right answer.,0724_talalgat_m.mp3
+725,meghúz,meghúzni,Erősen meghúztam a csavart.,to tighten,I tightened the screw firmly.,0725_meghuz_m.mp3
+726,bead,beadni,Holnap beadom a kérvényt az irodában.,"to submit, to hand in",Tomorrow I will submit the application at the office.,0726_bead_m.mp3
+727,aggaszt,aggasztani,Mostanában nagyon aggasztasz engem.,"to worry, to concern",You worry me a lot lately.,0727_aggaszt_m.mp3
+728,kapcsolódik,kapcsolódni,Ma este szívesen kapcsolódom a beszélgetéshez.,to join,I am happy to join the conversation tonight.,0728_kapcsolodik_m.mp3
+729,utasít,utasítani,"Most arra utasítalak, hogy maradj.","to order, to instruct",I am ordering you to stay now.,0729_utasit_m.mp3
+730,befolyásol,befolyásolni,Az időjárás gyakran befolyásolja a hangulatomat.,"to affect, to influence",The weather often affects my mood.,0730_befolyasol_m.mp3
+731,megerőszakol,megerőszakolni,A bíróság szerint megerőszakolta az áldozatot.,to rape,"According to the court, he raped the victim.",0731_megeroszakol_m.mp3
+732,átkutat,átkutatni,Tegnap átkutattam az egész lakást.,to search thoroughly,Yesterday I searched the whole apartment thoroughly.,0732_atkutat_m.mp3
+733,elmúlik,elmúlni,Már elmúltam húszéves.,"to be past (an age), to have turned",I'm already past twenty.,0733_elmulik_m.mp3
+734,dől,dőlni,"Vigyázz, mert a falnak dőlsz!",to lean against,"Watch out, because you're leaning against the wall!",0734_dol_m.mp3
+735,fejlődik,fejlődni,Mostanában sokat fejlődöm a magyarban.,"to improve, to make progress",Lately I've been improving a lot in Hungarian.,0735_fejlodik_m.mp3
+736,megbánt,megbántani,Tegnap véletlenül megbántottam a barátomat.,"to hurt, to offend",Yesterday I accidentally hurt my friend.,0736_megbant_m.mp3
+737,mozgat,mozgatni,Reggel mindig mozgatom a karomat.,to move (a body part),Every morning I move my arm.,0737_mozgat_m.mp3
+738,harap,harapni,A kutya néha megijed és harap.,to bite,The dog sometimes gets scared and bites.,0738_harap_m.mp3
+739,parkol,parkolni,Mindig a ház előtt parkolok.,to park,I always park in front of the house.,0739_parkol_m.mp3
+740,vonatkozik,vonatkozni,Ez a szabály mindenkire vonatkozik.,"to apply to, to concern",This rule applies to everyone.,0740_vonatkozik_m.mp3
+741,hozzászokik,hozzászokni,Lassan hozzászokom az új munkához.,"to get used to, to adjust to",I'm slowly getting used to the new job.,0741_hozzaszokik_m.mp3
+742,kiver,kiverni,Tegnap kivertem a port a szőnyegből.,"to beat out, to pound out",Yesterday I beat the dust out of the carpet.,0742_kiver_m.mp3
+743,lejön,lejönni,Mindjárt lejövök a lépcsőn.,to come down,I'll be right down.,0743_lejon_m.mp3
+744,összehoz,összehozni,Tegnap összehoztam egy fontos találkozót.,"to arrange, to set up",Yesterday I arranged an important meeting.,0744_osszehoz_m.mp3
+745,különbözik,különbözni,Ez a város nagyon különbözik a miénktől.,"to differ from, to be different from",This city is very different from ours.,0745_kulonbozik_m.mp3
+746,kilyukad,kilyukadni,Tegnap kilyukadt a zoknim a sétán.,"to wear through, to get a hole",Yesterday my sock wore through on my walk.,0746_kilyukad_m.mp3
+747,üzletel,üzletelni,Régóta üzletelünk ezzel a céggel.,to do business,We've been doing business with this company for a long time.,0747_uzletel_m.mp3
+748,szalad,szaladni,Reggelente a parkban szaladok.,to run,In the mornings I run in the park.,0748_szalad_m.mp3
+749,belehal,belehalni,Majdnem belehaltam a szégyenbe tegnap.,to die of (something),I almost died of shame yesterday.,0749_belehal_m.mp3
+750,unatkozik,unatkozni,Mindig unatkozom a buszon.,to be bored,I'm always bored on the bus.,0750_unatkozik_m.mp3
+751,beszáll,beszállni,Reggel mindig beszállok a buszba.,"to get on, to board",Every morning I get on the bus.,0751_beszall_m.mp3
+752,örököl,örökölni,Tavaly egy régi házat örököltem.,to inherit,Last year I inherited an old house.,0752_orokol_m.mp3
+753,engedélyez,engedélyezni,Ma engedélyeztem a szabadságodat.,"to approve, to authorize",Today I approved your leave.,0753_engedelyez_m.mp3
+754,összeházasodik,összeházasodni,Tavaly nyáron házasodtunk össze.,to get married,We got married last summer.,0754_osszehazasodik_m.mp3
+755,gyógyul,gyógyulni,A seb gyorsan gyógyul.,to heal,The wound is healing quickly.,0755_gyogyul_m.mp3
+756,közelít,közelíteni,A vonat lassan közelít az állomáshoz.,to approach,The train is slowly approaching the station.,0756_kozelit_m.mp3
+757,ragyog,ragyogni,Ma reggel ragyogok a boldogságtól.,"to beam, to glow",This morning I am beaming with happiness.,0757_ragyog_m.mp3
+758,erőltet,erőltetni,Ne erőltesd a dolgot!,"to force, to push",Don't force it!,0758_eroltet_m.mp3
+759,sodor,sodorni,Reggel cigarettát sodrok a kertben.,to roll,In the morning I roll a cigarette in the garden.,0759_sodor_m.mp3
+760,nyílik,nyílni,Tavasszal nyílnak a virágok a kertben.,"to bloom, to open",In spring the flowers bloom in the garden.,0760_nyilik_m.mp3
+761,súg,súgni,Halkan súgok neked egy titkot.,to whisper,I quietly whisper a secret to you.,0761_sug_m.mp3
+762,gyanít,gyanítani,"Gyanítom, hogy ma esni fog.","to suspect, to have a hunch",I suspect it's going to rain today.,0762_gyanit_m.mp3
+763,kitart,kitartani,Még két napig kitartok a diétám mellett.,"to stick to, to persevere",I'll stick to my diet for two more days.,0763_kitart_m.mp3
+764,óhajt,óhajtani,Békét és nyugalmat óhajtok.,"to wish for, to desire",I wish for peace and quiet.,0764_ohajt_m.mp3
+765,megsért,megsérteni,"Ne haragudj, nem akartalak megsérteni.","to offend, to hurt (someone's feelings)","Don't be angry, I didn't mean to offend you.",0765_megsert_m.mp3
+766,beleszeret,beleszeretni,Első látásra beleszerettem a városba.,to fall in love with,I fell in love with the city at first sight.,0766_beleszeret_m.mp3
+767,megtagad,megtagadni,Mindig megtagadom tőle a segítséget.,"to refuse, to deny",I always refuse him help.,0767_megtagad_m.mp3
+768,együttműködik,együttműködni,Szívesen együttműködöm a csapattal.,"to cooperate, to work together",I'm happy to cooperate with the team.,0768_egyuttmukodik_m.mp3
+769,edz,edzeni,Minden reggel a parkban edzek.,"to train, to work out",I work out in the park every morning.,0769_edz_m.mp3
+770,fogy,fogyni,Gyorsan fogy a pénzünk.,to run out,Our money is running out fast.,0770_fogy_m.mp3
+771,fázik,fázni,Télen mindig nagyon fázom.,"to be cold, to feel cold",In winter I always feel very cold.,0771_fazik_m.mp3
+772,jegyez,jegyezni,Mindig jegyzem a határidőket a naptáramba.,"to note down, to write down",I always write down the deadlines in my calendar.,0772_jegyez_m.mp3
+773,ismétel,ismételni,Lefekvés előtt gyakran ismétlem a szavakat.,"to repeat, to go over",Before going to bed I often go over the words.,0773_ismetel_m.mp3
+774,rémlik,rémleni,"Most úgy rémlik, hogy bezártam az ajtót.","to have a vague feeling, to seem vaguely",Right now I have a vague feeling that I locked the door.,0774_remlik_m.mp3
+775,megesik,megesni,Velem is megesik néha.,"to happen, to occur",It happens to me sometimes too.,0775_megesik_m.mp3
+776,dong,dongani,Egy méh hangosan dong a kertben.,"to buzz, to hum",A bee is buzzing loudly in the garden.,0776_dong_m.mp3
+777,közeleg,közelegni,Lassan közeleg a tavasz.,"to approach, to draw near",Spring is slowly drawing near.,0777_kozeleg_m.mp3
+778,időzít,időzíteni,Az utazást a nyári szünetre időzítettem.,"to time, to schedule",I timed the trip for the summer holidays.,0778_idozit_m.mp3
+779,igazol,igazolni,Holnap igazolom a hiányzásomat az orvosnál.,"to excuse, to certify",Tomorrow I will get a doctor's note for my absence.,0779_igazol_m.mp3
+780,elkísér,elkísérni,Reggel elkísérlek a buszmegállóig.,"to walk someone to, to accompany",In the morning I will walk you to the bus stop.,0780_elkiser_m.mp3
+781,bujkál,bujkálni,Egész nap a szobájában bujkált.,"to hide, to hide away",He was hiding away in his room all day.,0781_bujkal_m.mp3
+782,eltávolít,eltávolítani,Gyorsan eltávolítom a foltot a pólóról.,"to remove, to get out",I'm quickly removing the stain from the T-shirt.,0782_eltavolit_m.mp3
+783,visszavisz,visszavinni,Holnap visszaviszem a könyvet a könyvtárba.,"to take back, to return",Tomorrow I'll take the book back to the library.,0783_visszavisz_m.mp3
+784,temet,temetni,Ma temetik a katonákat a temetőben.,to bury,Today the soldiers are being buried at the cemetery.,0784_temet_m.mp3
+785,megzavar,megzavarni,"Bocsánat, megzavartalak a munkában?","to disturb, to interrupt","Sorry, did I disturb you at work?",0785_megzavar_m.mp3
+786,szökik,szökni,Éjjel szöktem a börtönből.,"to escape, to break out",I escaped from prison at night.,0786_szokik_m.mp3
+787,megköszön,megköszönni,Megköszöntem a tanárnőnek a segítséget.,to thank (someone for something),I thanked the teacher for her help.,0787_megkoszon_m.mp3
+788,kimarad,kimaradni,Sajnos kimaradtam a buliból.,"to miss out on, to be left out of","Unfortunately, I missed out on the party.",0788_kimarad_m.mp3
+789,tartózkodik,tartózkodni,Most a szállodában tartózkodom.,"to stay, to be staying",I'm staying at the hotel right now.,0789_tartozkodik_m.mp3
+790,feltör,feltörni,Tegnap feltörték az e-mail fiókomat.,"to hack, to break into",Yesterday my email account was hacked.,0790_feltor_m.mp3
+791,erősít,erősíteni,Minden reggel edzéssel erősítem a hátizmaimat.,to strengthen,Every morning I strengthen my back muscles with exercise.,0791_erosit_m.mp3
+792,ural,uralni,Sokáig uralták az egész vidéket.,"to rule, to dominate",They ruled the whole region for a long time.,0792_ural_m.mp3
+793,szabadít,szabadítani,Most szabadítjuk a foglyot a rabságból.,"to free, to release",We are freeing the prisoner from captivity right now.,0793_szabadit_m.mp3
+794,vonz,vonzani,A nagyvárosok mindig vonzanak engem.,to attract,Big cities always attract me.,0794_vonz_m.mp3
+795,becsül,becsülni,Nagyon becsüllek téged a munkádért.,"to respect, to value",I really respect you for your work.,0795_becsul_m.mp3
+796,kizár,kizárni,Ezt a lehetőséget most nem zárom ki.,"to rule out, to exclude",I'm not ruling out this possibility right now.,0796_kizar_m.mp3
+797,ellát,ellátni,Mindennap friss vízzel látom el a kutyát.,"to supply, to provide",Every day I provide the dog with fresh water.,0797_ellat_m.mp3
+798,megsemmisít,megsemmisíteni,A tűz tegnap megsemmisítette a régi raktárt.,"to destroy, to annihilate",The fire destroyed the old warehouse yesterday.,0798_megsemmisit_m.mp3
+799,megfullad,megfulladni,Majdnem megfulladtam a sűrű füstben.,"to suffocate, to choke",I almost suffocated in the thick smoke.,0799_megfullad_m.mp3
+800,lecsap,lecsapni,Egy légyre csaptam le az asztalon.,to swat,I swatted a fly on the table.,0800_lecsap_m.mp3
+801,becsap,becsapni,Ne csapj be engem többé!,"to deceive, to fool",Don't fool me again!,0801_becsap_m.mp3
+802,kételkedik,kételkedni,Néha kételkedem a döntéseimben.,"to doubt, to have doubts about",Sometimes I doubt my own decisions.,0802_ketelkedik_m.mp3
+803,kiszed,kiszedni,Kiszedem a húst a fagyasztóból.,"to take out, to remove",I'm taking the meat out of the freezer.,0803_kiszed_m.mp3
+804,csuk,csukni,Este mindig csukom az ablakot.,"to close, to shut",I always close the window in the evening.,0804_csuk_m.mp3
+805,növel,növelni,Minden héten növelem a megtakarításomat.,"to increase, to raise",Every week I increase my savings.,0805_novel_m.mp3
+806,verekedik,verekedni,Tegnap az iskolában verekedtem egy fiúval.,"to fight, to get into a fight",Yesterday at school I got into a fight with a boy.,0806_verekedik_m.mp3
+807,merül,merülni,Nyáron mélyen a vízbe merülök.,"to dive, to plunge",In summer I dive deep into the water.,0807_merul_m.mp3
+808,felszáll,felszállni,Reggel mindig a hatos buszra szállok fel.,"to get on, to board",In the morning I always get on the number six bus.,0808_felszall_m.mp3
+809,dohányzik,dohányozni,A teraszon mindig dohányzik vacsora után.,to smoke,He always smokes on the terrace after dinner.,0809_dohanyzik_m.mp3
+810,kicserél,kicserélni,Holnap kicserélem a régi telefonomat.,"to replace, to swap out",Tomorrow I'm replacing my old phone.,0810_kicserel_m.mp3
+811,tűnődik,tűnődni,Néha sokáig tűnődöm a jövőmön.,"to ponder, to muse",Sometimes I ponder my future for a long time.,0811_tunodik_m.mp3
+812,retteg,rettegni,Mindig rettegek a fogorvostól.,"to dread, to fear",I always dread the dentist.,0812_retteg_m.mp3
+813,odavan,odalenni,Odavagyok ezért a süteményért.,"to be crazy about, to be nuts about",I'm crazy about this cake.,0813_odavan_m.mp3
+814,köszönt,köszönteni,Reggel mindig vidáman köszöntöm a szomszédokat.,to greet,Every morning I cheerfully greet the neighbors.,0814_koszont_m.mp3
+815,megemlít,megemlíteni,A megbeszélésen megemlítettem ezt a problémát.,"to mention, to bring up",I mentioned this problem at the meeting.,0815_megemlit_m.mp3
+816,büntet,büntetni,Igazságosan büntetjük a bűnösöket.,to punish,We punish the guilty fairly.,0816_buntet_m.mp3
+817,bekapcsol,bekapcsolni,Reggel mindig bekapcsolom a rádiót.,"to turn on, to switch on",Every morning I turn on the radio.,0817_bekapcsol_m.mp3
+818,csökkent,csökkenteni,Csökkentettük a költségeket tavaly.,"to reduce, to cut",We reduced the costs last year.,0818_csokkent_m.mp3
+819,feláldoz,feláldozni,Sokat feláldoztam a családomért.,to sacrifice,I sacrificed a lot for my family.,0819_felaldoz_m.mp3
+820,reggelizik,reggelizni,Reggel mindig otthon reggelizem.,to have breakfast,Every morning I have breakfast at home.,0820_reggelizik_m.mp3
+821,belefárad,belefáradni,Hamar belefáradtam a várakozásba.,"to get tired of, to grow weary of",I quickly got tired of waiting.,0821_belefarad_m.mp3
+822,kibír,kibírni,Már nem bírom ki ezt a hideget.,"to stand, to bear, to put up with",I can't take this cold anymore.,0822_kibir_m.mp3
+823,észlel,észlelni,Reggel azonnal észleltem a hibát.,"to notice, to detect",In the morning I noticed the mistake right away.,0823_eszlel_m.mp3
+824,kerget,kergetni,A kutya minden reggel kergeti a macskát.,"to chase, to run after",The dog chases the cat every morning.,0824_kerget_m.mp3
+825,kitesz,kitenni,Reggel kiteszem a szemetet az utcára.,"to put out, to take out",In the morning I take the trash out.,0825_kitesz_m.mp3
+826,megcsal,megcsalni,Sajnos megcsalt engem tavaly nyáron.,"to cheat on, to be unfaithful to","Unfortunately, he cheated on me last summer.",0826_megcsal_m.mp3
+827,lovagol,lovagolni,Minden vasárnap lovagolok a réten.,to ride (a horse),Every Sunday I go horse riding in the meadow.,0827_lovagol_m.mp3
+828,bedob,bedobni,Reggel gyorsan bedobom a leveleket a postaládába.,"to drop in, to toss into",In the morning I quickly drop the letters into the mailbox.,0828_bedob_m.mp3
+829,kérdezősködik,kérdezősködni,A szomszédról kérdezősködtem a boltban.,"to ask around about, to inquire about",I was asking around about the neighbor at the shop.,0829_kerdezoskodik_m.mp3
+830,rejtőzik,rejtőzni,Most a fa mögött rejtőzöm.,"to hide, to conceal oneself",I'm hiding behind the tree right now.,0830_rejtozik_m.mp3
+831,meggyógyul,meggyógyulni,"Remélem, hamarosan meggyógyulsz.","to get better, to recover",I hope you get better soon.,0831_meggyogyul_m.mp3
+832,idead,ideadni,"Kérlek, ideadod most a sót?","to pass, to hand","Can you pass me the salt now, please?",0832_idead_m.mp3
+833,elvár,elvárni,Mindig sok segítséget várok el tőled.,to expect,I always expect a lot of help from you.,0833_elvar_m.mp3
+834,jelöl,jelölni,Pirossal jelölöm az utat a térképen.,to mark,I'm marking the route in red on the map.,0834_jelol_m.mp3
+835,bújik,bújni,Ő gyorsan az ágy alá bújik.,"to slip (under), to hide (under)",He quickly slips under the bed.,0835_bujik_m.mp3
+836,bekerül,bekerülni,A csapatba végre bekerültem.,"to make it into, to get into",I finally made it onto the team.,0836_bekerul_m.mp3
+837,megmérgez,megmérgezni,Tegnap véletlenül megmérgezte a patkányokat.,to poison,Yesterday he accidentally poisoned the rats.,0837_megmergez_m.mp3
+838,alakít,alakítani,A színész egy orvost alakít a filmben.,"to play (a role), to portray",The actor plays a doctor in the film.,0838_alakit_m.mp3
+839,csomagol,csomagolni,Most csomagolom a bőröndömet.,to pack,I'm packing my suitcase right now.,0839_csomagol_m.mp3
+840,végignéz,végignézni,Tegnap végignéztem egy jó filmet.,to watch all the way through,Yesterday I watched a good movie all the way through.,0840_vegignez_m.mp3
+841,elhatároz,elhatározni,"Elhatároztam, hogy holnap korán kelek.","to decide, to make up one's mind",I decided that I would get up early tomorrow.,0841_elhataroz_m.mp3
+842,keveredik,keveredni,Tegnap véletlenül egy vitába keveredtem.,"to get into, to end up in",Yesterday I accidentally got into an argument.,0842_keveredik_m.mp3
+843,tanulmányoz,tanulmányozni,Most a térképet tanulmányozom.,"to study, to examine",I am studying the map right now.,0843_tanulmanyoz_m.mp3
+844,beindul,beindulni,Reggel az autó nem indult be.,to start (of an engine/vehicle),This morning the car wouldn't start.,0844_beindul_m.mp3
+845,odanéz,odanézni,"Gyorsan odanéztem, de már nem volt ott senki.","to glance over, to look that way","I quickly glanced over, but there was nobody there anymore.",0845_odanez_m.mp3
+846,csalódik,csalódni,Nagyon csalódtam ebben a filmben.,to be disappointed (in),I was very disappointed in this film.,0846_csalodik_m.mp3
+847,tartogat,tartogatni,A jó híreket a végére tartogatom.,"to save up, to keep in reserve",I am saving the good news for last.,0847_tartogat_m.mp3
+848,besétál,besétálni,Lassan besétáltam a boltba.,"to walk into, to stroll in",I slowly walked into the shop.,0848_besetal_m.mp3
+849,kísért,kísérteni,Ne kísérts engem édességgel!,to tempt,Don't tempt me with sweets!,0849_kisert_m.mp3
+850,felhúz,felhúzni,Reggel gyorsan felhúzom a kabátomat.,"to put on, to pull on (clothing)",In the morning I quickly put on my coat.,0850_felhuz_m.mp3
+851,lenyomoz,lenyomozni,Végül lenyomoztuk a tolvajt.,"to track down, to hunt down",We finally tracked down the thief.,0851_lenyomoz_m.mp3
+852,növekszik,növekedni,Tavasszal gyorsan növekszik a fű.,to grow,"In spring, the grass grows fast.",0852_novekszik_m.mp3
+853,körülnéz,körülnézni,A boltban lassan körülnéztem.,to look around,I slowly looked around the shop.,0853_korulnez_m.mp3
+854,eltemet,eltemetni,Tegnap eltemettük a kutyánkat a kertben.,to bury,Yesterday we buried our dog in the garden.,0854_eltemet_m.mp3
+855,kefél ⚠️,kefélni,Minden reggel kefélem a hajamat.,to brush (vulgar primary sense: to fuck),Every morning I brush my hair.,0855_kefel_m.mp3
+856,gyógyít,gyógyítani,Ő gyógyítja a betegeket a kórházban.,"to treat, to heal",She treats patients at the hospital.,0856_gyogyit_m.mp3
+857,felemel,felemelni,Könnyen felemelem ezt a nehéz táskát.,"to lift, to pick up",I easily lift this heavy bag.,0857_felemel_m.mp3
+858,kínál,kínálni,Mindig kávéval kínálom a vendégeket.,"to offer, to treat (someone to something)",I always offer the guests coffee.,0858_kinal_m.mp3
+859,remeg,remegni,A hidegben remegtem egy kicsit.,"to shiver, to tremble",I shivered a little in the cold.,0859_remeg_m.mp3
+860,pazarol,pazarolni,Ne pazarold a vizet reggel!,to waste,Don't waste the water in the morning!,0860_pazarol_m.mp3
+861,kiborul,kiborulni,Néha teljesen kiborulok a munkahelyen.,"to lose it, to freak out",Sometimes I totally lose it at work.,0861_kiborul_m.mp3
+862,tüntet,tüntetni,Holnap a téren tüntetünk a békéért.,"to protest, to demonstrate",Tomorrow we are demonstrating in the square for peace.,0862_tuntet_m.mp3
+863,hozzáér,hozzáérni,Ne érj hozzá a forró tűzhelyhez!,to touch,Don't touch the hot stove!,0863_hozzaer_m.mp3
+864,leszed,leszedni,Ebéd után leszedem az asztalt.,to clear (the table),After lunch I'll clear the table.,0864_leszed_m.mp3
+865,higgad,higgadni,A vita után lassan higgadok.,"to calm down, to cool down",After the argument I slowly calm down.,0865_higgad_m.mp3
+866,tesztel,tesztelni,Holnap teszteljük az új programot.,to test,Tomorrow we'll test the new program.,0866_tesztel_m.mp3
+867,hozzámegy,hozzámenni,Hozzámegyek egy orvoshoz.,to marry (said of a woman),I'm going to marry a doctor.,0867_hozzamegy_m.mp3
+868,szembenéz,szembenézni,Bátran szembenézünk a nehézségekkel.,"to face, to confront",We bravely face the difficulties.,0868_szembenez_m.mp3
+869,kerít,keríteni,Holnapra kerítek két jegyet a koncertre.,"to get hold of, to get",By tomorrow I'll get two tickets for the concert.,0869_kerit_m.mp3
+870,továbblép,továbblépni,Most már továbblépünk a következő feladatra.,"to move on, to move forward",Now we're moving on to the next task.,0870_tovabblep_m.mp3
+871,csíp,csípni,Nyáron mindig csípnek a szúnyogok.,to bite,Mosquitoes always bite in the summer.,0871_csip_m.mp3
+872,mászkál,mászkálni,Egész nap a parkban mászkáltunk.,to wander around,We wandered around the park all day.,0872_maszkal_m.mp3
+873,felébreszt,felébreszteni,Reggel hatkor felébresztelek téged.,to wake someone up,I'll wake you up at six in the morning.,0873_felebreszt_m.mp3
+874,eltart,eltartani,Egyedül tartom el őt.,"to support, to provide for",I'm supporting him on my own.,0874_eltart_m.mp3
+875,igényel,igényelni,Holnap új igazolványt igénylek.,"to apply for, to request",Tomorrow I'm applying for a new ID card.,0875_igenyel_m.mp3
+876,tűr,tűrni,Nehezen tűröm a nagy meleget nyáron.,"to tolerate, to bear",I can hardly stand the intense heat in summer.,0876_tur_m.mp3
+877,eljátszik,eljátszani,Tegnap eljátszottam az összes pénzemet.,"to gamble away, to squander",Yesterday I gambled away all my money.,0877_eljatszik_m.mp3
+878,adódik,adódni,Néha váratlan problémák adódnak a munkában.,"to come up, to arise",Sometimes unexpected problems come up at work.,0878_adodik_m.mp3
+879,tanúskodik,tanúskodni,Holnap a bíróságon fogok tanúskodni.,"to testify, to give evidence",Tomorrow I'm going to testify in court.,0879_tanuskodik_m.mp3
+880,gyárt,gyártani,Ez a gyár autókat gyárt.,"to manufacture, to produce",This factory manufactures cars.,0880_gyart_m.mp3
+881,ellenez,ellenezni,Én is ellenzem ezt a tervet.,"to oppose, to be against",I'm against this plan too.,0881_ellenez_m.mp3
+882,ütközik,ütközni,A sötétben egy falba ütköztem.,"to run into, to bump into",In the dark I ran into a wall.,0882_utkozik_m.mp3
+883,derül,derülni,Egy jó vicctől mindig jókedvre derülök.,"to cheer up, to brighten up",A good joke always cheers me up.,0883_derul_m.mp3
+884,ugrál,ugrálni,Vidáman ugrálok a parkban.,"to jump around, to bounce",I'm jumping around happily in the park.,0884_ugral_m.mp3
+885,kisétál,kisétálni,Reggel kisétáltam a házból a kertbe.,"to walk out, to stroll out",This morning I walked out of the house into the garden.,0885_kisetal_m.mp3
+886,beáll,beállni,Beálltam a sorba a boltban.,"to join a queue, to get in line",I joined the queue in the shop.,0886_beall_m.mp3
+887,felmond,felmondani,Holnap felmondok a munkahelyemen.,"to quit, to resign",I'm quitting my job tomorrow.,0887_felmond_m.mp3
+888,hever,heverni,A macska egész nap a kanapén hever.,"to lounge, to lie around",The cat lounges on the sofa all day.,0888_hever_m.mp3
+889,megjegyez,megjegyezni,Könnyen megjegyzem az új szavakat.,"to memorize, to remember",I memorize the new words easily.,0889_megjegyez_m.mp3
+890,tippel,tippelni,Mindig rosszul tippelek a meccs eredményére.,"to guess, to tip",I always guess the match result wrong.,0890_tippel_m.mp3
+891,megtilt,megtiltani,Megtiltotta nekem a dohányzást.,"to forbid, to ban",He forbade me from smoking.,0891_megtilt_m.mp3
+892,megfenyeget,megfenyegetni,Tegnap megfenyegették a szomszédot.,to threaten,Yesterday they threatened the neighbor.,0892_megfenyeget_m.mp3
+893,sül,sülni,A kenyér most sül a sütőben.,to bake,The bread is baking in the oven right now.,0893_sul_m.mp3
+894,tép,tépni,Reggel mindig tépek egy virágot a kertben.,"to pick, to pluck",Every morning I pick a flower in the garden.,0894_tep_m.mp3
+895,elhúz,elhúzni,Reggel mindig elhúzom a függönyt.,"to pull back, to open",Every morning I pull back the curtain.,0895_elhuz_m.mp3
+896,elájul,elájulni,A melegben majdnem elájultam.,"to faint, to pass out",I almost fainted in the heat.,0896_elajul_m.mp3
+897,elítél,elítélni,Szigorúan elítélem az erőszakot.,to condemn,I strongly condemn violence.,0897_elitel_m.mp3
+898,elterel,elterelni,Elterelem a figyelmét egy vicces történettel.,"to distract, to divert",I distract him with a funny story.,0898_elterel_m.mp3
+899,rátalál,rátalálni,Végre rátaláltam a kulcsomra.,"to find, to come across",I finally found my key.,0899_ratalal_m.mp3
+900,helyettesít,helyettesíteni,Ma én helyettesítem a beteg kollégámat.,"to substitute for, to cover for",Today I am covering for my sick colleague.,0900_helyettesit_m.mp3
+901,gyűlik,gyűlni,Gyűlik a pénzünk a nyaralásra.,"to accumulate, to build up",Our holiday money is adding up.,0901_gyulik_m.mp3
+902,megszólal,megszólalni,Hirtelen megszólalt a telefonom.,"to ring, to go off",Suddenly my phone rang.,0902_megszolal_m.mp3
+903,járkál,járkálni,Idegesen járkáltam a szobában.,"to pace, to walk back and forth",I was nervously pacing around the room.,0903_jarkal_m.mp3
+904,elszáll,elszállni,A madarak ősszel délre elszállnak.,"to fly away, to migrate","In autumn, the birds fly south.",0904_elszall_m.mp3
+905,betart,betartani,Mindig betartom a szabályokat.,"to follow, to obey",I always follow the rules.,0905_betart_m.mp3
+906,kiüt,kiütni,Egyetlen ütéssel kiütötte az ellenfelét.,to knock out,He knocked out his opponent with a single punch.,0906_kiut_m.mp3
+907,elvezet,elvezetni,Elvezetem a vendéget a szobájába.,"to lead, to take (someone somewhere)",I'll take the guest to their room.,0907_elvezet_m.mp3
+908,megállapít,megállapítani,Gyorsan megállapítottam az okot.,"to determine, to identify",I quickly identified the cause.,0908_megallapit_m.mp3
+909,fürdik,fürdeni,Nyáron mindennap a tóban fürdünk.,"to swim, to bathe",In summer we swim in the lake every day.,0909_furdik_m.mp3
+910,kémkedik,kémkedni,Gyakran kémkedik a szomszédok után.,"to spy on, to snoop on",He often spies on the neighbors.,0910_kemkedik_m.mp3
+911,köszönhet,köszönhetni,Neki köszönhetem a jó munkámat.,to owe (something to someone),I owe my good job to him.,0911_koszonhet_m.mp3
+912,képez,képezni,Most jó szakembereket képezünk.,"to train, to educate",We are training good professionals right now.,0912_kepez_m.mp3
+913,zuhanyozik,zuhanyozni,Reggel mindig hideg vízzel zuhanyozom.,"to shower, to take a shower",I always shower with cold water in the morning.,0913_zuhanyozik_m.mp3
+914,visszatart,visszatartani,Alig tudtam visszatartani a nevetésemet.,"to hold back, to suppress",I could barely hold back my laughter.,0914_visszatart_m.mp3
+915,rohad,rohadni,A gyümölcs lassan rohad a konyhában.,"to rot, to decay",The fruit is slowly rotting in the kitchen.,0915_rohad_m.mp3
+916,lel,lelni,Végre nyugalmat leltem itthon.,to find,I finally found peace at home.,0916_lel_m.mp3
+917,felhoz,felhozni,Mindig ezt a témát hozza fel a vacsoránál.,"to bring up, to raise (a topic)",He always brings up this topic at dinner.,0917_felhoz_m.mp3
+918,elfárad,elfáradni,Este nagyon elfáradtam a munkában.,"to get tired, to become tired",I got very tired from work in the evening.,0918_elfarad_m.mp3
+919,megőriz,megőrizni,Mindig megőrzöm a régi fényképeket.,"to keep, to preserve",I always keep the old photos.,0919_megoriz_m.mp3
+920,mutatkozik,mutatkozni,Ő ritkán mutatkozik a nyilvánosság előtt.,"to appear, to show oneself",He rarely appears in public.,0920_mutatkozik_m.mp3
+921,idegesít,idegesíteni,Nagyon idegesít ez a hangos zene.,"to annoy, to irritate",This loud music really annoys me.,0921_idegesit_m.mp3
+922,javul,javulni,Az időjárás holnap javul.,"to improve, to get better",The weather will get better tomorrow.,0922_javul_m.mp3
+923,kommunikál,kommunikálni,Az ügyfelekkel mindig udvariasan kommunikálunk.,to communicate,We always communicate politely with clients.,0923_kommunikal_m.mp3
+924,elbukik,elbukni,A vizsgán majdnem elbuktam.,to fail,I almost failed the exam.,0924_elbukik_m.mp3
+925,ültet,ültetni,Tavasszal virágokat ültetek a kertbe.,to plant,In spring I plant flowers in the garden.,0925_ultet_m.mp3
+926,süllyed,süllyedni,A hajó lassan süllyed a vízben.,to sink,The ship is slowly sinking in the water.,0926_sullyed_m.mp3
+927,izzad,izzadni,Nyáron mindig izzadok a melegben.,to sweat,I always sweat in the summer heat.,0927_izzad_m.mp3
+928,elvet,elvetni,Mindig elvetem a rossz javaslatokat.,"to reject, to dismiss",I always reject bad suggestions.,0928_elvet_m.mp3
+929,lenyúl,lenyúlni,Gyorsan lenyúltam a leesett kulcsért.,to reach down,I quickly reached down for the fallen key.,0929_lenyul_m.mp3
+930,lenyűgöz,lenyűgözni,A film tegnap teljesen lenyűgözött minket.,"to captivate, to amaze",The film completely amazed us yesterday.,0930_lenyugoz_m.mp3
+931,megnyugtat,megnyugtatni,A zene este mindig megnyugtat engem.,"to calm down, to soothe",Music always calms me down in the evening.,0931_megnyugtat_m.mp3
+932,beenged,beengedni,"Hideg van, ezért nem engedlek be.",to let in,"It's cold, so I'm not letting you in.",0932_beenged_m.mp3
+933,kiválaszt,kiválasztani,Mindig a legolcsóbb terméket választom ki.,"to pick, to choose",I always pick the cheapest product.,0933_kivalaszt_m.mp3
+934,elkészít,elkészíteni,Gyorsan elkészítem a vacsorát.,"to make, to prepare",I'll make dinner quickly.,0934_elkeszit_m.mp3
+935,szétrúg,szétrúgni,Dühösen szétrúgta a homokvárat.,to kick apart,He angrily kicked the sandcastle apart.,0935_szetrug_m.mp3
+936,játszadozik,játszadozni,A gyerekek a parkban játszadoznak.,to play around,The children are playing around in the park.,0936_jatszadozik_m.mp3
+937,megházasodik,megházasodni,Tavaly nyáron megházasodott.,to get married,He got married last summer.,0937_meghazasodik_m.mp3
+938,határoz,határozni,Holnap határozunk a nyaralásról.,"to decide, to make a decision",Tomorrow we'll decide on the holiday.,0938_hataroz_m.mp3
+939,beindít,beindítani,Reggel mindig beindítom a számítógépet.,"to start up, to boot up",I always start up the computer in the morning.,0939_beindit_m.mp3
+940,átöltözik,átöltözni,Munka után gyorsan átöltözöm otthon.,"to change clothes, to get changed",After work I quickly get changed at home.,0940_atoltozik_m.mp3
+941,megkezd,megkezdeni,Holnap megkezdjük a munkát.,"to start, to begin",Tomorrow we start work.,0941_megkezd_m.mp3
+942,felnéz,felnézni,Nagyon felnézek a tanáromra.,"to look up to, to admire",I really look up to my teacher.,0942_felnez_m.mp3
+943,megnyit,megnyitni,Reggel megnyitottam egy fontos fájlt.,to open,This morning I opened an important file.,0943_megnyit_m.mp3
+944,meggyógyít,meggyógyítani,Az orvos gyorsan meggyógyított engem.,"to cure, to heal",The doctor cured me quickly.,0944_meggyogyit_m.mp3
+945,feljön,feljönni,Reggel korán feljön a nap.,"to rise, to come up",The sun rises early in the morning.,0945_feljon_m.mp3
+946,alapul,alapulni,A döntésem a tapasztalatomon alapul.,to be based on,My decision is based on my experience.,0946_alapul_m.mp3
+947,nyilatkozik,nyilatkozni,Holnap nyilatkozik a televíziónak.,"to make a statement, to give a statement",Tomorrow he is giving a statement to the television.,0947_nyilatkozik_m.mp3
+948,megérez,megérezni,Rögtön megéreztem a veszélyt.,"to sense, to feel",I sensed the danger right away.,0948_megerez_m.mp3
+949,átlép,átlépni,Óvatosan átléptem a tócsán.,to step over,I carefully stepped over the puddle.,0949_atlep_m.mp3
+950,elveszik,elveszni,Mindig elveszek a nagy városban.,to get lost,I always get lost in a big city.,0950_elveszik_m.mp3
+951,megszokik,megszokni,Lassan megszoktam az új munkahelyet.,"to get used to, to settle into",I slowly got used to the new workplace.,0951_megszokik_m.mp3
+952,nyaral,nyaralni,Idén nyáron a tengernél nyaralunk.,"to spend the summer, to vacation",This summer we are vacationing by the sea.,0952_nyaral_m.mp3
+953,megállapodik,megállapodni,Végül megállapodtunk az árban.,"to agree on, to reach an agreement",In the end we agreed on the price.,0953_megallapodik_m.mp3
+954,megnyugszik,megnyugodni,Végre megnyugodtam egy kicsit.,"to calm down, to settle down",I finally calmed down a little.,0954_megnyugszik_m.mp3
+955,elsétál,elsétálni,Reggel elsétáltam a parkig.,"to walk to, to stroll to",In the morning I walked to the park.,0955_elsetal_m.mp3
+956,óv,óvni,Mindig óvom a bőrömet a naptól.,"to protect, to guard",I always protect my skin from the sun.,0956_ov_m.mp3
+957,lecsuk,lecsukni,Este mindig lecsukom a laptopot.,"to close, to shut",I always close my laptop in the evening.,0957_lecsuk_m.mp3
+958,takar,takarni,Este takaróval takarom a kutyát.,to cover,In the evening I cover the dog with a blanket.,0958_takar_m.mp3
+959,önt,önteni,Vizet öntök a pohárba.,to pour,I pour water into a glass.,0959_ont_m.mp3
+960,felfed,felfedni,Végre felfedte az igazságot.,"to reveal, to uncover",She finally revealed the truth.,0960_felfed_m.mp3
+961,belekeveredik,belekeveredni,Véletlenül belekeveredtem egy vitába.,"to get caught up in, to get dragged into",I accidentally got caught up in an argument.,0961_belekeveredik_m.mp3
+962,lead,leadni,Holnap leadom a házi feladatot.,"to hand in, to submit",Tomorrow I'm handing in my homework.,0962_lead_m.mp3
+963,előjön,előjönni,Végre előjött a fa mögül.,to come out,He finally came out from behind the tree.,0963_elojon_m.mp3
+964,kifejez,kifejezni,Szavakkal nehéz kifejezni az érzéseimet.,to express,It's hard to express my feelings in words.,0964_kifejez_m.mp3
+965,rajtakap,rajtakapni,Tegnap rajtakaptam a macskát lopáson.,to catch in the act,Yesterday I caught the cat stealing.,0965_rajtakap_m.mp3
+966,beállít,beállítani,Most beállítom az ébresztőórát reggelre.,to set,I'm setting my alarm for the morning.,0966_beallit_m.mp3
+967,felgyújt,felgyújtani,Tegnap este felgyújtottam a villanyt.,to turn on (the light),Last night I turned on the light.,0967_felgyujt_m.mp3
+968,aktivál,aktiválni,Most aktiválom az új bankkártyámat.,to activate,I'm activating my new bank card now.,0968_aktival_m.mp3
+969,idefigyel,idefigyelni,"Most idefigyelj, mert ez fontos!","to listen up, to pay attention","Now listen up, because this is important!",0969_idefigyel_m.mp3
+970,ügyel,ügyelni,Mindig ügyelek a rendre.,"to keep order, to keep an eye on",I always keep things in order.,0970_ugyel_m.mp3
+971,felvet,felvetni,A megbeszélésen mindig felvetek egy fontos kérdést.,to raise (a question/issue),I always raise an important question at the meeting.,0971_felvet_m.mp3
+972,tár,tárni,Reggel mindig szélesre tárom az ablakot.,"to throw open, to open wide",Every morning I throw the window wide open.,0972_tar_m.mp3
+973,megünnepel,megünnepelni,Holnap megünnepeljük a győzelmet.,to celebrate,Tomorrow we are going to celebrate the victory.,0973_megunnepel_m.mp3
+974,összeveszik,összeveszni,Tegnap összevesztem a barátommal.,"to have a fight, to quarrel",Yesterday I had a fight with my friend.,0974_osszeveszik_m.mp3
+975,barátkozik,barátkozni,Az iskolában könnyen barátkozom új emberekkel.,to make friends,At school I easily make friends with new people.,0975_baratkozik_m.mp3
+976,belenéz,belenézni,Reggel mindig belenézek a postaládába.,"to look inside, to check",Every morning I check the mailbox.,0976_belenez_m.mp3
+977,megelőz,megelőzni,Az autópályán megelőztünk egy lassú teherautót.,"to overtake, to pass",On the highway we overtook a slow truck.,0977_megeloz_m.mp3
+978,meglép,meglépni,A tolvaj gyorsan meglépett a pénzzel.,"to bolt, to make a run for it",The thief quickly bolted with the money.,0978_meglep_m.mp3
+979,fektet,fektetni,Az ágyra fektetem a babát.,to lay (someone) down,I am laying the baby down on the bed.,0979_fektet_m.mp3
+980,lehúz,lehúzni,Gyorsan lehúztam a vizes pulóveremet.,"to pull off, to take off",I quickly pulled off my wet sweater.,0980_lehuz_m.mp3
+981,megtör,megtörni,A rossz hír végül megtört engem.,"to break (someone), to crush",The bad news finally broke me.,0981_megtor_m.mp3
+982,elköltözik,elköltözni,Jövő hónapban elköltözöm egy másik városba.,"to move away, to move out",Next month I'm moving to another city.,0982_elkoltozik_m.mp3
+983,robbant,robbantani,A bányában tegnap követ robbantottak.,"to blast, to blow up",Yesterday they blasted rock in the mine.,0983_robbant_m.mp3
+984,fenntart,fenntartani,Fenntartok nektek két helyet az asztalnál.,"to reserve, to hold",I'm holding two seats at the table for you.,0984_fenntart_m.mp3
+985,megbukik,megbukni,Tegnap megbuktam a vizsgán.,to fail (an exam),Yesterday I failed the exam.,0985_megbukik_m.mp3
+986,megfogad,megfogadni,Mindig megfogadom anyám jó tanácsát.,"to take (advice), to follow",I always take my mother's good advice.,0986_megfogad_m.mp3
+987,lekapcsol,lekapcsolni,Este mindig lekapcsolom a villanyt.,"to turn off, to switch off",I always turn off the light in the evening.,0987_lekapcsol_m.mp3
+988,tisztít,tisztítani,Minden reggel tisztítom a cipőmet.,"to clean, to polish",Every morning I clean my shoes.,0988_tisztit_m.mp3
+989,kikerül,kikerülni,Mindig kikerülöm a tócsákat az úton.,"to avoid, to go around",I always avoid the puddles on the road.,0989_kikerul_m.mp3
+990,tanácsol,tanácsolni,Mindig türelmet tanácsol nekünk.,"to advise, to recommend",He always advises us to be patient.,0990_tanacsol_m.mp3
+991,elüt,elütni,Tegnap majdnem elütöttem egy kutyát.,"to hit (with a vehicle), to run over",Yesterday I almost hit a dog.,0991_elut_m.mp3
+992,ijeszt,ijeszteni,Te néha hangosan ijeszted a macskát.,"to frighten, to scare",You sometimes scare the cat with loud noises.,0992_ijeszt_m.mp3
+993,elkészül,elkészülni,A vacsora hamarosan elkészül.,"to be ready, to be done",Dinner will be ready soon.,0993_elkeszul_m.mp3
+994,épül,épülni,A ház most épül a városban.,"to be built, to be under construction",The house is being built in the city right now.,0994_epul_m.mp3
+995,borul,borulni,Ő ijedten a földre borult.,"to fall down, to collapse onto","Frightened, he fell to the ground.",0995_borul_m.mp3
+996,elrendez,elrendezni,Holnap elrendezem a papírjaimat.,"to sort out, to put in order",Tomorrow I'll sort out my papers.,0996_elrendez_m.mp3
+997,teker,tekerni,Minden reggel gyorsan tekerem a pedált.,"to pedal, to turn",Every morning I pedal fast.,0997_teker_m.mp3
+998,megnősül,megnősülni,Jövőre végre megnősülök.,to get married (of a man),Next year I'm finally getting married.,0998_megnosul_m.mp3
+999,kinyílik,kinyílni,Tavasszal kinyílnak a virágok a kertben.,"to bloom, to open up",In spring the flowers bloom in the garden.,0999_kinyilik_m.mp3
+1000,megvitat,megvitatni,Holnap megvitatjuk a tervet a munkahelyen.,"to discuss, to talk over",Tomorrow we'll discuss the plan at work.,1000_megvitat_m.mp3

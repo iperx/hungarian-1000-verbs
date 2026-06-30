@@ -1,0 +1,1001 @@
+﻿№,Ige (HU),Infinitivus,Példamondat (HU),Глагол (RU),Перевод (RU),Audio
+1,van,lenni,Ő most az iskolában van.,"быть, находиться",Он сейчас в школе.,0001_van_m.mp3
+2,tud,tudni,Nem tudok jól úszni.,"уметь, мочь; знать",Я не умею хорошо плавать.,0002_tud_m.mp3
+3,lesz,lenni,Holnap otthon leszünk egész nap.,"будет, станет",Завтра мы будем дома весь день.,0003_lesz_m.mp3
+4,kell,kelleni,Holnap korán kell kelnem.,"нужно, надо",Завтра мне нужно рано вставать.,0004_kell_m.mp3
+5,mond,mondani,Mindig igazat mondok neked.,говорить / сказать,Я всегда говорю тебе правду.,0005_mond_m.mp3
+6,akar,akarni,Ma este pizzát akarok enni.,хотеть,Сегодня вечером я хочу съесть пиццу.,0006_akar_m.mp3
+7,jön,jönni,Holnap busszal jövök az iskolába.,приходить / приезжать,Завтра я приеду в школу на автобусе.,0007_jon_m.mp3
+8,megy,menni,Holnap moziba megyek a barátommal.,"идти, ехать",Завтра я иду в кино с другом.,0008_megy_m.mp3
+9,fog,fogni,Erősen fogom a kezedet.,"хватать, держать; вспом. глагол буд. времени",Я крепко держу твою руку.,0009_fog_m.mp3
+10,lát,látni,Innen jól látom a tengert.,видеть,Отсюда я хорошо вижу море.,0010_lat_m.mp3
+11,hisz,hinni,Nem hiszek neked.,верю,Я тебе не верю.,0011_hisz_m.mp3
+12,tesz,tenni,A kulcsot mindig az asztalra teszem.,"класть, ставить; делать",Я всегда кладу ключ на стол.,0012_tesz_m.mp3
+13,csinál,csinálni,Most a házi feladatomat csinálom.,делать / сделать,Сейчас я делаю свою домашнюю работу.,0013_csinal_m.mp3
+14,szeret,szeretni,Nagyon szeretem a meleg nyári estéket.,любить,Я очень люблю тёплые летние вечера.,0014_szeret_m.mp3
+15,nincs,lenni,Ma nincs időm a boltba menni.,"нет, не имеется",Сегодня у меня нет времени идти в магазин.,0015_nincs_m.mp3
+16,néz,nézni,Este szívesen nézek filmet.,смотреть,Вечером я с удовольствием смотрю фильм.,0016_nez_m.mp3
+17,kér,kérni,"Kérek egy pohár vizet, legyen szíves.",просить,"Можно мне стакан воды, пожалуйста?",0017_ker_m.mp3
+18,beszél,beszélni,Jól beszélek magyarul.,"говорить, разговаривать",Я хорошо говорю по-венгерски.,0018_beszel_m.mp3
+19,gondol,gondolni,Gyakran gondolok a nyaralásra.,думать,Я часто думаю об отпуске.,0019_gondol_m.mp3
+20,ért,érteni,Most már jól értem a feladatot.,понимать,Теперь я уже хорошо понимаю задание.,0020_ert_m.mp3
+21,vár,várni,A buszra várok a megállóban.,ждать,Я жду автобус на остановке.,0021_var_m.mp3
+22,köszön,köszönni,Reggel mindig köszönök a szomszédoknak.,здороваться; благодарить,Утром я всегда здороваюсь с соседями.,0022_koszon_m.mp3
+23,ad,adni,Most adok neked egy pohár vizet.,давать / дать,Сейчас я дам тебе стакан воды.,0023_ad_m.mp3
+24,vesz,venni,Reggel mindig veszek friss kenyeret.,брать; покупать,Утром я всегда покупаю свежий хлеб.,0024_vesz_m.mp3
+25,hagy,hagyni,A kulcsot az asztalon hagytam.,оставлять; позволять,Я оставил ключ на столе.,0025_hagy_m.mp3
+26,áll,állni,A buszmegállóban állok és várok.,стоять,Я стою на автобусной остановке и жду.,0026_all_m.mp3
+27,tart,tartani,A film két óráig tart.,длиться; держать,Фильм длится два часа.,0027_tart_m.mp3
+28,talál,találni,Mindig találok jó könyveket a könyvtárban.,находить / найти,Я всегда нахожу хорошие книги в библиотеке.,0028_talal_m.mp3
+29,marad,maradni,Ma este otthon maradok.,оставаться / остаться,Сегодня вечером я останусь дома.,0029_marad_m.mp3
+30,hív,hívni,Este mindig hívlak telefonon.,звоню,Я всегда звоню тебе вечером по телефону.,0030_hiv_m.mp3
+31,hall,hallani,Jól hallak a telefonon.,слышать,Я хорошо тебя слышу по телефону.,0031_hall_m.mp3
+32,sajnál,sajnálni,Nagyon sajnálom ezt a hibát.,сожалеть; жалеть,Я очень сожалею об этой ошибке.,0032_sajnal_m.mp3
+33,kap,kapni,Minden reggel friss kenyeret kapok a boltban.,получать / получить,Каждое утро я получаю свежий хлеб в магазине.,0033_kap_m.mp3
+34,érez,érezni,Ma reggel nagyon jól érzem magam.,чувствовать,Сегодня утром я чувствую себя очень хорошо.,0034_erez_m.mp3
+35,segít,segíteni,Szívesen segítek neked holnap.,помогать / помочь,Я с удовольствием помогу тебе завтра.,0035_segit_m.mp3
+36,hoz,hozni,Mindig hozok ajándékot a buliba.,приносить / принести,Я всегда приношу подарок на вечеринку.,0036_hoz_m.mp3
+37,ismer,ismerni,Jól ismerem ezt a várost.,знать (быть знакомым),Я хорошо знаю этот город.,0037_ismer_m.mp3
+38,figyel,figyelni,Most figyelek a tanárra.,внимательно слушать; следить,Сейчас я слушаю учителя (внимательно).,0038_figyel_m.mp3
+39,dolgozik,dolgozni,Egy nagy gyárban dolgozom.,работать,Я работаю на большом заводе.,0039_dolgozik_m.mp3
+40,él,élni,Egy kis faluban élek.,жить,Я живу в маленькой деревне.,0040_el_m.mp3
+41,találkozik,találkozni,Holnap találkozunk a kávézóban.,встречаться / встретиться,Завтра мы встретимся в кафе.,0041_talalkozik_m.mp3
+42,próbál,próbálni,Ma este próbálunk korán lefeküdni.,пробовать,Сегодня вечером мы постараемся лечь спать пораньше.,0042_probal_m.mp3
+43,keres,keresni,A munkámmal jól keresek.,искать; зарабатывать,Я хорошо зарабатываю своей работой.,0043_keres_m.mp3
+44,tűnik,tűnni,Ma nagyon fáradtnak tűnsz.,казаться,Сегодня ты кажешься очень усталым.,0044_tunik_m.mp3
+45,szól,szólni,A telefonom most szól a táskában.,"звучать, звонить; обращаться",Мой телефон сейчас звонит в сумке.,0045_szol_m.mp3
+46,kezd,kezdeni,Reggel mindig kávéval kezdem a napot.,начинать / начать,Утром я всегда начинаю день с кофе.,0046_kezd_m.mp3
+47,elmegy,elmenni,Holnap reggel elmegyek a boltba.,"уходить / уйти, уезжать",Завтра утром я схожу в магазин.,0047_elmegy_m.mp3
+48,meghal,meghalni,Majdnem meghaltam a nevetéstől.,умирать / умереть,Я чуть не умер от смеха.,0048_meghal_m.mp3
+49,jelent,jelenteni,"Ez a szó magyarul „víz""-et jelent.",означать,Это слово по-венгерски означает «вода».,0049_jelent_m.mp3
+50,visz,vinni,Holnap viszek egy könyvet a barátomnak.,"нести, относить, везти",Завтра я отнесу книгу своему другу.,0050_visz_m.mp3
+51,lehet,lehetni,Itt nem lehet parkolni.,"можно, возможно",Здесь нельзя парковаться.,0051_lehet_m.mp3
+52,jár,járni,Minden reggel gyalog járok dolgozni.,"ходить, бывать; работать (о механизме)",Каждое утро я хожу на работу пешком.,0052_jar_m.mp3
+53,megöl,megölni,Tegnap megöltem egy farkast.,убил,Вчера я убил волка.,0053_megol_m.mp3
+54,ér,érni,Ez nagyon sokat ér nekem.,стоить (иметь цену); достигать,Это для меня очень дорого.,0054_er_m.mp3
+55,elmond,elmondani,Holnap elmondom neked a titkomat.,рассказать,Завтра я расскажу тебе свой секрет.,0055_elmond_m.mp3
+56,emlékszik,emlékezni,Jól emlékszem a tegnapi napra.,помнить,Я хорошо помню вчерашний день.,0056_emlekszik_m.mp3
+57,örül,örülni,Nagyon örülök az ajándéknak.,радоваться (чему-л.),Я очень рад(а) подарку.,0057_orul_m.mp3
+58,öl,ölni,A macska gyakran öl egeret.,убивать,Кошка часто убивает мышей.,0058_ol_m.mp3
+59,ír,írni,Minden reggel írok egy üzenetet.,писать,Каждое утро я пишу одно сообщение.,0059_ir_m.mp3
+60,enged,engedni,Nem engedi a kutyát az ágyra.,"пускать, позволять",Он не пускает собаку на кровать.,0060_enged_m.mp3
+61,remél,remélni,"Remélem, holnap szép idő lesz.",надеяться,"Надеюсь, завтра будет хорошая погода.",0061_remel_m.mp3
+62,használ,használni,Minden nap használom ezt a szótárt.,использовать,Я каждый день использую этот словарь.,0062_hasznal_m.mp3
+63,megtalál,megtalálni,Végre megtaláltam a kulcsomat a táskában.,находить / найти,Я наконец нашёл свой ключ в сумке.,0063_megtalal_m.mp3
+64,érdekel,érdekelni,Engem nagyon érdekel a magyar történelem.,интересовать,Меня очень интересует венгерская история.,0064_erdekel_m.mp3
+65,aggódik,aggódni,Mindig aggódom a vizsga előtt.,"волноваться, беспокоиться",Я всегда волнуюсь перед экзаменом.,0065_aggodik_m.mp3
+66,megvan,meglenni,"Megvan a kulcsom, mehetünk.","иметься, быть в наличии","Ключ у меня есть, можем идти.",0066_megvan_m.mp3
+67,ül,ülni,Este a kanapén ülök és olvasok.,сидеть,Вечером я сижу на диване и читаю.,0067_ul_m.mp3
+68,tetszik,tetszeni,Nagyon tetszik ez a piros kabát.,нравиться,Мне очень нравится это красное пальто.,0068_tetszik_m.mp3
+69,tehet,tehetni,"Holnap azt teheted, amit akarsz.",мочь сделать,"Завтра ты можешь делать то, что захочешь.",0069_tehet_m.mp3
+70,hal,halni,Te is éhen halsz egyszer.,умирать,Ты тоже однажды умрёшь от голода.,0070_hal_m.mp3
+71,kerül,kerülni,Mennyibe kerül ez a kávé?,стоить,Сколько стоит этот кофе?,0071_kerul_m.mp3
+72,történik,történni,Mi történik most odakint?,происходить / произойти,Что происходит сейчас снаружи?,0072_tortenik_m.mp3
+73,megtesz,megtenni,Mindent megteszek a sikerért.,"сделать, совершить",Я делаю всё ради успеха.,0073_megtesz_m.mp3
+74,kérdez,kérdezni,Mindig sokat kérdezek az órán.,спрашивать,Я всегда много спрашиваю на уроке.,0074_kerdez_m.mp3
+75,mutat,mutatni,A térképen mutatom az utat.,показывать / показать,Я показываю дорогу на карте.,0075_mutat_m.mp3
+76,játszik,játszani,A gyerekek délután a parkban játszanak.,играть,Дети днём играют в парке.,0076_jatszik_m.mp3
+77,végez,végezni,Ma korán végzek a munkával.,заканчивать; выполнять,Сегодня я рано заканчиваю с работой.,0077_vegez_m.mp3
+78,hallgat,hallgatni,Esténként szívesen hallgatok zenét.,слушать,По вечерам я с удовольствием слушаю музыку.,0078_hallgat_m.mp3
+79,küld,küldeni,Minden reggel küldök egy üzenetet a barátomnak.,посылать / послать,Каждое утро я посылаю сообщение моему другу.,0079_kuld_m.mp3
+80,számít,számítani,"Mindig számíthatsz rám, ha baj van.",рассчитывать (на кого-то); иметь значение,"Ты всегда можешь рассчитывать на меня, если случится беда.",0080_szamit_m.mp3
+81,követ,követni,Minden reggel követem a híreket.,следить за / следовать,Каждое утро я слежу за новостями.,0081_kovet_m.mp3
+82,eszik,enni,Reggel mindig kenyeret eszem.,"есть, кушать",Утром я всегда ем хлеб.,0082_eszik_m.mp3
+83,vigyáz,vigyázni,"Vigyázz, nagyon csúszós az út!","беречь, присматривать; быть осторожным","Осторожно, дорога очень скользкая!",0083_vigyaz_m.mp3
+84,jut,jutni,Hogyan jutok a pályaudvarra?,попадать,Как мне попасть на вокзал?,0084_jut_m.mp3
+85,alszik,aludni,Este mindig sokat alszom.,спать,Вечером я всегда много сплю.,0085_alszik_m.mp3
+86,megért,megérteni,Végre megértettem a feladatot.,понял,Наконец-то я понял задание.,0086_megert_m.mp3
+87,ég,égni,A napon gyorsan égek.,обгораю,На солнце я быстро обгораю.,0087_eg_m.mp3
+88,mehet,mehetni,Most már mehetsz haza.,"можно идти, мочь идти",Теперь ты уже можешь идти домой.,0088_mehet_m.mp3
+89,szerez,szerezni,Holnap szerzek két jegyet a koncertre.,"доставать, добывать",Завтра я достану два билета на концерт.,0089_szerez_m.mp3
+90,megpróbál,megpróbálni,Holnap megpróbálom megfőzni a levest.,"попробовать, попытаться",Завтра я попробую сварить суп.,0090_megprobal_m.mp3
+91,indul,indulni,Holnap reggel hatkor indulunk a tengerhez.,отправляться / отправиться,Завтра утром в шесть мы отправляемся к морю.,0091_indul_m.mp3
+92,iszik,inni,Reggel mindig kávét iszik.,пить,Утром он всегда пьёт кофе.,0092_iszik_m.mp3
+93,fizet,fizetni,Mindig kártyával fizetek a boltban.,платить / заплатить,Я всегда плачу картой в магазине.,0093_fizet_m.mp3
+94,vezet,vezetni,Minden reggel autót vezetek.,веду,Каждое утро я веду машину.,0094_vezet_m.mp3
+95,sikerül,sikerülni,Végre sikerült megtalálnom a kulcsot.,удаваться / удаться,Наконец-то мне удалось найти ключ.,0095_sikerul_m.mp3
+96,eljön,eljönni,Holnap este eljövök hozzátok vacsorára.,приходить / прийти,Завтра вечером я приду к вам на ужин.,0096_eljon_m.mp3
+97,működik,működni,A telefonom most jól működik.,"работать, функционировать (об устройстве)",Мой телефон сейчас хорошо работает.,0097_mukodik_m.mp3
+98,fogad,fogadni,Ma este vendégeket fogadunk.,принимать; держать пари,Сегодня вечером мы принимаем гостей.,0098_fogad_m.mp3
+99,állít,állítani,"Mindig azt állítja, hogy igaza van.",утверждать,"Он всегда утверждает, что прав.",0099_allit_m.mp3
+100,megmond,megmondani,Mindjárt megmondom neked az igazat.,"сказать, высказать",Сейчас я скажу тебе правду.,0100_megmond_m.mp3
+101,nyit,nyitni,Reggel nyolckor nyitom az üzletet.,открывать / открыть,Я открываю магазин в восемь утра.,0101_nyit_m.mp3
+102,esik,esni,Ma egész nap esik az eső.,идти (о дожде); падать,Сегодня весь день идёт дождь.,0102_esik_m.mp3
+103,elvisz,elvinni,Holnap elviszlek az állomásra.,"увезти, отвезти, забрать",Завтра я отвезу тебя на вокзал.,0103_elvisz_m.mp3
+104,imád,imádni,Imádom a csokoládét.,обожаю,Я обожаю шоколад.,0104_imad_m.mp3
+105,folyik,folyni,A víz lassan folyik a csapból.,течь,Вода медленно течёт из крана.,0105_folyik_m.mp3
+106,felejt,felejteni,Mindig itt felejtem a kulcsomat.,забывать (оставлять где-то),Я всегда забываю здесь свой ключ.,0106_felejt_m.mp3
+107,lép,lépni,Óvatosan lépek a jeges úton.,"шагать, ступать",Я осторожно ступаю по ледяной дороге.,0107_lep_m.mp3
+108,nyer,nyerni,Tegnap nyertem egy szép könyvet.,выигрывать / выиграть,Вчера я выиграл красивую книгу.,0108_nyer_m.mp3
+109,megnéz,megnézni,Este megnézünk egy jó filmet.,посмотреть,Вечером мы посмотрим хороший фильм.,0109_megnez_m.mp3
+110,hazudik,hazudni,"Néha hazudik, hogy ne legyen baj.","лгать, врать","Иногда он врёт, чтобы не было проблем.",0110_hazudik_m.mp3
+111,dönt,dönteni,Holnap döntök az új munkáról.,решать / решить,Завтра я приму решение о новой работе.,0111_dont_m.mp3
+112,meglát,meglátni,Végre megláttam a tengert!,"увидеть, заметить",Я наконец-то увидел море!,0112_meglat_m.mp3
+113,rájön,rájönni,Végre rájöttem a megoldásra.,"догадаться, понять",Я наконец понял решение.,0113_rajon_m.mp3
+114,bír,bírni,Nem bírom tovább ezt a meleget.,выдерживать; мочь,Я больше не могу выносить эту жару.,0114_bir_m.mp3
+115,száll,szállni,Holnap repülőre szállunk.,сядем,Завтра мы сядем на самолёт.,0115_szall_m.mp3
+116,utál,utálni,Nagyon utálom a hideg időt.,ненавидеть,Я очень ненавижу холодную погоду.,0116_utal_m.mp3
+117,elkap,elkapni,Gyorsan elkaptam a labdát.,поймал,Я быстро поймал мяч.,0117_elkap_m.mp3
+118,hangzik,hangzani,Ez a dal nagyon szépen hangzik.,звучать,Эта песня звучит очень красиво.,0118_hangzik_m.mp3
+119,hat,hatni,Te jól hatsz rám.,"действовать, влиять",Ты хорошо на меня влияешь.,0119_hat_m.mp3
+120,tölt,tölteni,Sok időt töltök otthon hétvégén.,проводить (время); наливать,Я провожу много времени дома в выходные.,0120_tolt_m.mp3
+121,tanul,tanulni,Minden este magyarul tanulok otthon.,"учить, учиться",Каждый вечер я учу венгерский дома.,0121_tanul_m.mp3
+122,megkap,megkapni,Tegnap megkaptam az új telefonomat.,получить,Вчера я получил свой новый телефон.,0122_megkap_m.mp3
+123,olvas,olvasni,Esténként szívesen olvasok egy jó könyvet.,читать,По вечерам я с удовольствием читаю хорошую книгу.,0123_olvas_m.mp3
+124,tartozik,tartozni,Még tíz euróval tartozom neked.,быть должным; относиться,Я ещё должен тебе десять евро.,0124_tartozik_m.mp3
+125,folytat,folytatni,Holnap folytatjuk a munkát.,продолжать / продолжить,Завтра мы продолжим работу.,0125_folytat_m.mp3
+126,megtud,megtudni,Holnap megtudom az eredményt.,узнать (получить информацию),Завтра я узнаю результат.,0126_megtud_m.mp3
+127,húz,húzni,Most húzom a nehéz bőröndöt.,"тянуть, тащить",Сейчас я тащу тяжёлый чемодан.,0127_huz_m.mp3
+128,felhív,felhívni,Holnap reggel felhívom az orvost.,позвонить (по телефону),Завтра утром я позвоню врачу.,0128_felhiv_m.mp3
+129,lő,lőni,Most a nyúlra lövök.,стрелять,Я сейчас стреляю в зайца.,0129_lo_m.mp3
+130,mesél,mesélni,Esténként mindig mesél a barátainak.,рассказывать,По вечерам он всегда рассказывает своим друзьям.,0130_mesel_m.mp3
+131,képzel,képzelni,Gyakran szebb jövőt képzelek magamnak.,"представлять, воображать",Я часто представляю себе лучшее будущее.,0131_kepzel_m.mp3
+132,lakik,lakni,Egy kis faluban lakom.,"жить, проживать",Я живу в маленькой деревне.,0132_lakik_m.mp3
+133,szokik,szokni,Reggel kávét szoktam inni.,"иметь обыкновение, обычно (делать)",По утрам я обычно пью кофе.,0133_szokik_m.mp3
+134,hiányzik,hiányozni,Nagyon hiányzol nekem ma.,не хватать; отсутствовать,Мне очень тебя не хватает сегодня.,0134_hianyzik_m.mp3
+135,tér,térni,Most másik útra térünk.,сворачивать,Сейчас мы сворачиваем на другую дорогу.,0135_ter_m.mp3
+136,elfelejt,elfelejteni,Tegnap elfelejtettem a nevedet.,забыть,Вчера я забыл твоё имя.,0136_elfelejt_m.mp3
+137,fáj,fájni,Reggel óta fáj a fejem.,болеть (об ощущении),С утра у меня болит голова.,0137_faj_m.mp3
+138,fordít,fordítani,Minden este angol szöveget fordítok.,переводить,Каждый вечер я перевожу английский текст.,0138_fordit_m.mp3
+139,készül,készülni,Holnap egy nehéz vizsgára készülök.,"готовиться, собираться",Завтра я готовлюсь к трудному экзамену.,0139_keszul_m.mp3
+140,siet,sietni,Reggel mindig sietek a munkába.,"спешить, торопиться",Утром я всегда спешу на работу.,0140_siet_m.mp3
+141,készít,készíteni,Ma finom levest készítek ebédre.,"готовить, изготавливать",Сегодня я готовлю вкусный суп на обед.,0141_keszit_m.mp3
+142,dob,dobni,A labdát messzire dobom.,бросать / бросить,Я бросаю мяч далеко.,0142_dob_m.mp3
+143,tűz,tűzni,Nyáron a nap erősen tűz délben.,прикалывать; печь (о солнце),Летом солнце сильно печёт в полдень.,0143_tuz_m.mp3
+144,elkezd,elkezdeni,Tegnap elkezdtem egy új könyvet.,начать,Вчера я начал новую книгу.,0144_elkezd_m.mp3
+145,beszélget,beszélgetni,Esténként szívesen beszélgetünk a teraszon.,"беседовать, разговаривать",По вечерам мы с удовольствием беседуем на террасе.,0145_beszelget_m.mp3
+146,válaszol,válaszolni,Mindig gyorsan válaszolok az emailekre.,отвечать / ответить,Я всегда быстро отвечаю на письма.,0146_valaszol_m.mp3
+147,megcsinál,megcsinálni,Holnap megcsinálom a házi feladatot.,сделать,Завтра я сделаю домашнее задание.,0147_megcsinal_m.mp3
+148,válik,válni,Lassan jó barátokká válunk.,становиться,Мы постепенно становимся хорошими друзьями.,0148_valik_m.mp3
+149,zavar,zavarni,"Ne haragudj, zavarlak egy percre?","мешать, беспокоить","Извини, я тебя побеспокою на минутку?",0149_zavar_m.mp3
+150,fordul,fordulni,Most jobbra fordulunk a sarkon.,поворачивать(ся),Сейчас мы поворачиваем направо на углу.,0150_fordul_m.mp3
+151,fut,futni,Reggel mindig futok a parkban.,"бежать, бегать",Утром я всегда бегаю в парке.,0151_fut_m.mp3
+152,okoz,okozni,A vihar sok kárt okozott tegnap.,"причинять, вызывать",Вчера буря причинила много вреда.,0152_okoz_m.mp3
+153,választ,választani,Mindig csokoládés fagylaltot választok.,выбирать / выбрать,Я всегда выбираю шоколадное мороженое.,0153_valaszt_m.mp3
+154,vág,vágni,Most vágom a kenyeret.,режу,Сейчас я режу хлеб.,0154_vag_m.mp3
+155,ígér,ígérni,Ígérek neked egy könyvet.,обещать,Я обещаю тебе книгу.,0155_iger_m.mp3
+156,visszajön,visszajönni,Holnap visszajövök a könyvért.,"вернуться, прийти обратно",Завтра я вернусь за книгой.,0156_visszajon_m.mp3
+157,harcol,harcolni,A katonák bátran harcolnak a háborúban.,"сражаться, бороться",Солдаты храбро сражаются на войне.,0157_harcol_m.mp3
+158,sír,sírni,Egész éjjel sírtam.,плакал,Я плакал всю ночь.,0158_sir_m.mp3
+159,elveszt,elveszteni,Tegnap elvesztettem a kulcsomat a parkban.,потерять,Вчера я потерял свой ключ в парке.,0159_elveszt_m.mp3
+160,megmutat,megmutatni,Holnap megmutatom neked a várost.,показать,Завтра я покажу тебе город.,0160_megmutat_m.mp3
+161,csúszik,csúszni,Télen gyakran csúszom a jégen.,скользить,Зимой я часто скольжу по льду.,0161_csuszik_m.mp3
+162,látszik,látszani,A hegyek tisztán látszanak innen.,"виднеться, казаться",Горы отсюда хорошо видны.,0162_latszik_m.mp3
+163,téved,tévedni,Néha én is tévedek a számolásban.,ошибаться,Иногда я тоже ошибаюсь в подсчётах.,0163_teved_m.mp3
+164,üt,ütni,Néha ütöm a labdát.,бить,Я иногда бью по мячу.,0164_ut_m.mp3
+165,viccel,viccelni,"Csak viccelek, ne haragudj!",шутить,"Я просто шучу, не сердись!",0165_viccel_m.mp3
+166,bánt,bántani,"Ne bánts engem, kérlek!","обижать, причинять боль","Не обижай меня, пожалуйста!",0166_bant_m.mp3
+167,érkezik,érkezni,A vonat tíz perc múlva érkezik.,прибывать,Поезд прибывает через десять минут.,0167_erkezik_m.mp3
+168,megment,megmenteni,Tegnap megmentette a kutyát a folyóból.,спасти,Вчера он спас собаку из реки.,0168_megment_m.mp3
+169,foglalkozik,foglalkozni,Esténként szívesen foglalkozom a kutyámmal.,заниматься (чем-либо),По вечерам я с удовольствием занимаюсь со своей собакой.,0169_foglalkozik_m.mp3
+170,létezik,létezni,Szerintem léteznek földönkívüliek valahol.,существовать,"По-моему, где-то существуют инопланетяне.",0170_letezik_m.mp3
+171,nevez,nevezni,Minek nevezed ezt magyarul?,называешь,Как ты это называешь по-венгерски?,0171_nevez_m.mp3
+172,haragszik,haragudni,Sokszor haragszom a rossz időjárás miatt.,"сердиться, злиться",Я часто злюсь из-за плохой погоды.,0172_haragszik_m.mp3
+173,visel,viselni,Télen mindig meleg sapkát viselek.,носить (одежду),Зимой я всегда ношу тёплую шапку.,0173_visel_m.mp3
+174,kedvel,kedvelni,Nagyon kedvelem a kollégáimat.,"любить, симпатизировать",Мне очень симпатичны мои коллеги.,0174_kedvel_m.mp3
+175,elhagy,elhagyni,Reggel elhagytam a házat.,"покидать, оставлять",Утром я покинул дом.,0175_elhagy_m.mp3
+176,elvesz,elvenni,Elvette a jogosítványomat.,"отнять, забрать",Он забрал мои водительские права.,0176_elvesz_m.mp3
+177,megtörténik,megtörténni,Velem is megtörtént ez tegnap.,случиться,Со мной это тоже вчера случилось.,0177_megtortenik_m.mp3
+178,elér,elérni,Tegnap végre elértem a barátomat telefonon.,достичь; дозвониться,Вчера я наконец дозвонился до своего друга.,0178_eler_m.mp3
+179,felvesz,felvenni,Reggel gyorsan felveszem a kabátomat.,надеть; поднять; принять,Утром я быстро надеваю своё пальто.,0179_felvesz_m.mp3
+180,gondolkodik,gondolkodni,Most a válaszon gondolkodom.,думать,Сейчас я думаю над ответом.,0180_gondolkodik_m.mp3
+181,bízik,bízni,Mindig bízom a barátaimban.,доверять (кому-л.),Я всегда доверяю своим друзьям.,0181_bizik_m.mp3
+182,bán,bánni,Most már nagyon bánom a döntésemet.,"сожалеть, жалеть",Теперь я уже очень сожалею о своём решении.,0182_ban_m.mp3
+183,változik,változni,Tavasszal gyorsan változik az időjárás.,"меняться, изменяться",Весной погода быстро меняется.,0183_valtozik_m.mp3
+184,kíván,kívánni,Boldog születésnapot kívánok neked!,желать,Желаю тебе счастливого дня рождения!,0184_kivan_m.mp3
+185,esküszik,esküdni,"Esküszöm, hogy mindig igazat mondok.","клясться, присягать","Клянусь, что всегда говорю правду.",0185_eskuszik_m.mp3
+186,szed,szedni,Reggelente vitamint szedek.,собирать; принимать (лекарство),По утрам я принимаю витамины.,0186_szed_m.mp3
+187,elintéz,elintézni,Holnap elintézem ezt a dolgot.,"уладить, устроить",Завтра я улажу это дело.,0187_elintez_m.mp3
+188,visszatér,visszatérni,Holnap visszatérek a munkába.,возвращаться / вернуться,Завтра я вернусь на работу.,0188_visszater_m.mp3
+189,kezdődik,kezdődni,A film este nyolckor kezdődik.,начинаться,Фильм начинается в восемь часов вечера.,0189_kezdodik_m.mp3
+190,árul,árulni,A piacon friss gyümölcsöt árulnak.,продавать,На рынке продают свежие фрукты.,0190_arul_m.mp3
+191,élvez,élvezni,Nyáron nagyon élvezem a tengerpartot.,"наслаждаться, получать удовольствие",Летом я очень наслаждаюсь пляжем.,0191_elvez_m.mp3
+192,zár,zárni,Este mindig kulcsra zárom az ajtót.,запираю,Вечером я всегда запираю дверь на ключ.,0192_zar_m.mp3
+193,gratulál,gratulálni,Szívből gratulálok a sikeredhez!,поздравлять / поздравить,От всего сердца поздравляю тебя с твоим успехом!,0193_gratulal_m.mp3
+194,elfogad,elfogadni,Mindig elfogadom a segítségedet.,принимать / принять,Я всегда принимаю твою помощь.,0194_elfogad_m.mp3
+195,befejez,befejezni,Holnap befejezem a munkát.,заканчивать / закончить,Завтра я закончу работу.,0195_befejez_m.mp3
+196,megígér,megígérni,"Megígérem, hogy holnap korán jövök.",обещать / пообещать,"Обещаю, что завтра приду рано.",0196_megiger_m.mp3
+197,tervez,tervezni,Nyáron Olaszországba tervezünk utazni.,планировать,Летом мы планируем поехать в Италию.,0197_tervez_m.mp3
+198,megkér,megkérni,Megkértem őt egy kis segítségre.,попросить,Я попросил его о небольшой помощи.,0198_megker_m.mp3
+199,megkérdez,megkérdezni,Megkérdezem az utat egy rendőrtől.,спросить,Я спрошу дорогу у полицейского.,0199_megkerdez_m.mp3
+200,elhisz,elhinni,Nem hiszem el ezt a történetet.,верить,Я не верю этой истории.,0200_elhisz_m.mp3
+201,kitalál,kitalálni,Sosem tudom kitalálni a jó megoldást.,придумать; угадать,Я никогда не могу придумать хорошее решение.,0201_kitalal_m.mp3
+202,táncol,táncolni,Este szívesen táncolunk a barátainkkal.,танцевать,Вечером мы с удовольствием танцуем с друзьями.,0202_tancol_m.mp3
+203,szórakozik,szórakozni,Esténként a barátaimmal szórakozom.,развлекаться,По вечерам я развлекаюсь с друзьями.,0203_szorakozik_m.mp3
+204,véd,védeni,A kapus jól védi a kaput a meccsen.,защищать / защитить,Вратарь хорошо защищает ворота на матче.,0204_ved_m.mp3
+205,ver,verni,Erősen verem az ajtót.,бить,Я сильно бью в дверь.,0205_ver_m.mp3
+206,törődik,törődni,Sokat törődöm az egészségemmel.,заботиться (о ком/чём-л.),Я много забочусь о своём здоровье.,0206_torodik_m.mp3
+207,változtat,változtatni,Néha változtatok a terveimen.,менять / изменять,Иногда я меняю свои планы.,0207_valtoztat_m.mp3
+208,tör,törni,Néha török egy poharat.,разбивать,Иногда я разбиваю стакан.,0208_tor_m.mp3
+209,halad,haladni,A vonat gyorsan halad a hegyek között.,"двигаться вперёд, продвигаться",Поезд быстро движется вперёд среди гор.,0209_halad_m.mp3
+210,kel,kelni,Minden reggel hatkor kelek.,вставать,Я встаю каждое утро в шесть.,0210_kel_m.mp3
+211,kezel,kezelni,Jól kezelem a betegeket.,лечу,Я хорошо лечу больных.,0211_kezel_m.mp3
+212,kapcsol,kapcsolni,Most a másik csatornára kapcsolok.,переключу,Сейчас я переключу на другой канал.,0212_kapcsol_m.mp3
+213,támad,támadni,Néha a kutyák hirtelen támadnak.,нападать,Иногда собаки внезапно нападают.,0213_tamad_m.mp3
+214,ellop,ellopni,Tegnap ellopták a biciklimet.,украсть,Вчера у меня украли велосипед.,0214_ellop_m.mp3
+215,megold,megoldani,Gyorsan megoldottam a feladatot.,решать / решить,Я быстро решил задание.,0215_megold_m.mp3
+216,megvéd,megvédeni,Mindig megvédelek a barátaid előtt.,защитить,Я всегда защищаю тебя перед твоими друзьями.,0216_megved_m.mp3
+217,intéz,intézni,Holnap intézem a banki ügyeket.,"улаживать, устраивать (дела)",Завтра я улажу банковские дела.,0217_intez_m.mp3
+218,mer,merni,Nem merek éjszaka egyedül hazamenni.,"сметь, осмеливаться",Я не смею ночью идти домой один.,0218_mer_m.mp3
+219,rak,rakni,A könyveket az asztalra rakom.,"класть, складывать",Я кладу книги на стол.,0219_rak_m.mp3
+220,irányít,irányítani,Ő irányítja a nagy projektet.,"управлять, руководить; направлять",Он руководит большим проектом.,0220_iranyit_m.mp3
+221,bejön,bejönni,Mindig korán bejövök az irodába.,входить / войти,Я всегда рано прихожу в офис.,0221_bejon_m.mp3
+222,gondolkozik,gondolkozni,Most a holnapi vacsorán gondolkozom.,"думать, размышлять",Сейчас я думаю о завтрашнем ужине.,0222_gondolkozik_m.mp3
+223,ellenőriz,ellenőrizni,Reggel mindig ellenőrzöm az e-mailjeimet.,проверять / проверить,Утром я всегда проверяю свою электронную почту.,0223_ellenoriz_m.mp3
+224,visszamegy,visszamenni,Holnap visszamegyek a boltba.,возвращаться / вернуться,Завтра я вернусь в магазин.,0224_visszamegy_m.mp3
+225,bizonyít,bizonyítani,A rendőröknek könnyen bizonyítottam az igazamat.,доказывать / доказать,Я легко доказал полицейским свою правоту.,0225_bizonyit_m.mp3
+226,megváltozik,megváltozni,Az időjárás hirtelen megváltozott délután.,измениться,Погода внезапно изменилась во второй половине дня.,0226_megvaltozik_m.mp3
+227,énekel,énekelni,A zuhany alatt mindig énekelek.,петь,Под душем я всегда пою.,0227_enekel_m.mp3
+228,bemegy,bemenni,Reggel korán bemegyek az irodába.,входить / войти,Утром я рано вхожу в офис.,0228_bemegy_m.mp3
+229,telik,telni,Az idő gyorsan telik a munkahelyen.,проходить (о времени),Время быстро проходит на работе.,0229_telik_m.mp3
+230,köt,kötni,Most egy meleg sálat kötök.,вязать; связывать,Сейчас я вяжу тёплый шарф.,0230_kot_m.mp3
+231,csatlakozik,csatlakozni,Holnap csatlakozom hozzátok a parkban.,присоединяться / присоединиться,Завтра я присоединюсь к вам в парке.,0231_csatlakozik_m.mp3
+232,bocsát,bocsátani,Délután szabadon bocsátják a foglyot.,"отпускать, выпускать",Днём отпускают заключённого на свободу.,0232_bocsat_m.mp3
+233,tanít,tanítani,Minden nap angolt tanítok az iskolában.,учить; преподавать,Я каждый день преподаю английский в школе.,0233_tanit_m.mp3
+234,elad,eladni,Holnap eladom a régi biciklimet.,продавать / продать,Завтра я продам свой старый велосипед.,0234_elad_m.mp3
+235,viselkedik,viselkedni,Ma nagyon jól viselkedik az osztályban.,вести себя,Сегодня он очень хорошо ведёт себя в классе.,0235_viselkedik_m.mp3
+236,győz,győzni,Ma este biztosan győzünk a meccsen.,побеждать / победить,Сегодня вечером мы наверняка победим в матче.,0236_gyoz_m.mp3
+237,mozdul,mozdulni,Reggel nagyon nehezen mozdulok.,пошевелиться,Утром мне очень трудно пошевелиться.,0237_mozdul_m.mp3
+238,sétál,sétálni,Minden reggel a parkban sétálok.,гулять; прогуливаться,Каждое утро я гуляю в парке.,0238_setal_m.mp3
+239,megáll,megállni,A piros lámpánál mindig megállunk.,останавливаться / остановиться,На красный свет мы всегда останавливаемся.,0239_megall_m.mp3
+240,fekszik,feküdni,Este tíz órakor az ágyban fekszem.,лежу,Вечером в десять часов я лежу в кровати.,0240_fekszik_m.mp3
+241,megérkezik,megérkezni,Holnap reggel érkezünk meg Budapestre.,прибывать / прибыть,Завтра утром мы прибудем в Будапешт.,0241_megerkezik_m.mp3
+242,megbeszél,megbeszélni,Holnap megbeszéljük a tervet.,обсуждать / обсудить,Завтра мы обсудим план.,0242_megbeszel_m.mp3
+243,szolgál,szolgálni,Két évig szolgáltam a hadseregben.,служить,Я служил в армии два года.,0243_szolgal_m.mp3
+244,egyetért,egyetérteni,Teljesen egyetértek veled ebben.,"соглашаться, быть согласным",Я полностью с тобой в этом согласен.,0244_egyetert_m.mp3
+245,repül,repülni,Holnap Budapestre repülök.,"лететь, летать",Завтра я лечу в Будапешт.,0245_repul_m.mp3
+246,utazik,utazni,Nyáron gyakran utazom a tengerhez.,путешествовать; ехать,Летом я часто езжу к морю.,0246_utazik_m.mp3
+247,vet,vetni,Tavasszal búzát vetünk a földbe.,бросать; сеять,Весной мы сеем пшеницу в землю.,0247_vet_m.mp3
+248,elveszít,elveszíteni,Tegnap elveszítettem a kulcsomat a parkban.,терять / потерять,Вчера я потерял свой ключ в парке.,0248_elveszit_m.mp3
+249,illet,illetni,Ez a kérdés engem is illet.,"касаться (кого-л.), относиться (к кому-л.)",Этот вопрос касается и меня.,0249_illet_m.mp3
+250,basz ⚠️,baszni,Tegnap este végre megint basztunk.,"трахать, ебать (груб.)",Вчера вечером мы наконец снова трахались.,0250_basz_m.mp3
+251,művel,művelni,Most a kertet műveljük.,обрабатывать,Сейчас мы обрабатываем сад.,0251_muvel_m.mp3
+252,lop,lopni,Néha lopok cukrot a boltban.,краду,Иногда я краду сахар в магазине.,0252_lop_m.mp3
+253,vállal,vállalni,Szívesen vállalom a nehéz feladatot.,брать на себя; браться (за что-л.),Я охотно берусь за трудное задание.,0253_vallal_m.mp3
+254,emlékezik,emlékezni,Jól emlékszem erre a napra.,"помнить, вспоминать (на что-л. — -ra/-re)",Я хорошо помню этот день.,0254_emlekezik_m.mp3
+255,elárul,elárulni,Soha nem árulom el a titkodat.,"выдавать (тайну), раскрывать",Я никогда не выдам твой секрет.,0255_elarul_m.mp3
+256,ajánl,ajánlani,Ajánlok neked egy jó éttermet.,рекомендовать; предлагать,Я рекомендую тебе хороший ресторан.,0256_ajanl_m.mp3
+257,emel,emelni,Lassan emelem a nehéz dobozt.,поднимать,Я медленно поднимаю тяжёлую коробку.,0257_emel_m.mp3
+258,megad,megadni,Holnap megadom neked a pénzt.,отдавать; возвращать (долг),Завтра я отдам тебе деньги.,0258_megad_m.mp3
+259,bemutat,bemutatni,Holnap bemutatom az új kollégámat.,представлять; показывать,Завтра я представлю своего нового коллегу.,0259_bemutat_m.mp3
+260,értékel,értékelni,Nagyon értékelem a segítségedet.,ценить; оценивать,Я очень ценю твою помощь.,0260_ertekel_m.mp3
+261,jelentkezik,jelentkezni,Holnap jelentkezem egy nyelvtanfolyamra.,записываться (куда-л.),Завтра я запишусь на языковые курсы.,0261_jelentkezik_m.mp3
+262,kinyit,kinyitni,Reggel mindig kinyitom az ablakot.,открывать / открыть,Утром я всегда открываю окно.,0262_kinyit_m.mp3
+263,telefonál,telefonálni,Este telefonálok a barátomnak.,звонить (по телефону),Вечером я звоню своему другу.,0263_telefonal_m.mp3
+264,eltűnik,eltűnni,Reggelre eltűnt a hó az utcáról.,исчезать / исчезнуть,К утру снег исчез с улицы.,0264_eltunik_m.mp3
+265,épít,építeni,Most egy nagy házat építünk.,строить / построить,Сейчас мы строим большой дом.,0265_epit_m.mp3
+266,lóg,lógni,A kabát a szekrényben lóg.,висеть,Пальто висит в шкафу.,0266_log_m.mp3
+267,foglal,foglalni,Asztalt foglalok ma este a vacsorához.,бронировать; занимать,Я бронирую столик сегодня вечером на ужин.,0267_foglal_m.mp3
+268,gondoskodik,gondoskodni,Mindig gondoskodom a növényekről.,заботиться (о ком/чём-л.),Я всегда забочусь о растениях.,0268_gondoskodik_m.mp3
+269,említ,említeni,Tegnap említettem ezt a problémát.,упоминать / упомянуть,Вчера я упомянул эту проблему.,0269_emlit_m.mp3
+270,ment,menteni,Tegnap mentett egy kiskutyát a folyóból.,спас,Вчера он спас щенка из реки.,0270_ment_m.mp3
+271,lefekszik,lefeküdni,Este tíz órakor fekszem le.,ложиться (спать),Вечером в десять часов я ложусь спать.,0271_lefekszik_m.mp3
+272,kimegy,kimenni,Reggel kimegyek a kertbe.,выходить / выйти (наружу),Утром я выхожу в сад.,0272_kimegy_m.mp3
+273,felad,feladni,Soha nem adom fel a céljaimat.,сдаваться; отказываться (от чего-л.); сдавать (письмо),Я никогда не отказываюсь от своих целей.,0273_felad_m.mp3
+274,kijön,kijönni,Lassan kijövök a házból.,выхожу,Я медленно выхожу из дома.,0274_kijon_m.mp3
+275,ugrik,ugrani,Reggel mindig ugrom egyet.,прыгать / прыгнуть,Утром я всегда немного прыгаю.,0275_ugrik_m.mp3
+276,meglesz,meglenni,Holnapra meglesz az ebéd.,будет готов; появится,К завтрашнему дню обед будет готов.,0276_meglesz_m.mp3
+277,hazamegy,hazamenni,Délután korán hazamegyek a munkából.,идти / пойти домой,Днём я рано иду домой с работы.,0277_hazamegy_m.mp3
+278,idejön,idejönni,"Idejössz hozzám holnap, kérlek?",подойти,"Ты подойдёшь ко мне завтра, пожалуйста?",0278_idejon_m.mp3
+279,megismer,megismerni,Tegnap megismertem egy kedves lányt.,познакомиться (с кем-то); узнать,Вчера я познакомился с одной милой девушкой.,0279_megismer_m.mp3
+280,szenved,szenvedni,Télen mindig sokat szenvedek a hidegtől.,"страдать, мучиться",Зимой я всегда сильно страдаю от холода.,0280_szenved_m.mp3
+281,megszerez,megszerezni,Tegnap megszereztem a jegyeket a koncertre.,"достать, раздобыть",Вчера я достал билеты на концерт.,0281_megszerez_m.mp3
+282,megállít,megállítani,Megállította az autót az úton.,остановил,Он остановил машину на дороге.,0282_megallit_m.mp3
+283,nevet,nevetni,Most nagyon hangosan nevet.,смеяться,Сейчас он очень громко смеётся.,0283_nevet_m.mp3
+284,megőrül,megőrülni,Majdnem megőrültem ettől a zajtól.,сходить / сойти с ума,Я чуть не сошёл с ума от этого шума.,0284_megorul_m.mp3
+285,menekül,menekülni,Gyorsan menekülök a hideg elől.,убегаю,Я быстро убегаю от холода.,0285_menekul_m.mp3
+286,megváltoztat,megváltoztatni,Holnap megváltoztatom a jelszavamat.,изменять / изменить,Завтра я изменю свой пароль.,0286_megvaltoztat_m.mp3
+287,veszít,veszíteni,Tegnap megint veszítettünk egy fontos meccset.,терять; проигрывать,Вчера мы снова проиграли важный матч.,0287_veszit_m.mp3
+288,vél,vélni,Okos embernek vélem őt.,считать,Я считаю его умным человеком.,0288_vel_m.mp3
+289,megkeres,megkeresni,Holnap megkeresem a barátomat.,разыскать; обратиться к кому-л.,Завтра я разыщу своего друга (обращусь к своему другу).,0289_megkeres_m.mp3
+290,észrevesz,észrevenni,Azonnal észrevettem a hibát a szövegben.,замечать / заметить,Я сразу заметил ошибку в тексте.,0290_eszrevesz_m.mp3
+291,ébred,ébredni,Reggel hét órakor ébredek.,просыпаться,Я просыпаюсь утром в семь часов.,0291_ebred_m.mp3
+292,javasol,javasolni,Javaslok neked egy másik megoldást.,"советовать, предлагать",Я предлагаю тебе другое решение.,0292_javasol_m.mp3
+293,elküld,elküldeni,Holnap elküldöm neked az e-mailt.,отправлять / отослать,Завтра я отправлю тебе электронное письмо.,0293_elkuld_m.mp3
+294,baszik ⚠️,baszni,Én tegnap este basztam a barátnőmet.,трахать; ёб*ть,Вчера вечером я трахал свою девушку.,0294_baszik_m.mp3
+295,támogat,támogatni,Mindig támogatom a barátaimat.,поддерживать,Я всегда поддерживаю своих друзей.,0295_tamogat_m.mp3
+296,elhoz,elhozni,Holnap elhozom a könyvet.,приносить / принести,Завтра я принесу книгу.,0296_elhoz_m.mp3
+297,megbocsát,megbocsátani,Mindig megbocsátok a barátaimnak.,прощать / простить,Я всегда прощаю своих друзей.,0297_megbocsat_m.mp3
+298,pihen,pihenni,Most pihenek egy kicsit a kanapén.,отдыхать,Сейчас я немного отдыхаю на диване.,0298_pihen_m.mp3
+299,kirúg,kirúgni,Tegnap kirúgtak a munkahelyemről.,увольнять / уволить,Вчера меня уволили с работы.,0299_kirug_m.mp3
+300,távozik,távozni,Most azonnal távozom a teremből.,уходить / уйти,Я сейчас же ухожу из зала.,0300_tavozik_m.mp3
+301,megtanul,megtanulni,Tavaly megtanultam jól úszni.,выучить; научиться,В прошлом году я научился хорошо плавать.,0301_megtanul_m.mp3
+302,lelép,lelépni,Reggel csendben lelépek a buliból.,"смыться, свалить (уйти)",Утром я тихо сваливаю с вечеринки.,0302_lelep_m.mp3
+303,odaad,odaadni,Holnap odaadom neked a könyvet.,отдавать / отдать,Завтра я отдам тебе книгу.,0303_odaad_m.mp3
+304,magyaráz,magyarázni,Lassan és türelmesen magyarázza a leckét.,объясняет,Он медленно и терпеливо объясняет урок.,0304_magyaraz_m.mp3
+305,imádkozik,imádkozni,Minden este imádkozik a szobájában.,молится,Каждый вечер он молится в своей комнате.,0305_imadkozik_m.mp3
+306,abbahagy,abbahagyni,Most abbahagyom a munkát.,прекращать / бросать,Сейчас я прекращаю работу.,0306_abbahagy_m.mp3
+307,letartóztat,letartóztatni,Tegnap letartóztatták a tolvajt.,арестовывать / арестовать,Вчера арестовали вора.,0307_letartoztat_m.mp3
+308,koncentrál,koncentrálni,Most nem tudok jól koncentrálni.,сосредотачиваться; концентрироваться,Сейчас я не могу хорошо сосредоточиться.,0308_koncentral_m.mp3
+309,átad,átadni,Most átadom neked a könyvet.,передавать / передать,Сейчас я передаю тебе книгу.,0309_atad_m.mp3
+310,megtámad,megtámadni,Hirtelen megtámadtam egy nagy kutyát.,напал,Я внезапно напал на большую собаку.,0310_megtamad_m.mp3
+311,örvend,örvendeni,Nagyon örvendek a találkozásnak!,радоваться; быть радым,Я очень рад встрече!,0311_orvend_m.mp3
+312,rendel,rendelni,Egy kávét rendelek a kávézóban.,заказывать / заказать,Я заказываю кофе в кафе.,0312_rendel_m.mp3
+313,vall,vallani,A rendőrségen őszintén vallottam mindent.,признаваться; давать показания,В полиции я честно во всём признался.,0313_vall_m.mp3
+314,késik,késni,Mindig késem az óráról.,опаздывать,Я всегда опаздываю на урок.,0314_kesik_m.mp3
+315,küzd,küzdeni,Minden nap keményen küzdök a céljaimért.,"бороться, сражаться",Каждый день я упорно борюсь за свои цели.,0315_kuzd_m.mp3
+316,mozog,mozogni,Reggelente sokat mozgok a parkban.,двигаться,По утрам я много двигаюсь в парке.,0316_mozog_m.mp3
+317,meglátogat,meglátogatni,Holnap meglátogatom a barátomat.,навещать / навестить,Завтра я навещу своего друга.,0317_meglatogat_m.mp3
+318,megér,megérni,Ez a film megéri a pénzt.,стоить (того),Этот фильм стоит своих денег.,0318_meger_m.mp3
+319,árt,ártani,A sok cukor árt az egészségnek.,вредить / навредить,Много сахара вредит здоровью.,0319_art_m.mp3
+320,bezár,bezárni,Este mindig bezárom az ajtót.,закрывать / запирать,Вечером я всегда закрываю дверь (на ключ).,0320_bezar_m.mp3
+321,gyűlöl,gyűlölni,Gyűlölöm a hideg időt télen.,ненавидеть,Я ненавижу холодную погоду зимой.,0321_gyulol_m.mp3
+322,túlél,túlélni,Szerencsére túléltem a hosszú telet.,"выжить, пережить","К счастью, я пережил долгую зиму.",0322_tulel_m.mp3
+323,emlékeztet,emlékeztetni,Mindig emlékeztet engem a régi nyári napokra.,напоминать / напомнить,Это всегда напоминает мне о старых летних днях.,0323_emlekeztet_m.mp3
+324,vágyik,vágyni,Néha egy kis nyugalomra vágyom.,"жаждать, страстно желать",Иногда я жажду немного покоя.,0324_vagyik_m.mp3
+325,vacsorázik,vacsorázni,Ma este otthon vacsorázunk.,ужинать,Сегодня вечером мы ужинаем дома.,0325_vacsorazik_m.mp3
+326,születik,születni,Egy nagyon hideg téli napon születtem.,рождаться / родиться,Я родился в очень холодный зимний день.,0326_szuletik_m.mp3
+327,megegyezik,megegyezni,Végül megegyeztünk az árban.,договариваться / договориться,В конце концов мы договорились о цене.,0327_megegyezik_m.mp3
+328,rúg,rúgni,Erősen rúgta a labdát.,ударил,Он сильно ударил по мячу.,0328_rug_m.mp3
+329,átmegy,átmenni,Holnap átmegyek a vizsgán.,переходить / перейти; сдать (экзамен),Завтра я сдам экзамен.,0329_atmegy_m.mp3
+330,múlik,múlni,Gyorsan múlik az idő nyáron.,проходить (о времени),Летом время проходит быстро.,0330_mulik_m.mp3
+331,próbálkozik,próbálkozni,Még egyszer próbálkozom holnap reggel.,"пробовать, пытаться",Я попробую ещё раз завтра утром.,0331_probalkozik_m.mp3
+332,megjön,megjönni,Este végre megjöttem.,пришёл,Вечером я наконец-то пришёл.,0332_megjon_m.mp3
+333,figyelmeztet,figyelmeztetni,Mindig figyelmeztet engem a veszélyre.,предупреждать,Он всегда предупреждает меня об опасности.,0333_figyelmeztet_m.mp3
+334,rendez,rendezni,Minden évben bulit rendezünk a kertben.,устраивать / организовывать (вечеринку); режиссировать,Каждый год мы устраиваем вечеринку в саду.,0334_rendez_m.mp3
+335,mosolyog,mosolyogni,Boldogan mosolygott a tükör előtt.,улыбаться,Она счастливо улыбалась перед зеркалом.,0335_mosolyog_m.mp3
+336,függ,függeni,A kabát a fogason függ.,висеть; зависеть,Пальто висит на вешалке.,0336_fugg_m.mp3
+337,alakul,alakulni,Lassan minden jól alakul.,"складываться, формироваться",Постепенно всё складывается хорошо.,0337_alakul_m.mp3
+338,számol,számolni,Minden este számolom a pénzt.,считать,Каждый вечер я считаю деньги.,0338_szamol_m.mp3
+339,elenged,elengedni,Most elengedem a kutyát a parkban.,отпускать / отпустить,Сейчас я отпускаю собаку в парке.,0339_elenged_m.mp3
+340,könyörög,könyörögni,"Sokáig könyörögtem neki, de nemet mondott.",умолять; молить,"Я долго умолял его, но он сказал нет.",0340_konyorog_m.mp3
+341,randizik,randizni,Szombaton este egy fiúval randizom.,ходить на свидания; встречаться,В субботу вечером у меня свидание с парнем.,0341_randizik_m.mp3
+342,álmodik,álmodni,Tegnap éjjel szépet álmodtam.,видеть сон; мечтать,Прошлой ночью мне приснился хороший сон.,0342_almodik_m.mp3
+343,hasonlít,hasonlítani,Nagyon hasonlítasz az anyukádra.,"быть похожим, походить",Ты очень похож на свою маму.,0343_hasonlit_m.mp3
+344,költözik,költözni,Jövő hónapban új lakásba költözöm.,переезжать / переехать,В следующем месяце я переезжаю в новую квартиру.,0344_koltozik_m.mp3
+345,feltételez,feltételezni,"Feltételezem, hogy holnap esni fog.",предполагать / предположить,"Я предполагаю, что завтра будет дождь.",0345_feltetelez_m.mp3
+346,helyez,helyezni,A könyvet az asztalra helyezem.,класть / помещать,Я кладу книгу на стол.,0346_helyez_m.mp3
+347,fest,festeni,Ma kékre festem a szobát.,красить; рисовать; выглядеть,Сегодня я крашу комнату в синий цвет.,0347_fest_m.mp3
+348,bánik,bánni,Mindig kedvesen bánik a vendégekkel.,обращаться (с кем-л.),Он всегда любезно обращается с гостями.,0348_banik_m.mp3
+349,elindul,elindulni,Reggel hétkor elindulunk a vonattal.,"отправляться / отправиться, трогаться",Утром в семь мы отправляемся на поезде.,0349_elindul_m.mp3
+350,bámul,bámulni,Gyakran bámulom az utcát az ablakból.,глазею,Я часто глазею на улицу из окна.,0350_bamul_m.mp3
+351,származik,származni,Én Oroszországból származom.,"быть родом, происходить",Я родом из России.,0351_szarmazik_m.mp3
+352,kiderít,kideríteni,Holnap kiderítem az igazságot.,выяснять / выяснить,Завтра я выясню правду.,0352_kiderit_m.mp3
+353,átvesz,átvenni,Holnap átveszem a csomagot a postán.,принимать / получать,Завтра я заберу (получу) посылку на почте.,0353_atvesz_m.mp3
+354,szabadul,szabadulni,Holnap szabadulok a kórházból.,освобождаться; выбираться,Завтра я выписываюсь из больницы.,0354_szabadul_m.mp3
+355,dug,dugni,A kulcsot a zsebembe dugom.,"совать, засовывать",Я кладу (сую) ключ в карман.,0355_dug_m.mp3
+356,indít,indítani,Reggel mindig elsőként indítom a számítógépet.,запускать / запустить; заводить,Утром я всегда первым запускаю компьютер.,0356_indit_m.mp3
+357,megenged,megengedni,"Ma megengedem, hogy tovább játssz.",разрешать / позволять,Сегодня я разрешаю тебе играть дольше.,0357_megenged_m.mp3
+358,főz,főzni,Ma este levest főzök vacsorára.,"варить, готовить (еду)",Сегодня вечером я варю суп на ужин.,0358_foz_m.mp3
+359,parancsol,parancsolni,"Ne parancsolj nekem, kérlek!",приказывать,"Не приказывай мне, пожалуйста!",0359_parancsol_m.mp3
+360,üdvözöl,üdvözölni,Üdvözlöm a vendégeket az ajtóban.,приветствовать; передавать привет,Я приветствую гостей в дверях.,0360_udvozol_m.mp3
+361,biztosít,biztosítani,Minden évben biztosítom az autómat.,страховать; обеспечивать; заверять,Каждый год я страхую свою машину.,0361_biztosit_m.mp3
+362,lelő,lelőni,Egy nyulat lőtt le a réten.,застрелить,Он застрелил зайца на лугу.,0362_lelo_m.mp3
+363,megtart,megtartani,Megtartom ezt a régi könyvet.,"сохранить, оставить себе",Я оставлю себе эту старую книгу.,0363_megtart_m.mp3
+364,old,oldani,A sót vízben oldom.,растворяю,Я растворяю соль в воде.,0364_old_m.mp3
+365,megvesz,megvenni,Holnap megveszem ezt a könyvet.,купить,Завтра я куплю эту книгу.,0365_megvesz_m.mp3
+366,következik,következni,Most te következel a sorban.,"быть следующим, следовать",Теперь твоя очередь (ты следующий в очереди).,0366_kovetkezik_m.mp3
+367,flörtöl,flörtölni,A buliban sokat flörtöl velem.,флиртовать (с кем-л. — vkivel),На вечеринке он много флиртует со мной.,0367_flortol_m.mp3
+368,illik,illeni,Ez a kalap nagyon jól illik hozzád.,"подходить, идти (кому-л.)",Эта шляпа тебе очень идёт.,0368_illik_m.mp3
+369,nyúl,nyúlni,Ne nyúlj a forró tűzhelyhez!,трогать (к чему-л.),Не трогай горячую плиту!,0369_nyul_m.mp3
+370,megmagyaráz,megmagyarázni,Holnap megmagyarázom neked a feladatot.,объяснить,Завтра я объясню тебе задание.,0370_megmagyaraz_m.mp3
+371,hord,hordani,Télen mindig meleg sapkát hordok.,носить (одежду),Зимой я всегда ношу тёплую шапку.,0371_hord_m.mp3
+372,elrabol,elrabolni,A filmben elrabolják a kislányt.,похитить,В фильме похищают девочку.,0372_elrabol_m.mp3
+373,meggondol,meggondolni,Holnapig meggondolom a dolgot.,"обдумать, взвесить",Я обдумаю это дело до завтра.,0373_meggondol_m.mp3
+374,ragad,ragadni,Ma egész nap itthon ragadtam.,прилипать; застрять,Сегодня я весь день застрял дома.,0374_ragad_m.mp3
+375,hajt,hajtani,Gyorsan hajtok az autópályán.,ехать,Я быстро еду по автостраде.,0375_hajt_m.mp3
+376,felismer,felismerni,Azonnal felismertem a régi barátomat.,"узнать, распознать",Я сразу узнал своего старого друга.,0376_felismer_m.mp3
+377,kiabál,kiabálni,Miért kiabálsz rám ilyen hangosan?,кричать,Почему ты кричишь на меня так громко?,0377_kiabal_m.mp3
+378,osztozik,osztozni,Mindig osztozunk a süteményen.,делиться,Мы всегда делимся пирожным.,0378_osztozik_m.mp3
+379,von,vonni,Magára vonja a figyelmet.,"тянуть, притягивать",Он привлекает к себе внимание.,0379_von_m.mp3
+380,belép,belépni,Reggel nyolckor belépek az irodába.,"войти, вступить",Утром в восемь я вхожу в офис.,0380_belep_m.mp3
+381,feltesz,feltenni,Mindig sok kérdést teszek fel az órán.,задавать (вопрос),Я всегда задаю много вопросов на уроке.,0381_feltesz_m.mp3
+382,kihagy,kihagyni,Ma reggel kihagytam a reggelit.,пропустить,Сегодня утром я пропустил завтрак.,0382_kihagy_m.mp3
+383,felébred,felébredni,Reggel korán felébredtem.,проснуться,Утром я рано проснулся.,0383_felebred_m.mp3
+384,sejt,sejteni,Már régóta sejtettem az igazságot.,"подозревать, предчувствовать",Я уже давно подозревал правду.,0384_sejt_m.mp3
+385,ejt,ejteni,Néha véletlenül ejtek egy poharat.,роняю,Иногда я случайно роняю стакан.,0385_ejt_m.mp3
+386,szerepel,szerepelni,Holnap szerepelek egy színdarabban.,"выступать, участвовать",Завтра я выступаю в спектакле.,0386_szerepel_m.mp3
+387,legyőz,legyőzni,Tegnap könnyen legyőztem a barátomat sakkban.,"победить, одолеть",Вчера я легко победил друга в шахматы.,0387_legyoz_m.mp3
+388,kimond,kimondani,Végre kimondtam az igazságot.,"произнести, высказать",Я наконец высказал правду.,0388_kimond_m.mp3
+389,gyakorol,gyakorolni,Minden reggel gyakorlom a magyar szavakat.,"тренировать(ся), упражняться, повторять",Каждое утро я повторяю венгерские слова.,0389_gyakorol_m.mp3
+390,szakít,szakítani,Tegnap szakított a barátjával.,расстаться (с кем-л.); рвать,Вчера она рассталась со своим парнем.,0390_szakit_m.mp3
+391,felkészül,felkészülni,Holnap jól felkészülök a vizsgára.,подготовиться,Завтра я хорошо подготовлюсь к экзамену.,0391_felkeszul_m.mp3
+392,hibáztat,hibáztatni,Mindig másokat hibáztat a hibákért.,"винить, обвинять",Он всегда винит других в ошибках.,0392_hibaztat_m.mp3
+393,eldönt,eldönteni,"Holnap eldöntöm, hová utazunk.",решить,"Завтра я решу, куда мы поедем.",0393_eldont_m.mp3
+394,csal,csalni,Soha nem csalok a vizsgán.,жульничать,Я никогда не жульничаю на экзамене.,0394_csal_m.mp3
+395,felel,felelni,Mindig gyorsan felel a kérdésekre.,отвечать,Он/она всегда быстро отвечает на вопросы.,0395_felel_m.mp3
+396,meghív,meghívni,Holnap meghívlak egy kávéra.,пригласить,Завтра я приглашу тебя на кофе.,0396_meghiv_m.mp3
+397,akad,akadni,A halászléban néha akad egy szálka.,"попадаться, находиться",В рыбном супе иногда попадается косточка.,0397_akad_m.mp3
+398,ragaszkodik,ragaszkodni,Mindig ragaszkodom a reggeli kávémhoz.,настаивать / держаться (за),Я всегда держусь за свой утренний кофе.,0398_ragaszkodik_m.mp3
+399,kifizet,kifizetni,Tegnap kifizettem a számlát.,"оплатить, выплатить",Вчера я оплатил счёт.,0399_kifizet_m.mp3
+400,tisztel,tisztelni,Nagyon tisztelem a tanáromat.,уважать,Я очень уважаю своего учителя.,0400_tisztel_m.mp3
+401,fedez,fedezni,A biztosítás mindent fedez.,покрывать,Страховка покрывает всё.,0401_fedez_m.mp3
+402,érdemel,érdemelni,Szerintem jobb fizetést érdemelsz.,заслуживать,"По-моему, ты заслуживаешь лучшую зарплату.",0402_erdemel_m.mp3
+403,azonosít,azonosítani,Gyorsan azonosítottam a problémát.,"идентифицировать, определить",Я быстро определил проблему.,0403_azonosit_m.mp3
+404,kinyír,kinyírni,Tegnap kinyírtak egy bankrablót.,"прикончить, укокошить",Вчера прикончили одного грабителя банка.,0404_kinyir_m.mp3
+405,megérdemel,megérdemelni,Megérdemelsz egy kis pihenést ma.,заслуживать,Ты заслуживаешь немного отдыха сегодня.,0405_megerdemel_m.mp3
+406,elkésik,elkésni,Ma reggel elkéstem a munkáról.,опоздать,Сегодня утром я опоздал на работу.,0406_elkesik_m.mp3
+407,hazajön,hazajönni,Ma este későn jövök haza.,вернуться домой,Сегодня вечером я вернусь домой поздно.,0407_hazajon_m.mp3
+408,tekint,tekinteni,Barátomnak tekintem őt.,считать (кем-л.),Я считаю его своим другом.,0408_tekint_m.mp3
+409,elmagyaráz,elmagyarázni,Most elmagyarázom neked a feladatot.,объяснить,Сейчас я объясню тебе задание.,0409_elmagyaraz_m.mp3
+410,cselekszik,cselekedni,Mindig gyorsan cselekszem vészhelyzetben.,"действовать, поступать",В чрезвычайной ситуации я всегда действую быстро.,0410_cselekszik_m.mp3
+411,megszabadul,megszabadulni,Végre megszabadultam a régi telefonomtól.,"избавиться, освободиться",Наконец-то я избавился от старого телефона.,0411_megszabadul_m.mp3
+412,cserél,cserélni,Holnap pénzt cserélek a bankban.,обменять,Завтра я обменяю деньги в банке.,0412_cserel_m.mp3
+413,tisztáz,tisztázni,Tegnap végre tisztáztuk a félreértést.,"выяснить, прояснить",Вчера мы наконец прояснили недоразумение.,0413_tisztaz_m.mp3
+414,megnyer,megnyerni,Tegnap megnyertük a meccset.,"выиграть, победить",Вчера мы выиграли матч.,0414_megnyer_m.mp3
+415,felkel,felkelni,Minden reggel hatkor felkelek.,вставать (с постели),Я встаю в шесть часов утра каждый день.,0415_felkel_m.mp3
+416,lemond,lemondani,Lemondok a holnapi találkozóról.,отказаться / отменить,Я отказываюсь от завтрашней встречи.,0416_lemond_m.mp3
+417,közeledik,közeledni,Lassan közeledünk a városhoz.,приближаться (к чему-л.),Мы медленно приближаемся к городу.,0417_kozeledik_m.mp3
+418,eljut,eljutni,Gyorsan eljutottam a vasútállomásra.,добраться (до чего-л.),Я быстро добрался до железнодорожного вокзала.,0418_eljut_m.mp3
+419,vizsgál,vizsgálni,Most vizsgálom a beteget.,осматривать,Я сейчас осматриваю больного.,0419_vizsgal_m.mp3
+420,ünnepel,ünnepelni,Ma este a barátaimmal ünnepelünk.,"праздновать, отмечать",Сегодня вечером мы празднуем с моими друзьями.,0420_unnepel_m.mp3
+421,kényszerít,kényszeríteni,Nem kényszerítelek semmire.,"принуждать, заставлять (кого-л. к чему-л.)",Я ни к чему тебя не принуждаю.,0421_kenyszerit_m.mp3
+422,vádol,vádolni,Mindig engem vádolnak lopással.,обвинять,Они всегда обвиняют меня в краже.,0422_vadol_m.mp3
+423,öregszik,öregedni,Az ember lassan öregszik.,стареть,Человек медленно стареет.,0423_oregszik_m.mp3
+424,megfelel,megfelelni,Ez az időpont nekem tökéletesen megfelel.,"подходить, соответствовать (кому-л. — дат.)",Это время мне прекрасно подходит.,0424_megfelel_m.mp3
+425,lemegy,lemenni,Reggel mindig gyorsan lemegyek a boltba.,спускаться / сходить вниз,Утром я всегда быстро спускаюсь в магазин.,0425_lemegy_m.mp3
+426,átnéz,átnézni,Reggel mindig átnézem az e-mailjeimet.,"просмотреть, проверить",Утром я всегда просматриваю свои электронные письма.,0426_atnez_m.mp3
+427,úszik,úszni,Reggelente a tóban úszom.,плавать,По утрам я плаваю в озере.,0427_uszik_m.mp3
+428,reagál,reagálni,Gyorsan reagáltam az üzenetre.,реагировать (на что-л.),Я быстро отреагировал на сообщение.,0428_reagal_m.mp3
+429,tönkretesz,tönkretenni,Tegnap véletlenül tönkretettem a telefonomat.,"разрушить, испортить, погубить",Вчера я случайно сломал свой телефон.,0429_tonkretesz_m.mp3
+430,felfog,felfogni,Most végre felfogom a helyzetet.,"понять, осознать",Теперь я наконец осознаю ситуацию.,0430_felfog_m.mp3
+431,odamegy,odamenni,"Odamegyek a pénztárhoz, és fizetek.",подойти / пойти туда,Я подхожу к кассе и плачу.,0431_odamegy_m.mp3
+432,aláír,aláírni,Ma reggel aláírtam a szerződést.,подписать,Сегодня утром я подписал договор.,0432_alair_m.mp3
+433,megfog,megfogni,Gyorsan megfogtam a labdát.,схватить / поймать,Я быстро поймал мяч.,0433_megfog_m.mp3
+434,csap,csapni,Néha az asztalra csapok dühömben.,ударить / хлопнуть,Иногда я в гневе хлопаю по столу.,0434_csap_m.mp3
+435,mos,mosni,Reggel mindig kezet mosok.,мыть / стирать,Утром я всегда мою руки.,0435_mos_m.mp3
+436,utal,utalni,Holnap utalom a pénzt.,переводить (деньги),Завтра я переведу деньги.,0436_utal_m.mp3
+437,javít,javítani,Most javítom a régi biciklimet.,"чинить, ремонтировать",Сейчас я чиню свой старый велосипед.,0437_javit_m.mp3
+438,csókol,csókolni,Reggel mindig megpuszilom és csókolom őt.,целовать,Утром я всегда его чмокаю и целую.,0438_csokol_m.mp3
+439,leül,leülni,"Fáradt vagyok, leülök egy kicsit.",сесть / присесть,"Я устал, присяду ненадолго.",0439_leul_m.mp3
+440,fúj,fújni,Ma erősen fúj a szél kint.,дуть,Сегодня на улице сильно дует ветер.,0440_fuj_m.mp3
+441,felmegy,felmenni,Reggel gyalog megyek fel a lépcsőn.,"подниматься, идти наверх",Утром я иду наверх по лестнице пешком.,0441_felmegy_m.mp3
+442,levesz,levenni,Reggel mindig leveszem a kabátomat.,снять (снимать),Утром я всегда снимаю своё пальто.,0442_levesz_m.mp3
+443,kockáztat,kockáztatni,Most nem kockáztatok semmit.,рисковать,Сейчас я ничем не рискую.,0443_kockaztat_m.mp3
+444,rohan,rohanni,Minden reggel a buszhoz rohanok.,"мчаться, нестись",Каждое утро я мчусь к автобусу.,0444_rohan_m.mp3
+445,elolvas,elolvasni,Tegnap elolvastam egy érdekes könyvet.,прочитать,Вчера я прочитал интересную книгу.,0445_elolvas_m.mp3
+446,üldöz,üldözni,Üldözzük a tolvajt az utcán.,преследовать,Мы преследуем вора на улице.,0446_uldoz_m.mp3
+447,odaér,odaérni,Időben odaértünk az állomásra.,добраться,Мы вовремя добрались до вокзала.,0447_odaer_m.mp3
+448,elképzel,elképzelni,Nehezen képzelem el a jövőt.,"представить себе, вообразить",Мне трудно представить себе будущее.,0448_elkepzel_m.mp3
+449,meggyőz,meggyőzni,Végül meggyőztem őt az igazamról.,убедить (кого-л. в чём-л.),В конце концов я убедил его в своей правоте.,0449_meggyoz_m.mp3
+450,kijut,kijutni,Végre kijutottunk a friss levegőre.,"выбраться, попасть наружу",Наконец-то мы выбрались на свежий воздух.,0450_kijut_m.mp3
+451,otthagy,otthagyni,Tegnap otthagytam a táskámat a buszon.,"оставить, бросить",Вчера я оставил свою сумку в автобусе.,0451_otthagy_m.mp3
+452,kidob,kidobni,Tegnap kidobtam a régi cipőmet.,выбросить,Вчера я выбросил свои старые туфли.,0452_kidob_m.mp3
+453,egyezik,egyezni,A válaszod pontosan egyezik az enyémmel.,совпадать (с чем-л.),Твой ответ точно совпадает с моим.,0453_egyezik_m.mp3
+454,kiszáll,kiszállni,A megállóban szállok ki a buszból.,выходить (из транспорта),Я выхожу из автобуса на остановке.,0454_kiszall_m.mp3
+455,elalszik,elaludni,Tegnap este gyorsan elaludtam a kanapén.,заснуть,Вчера вечером я быстро заснул на диване.,0455_elalszik_m.mp3
+456,kihasznál,kihasználni,Mindig kihasználom a jó időt.,"использовать, воспользоваться",Я всегда использую хорошую погоду.,0456_kihasznal_m.mp3
+457,teljesít,teljesíteni,Mindig teljesítem a kötelességemet.,выполнять,Я всегда выполняю свой долг.,0457_teljesit_m.mp3
+458,visszakap,visszakapni,Holnap visszakapom a pénzemet.,получить обратно,Завтра я получу обратно свои деньги.,0458_visszakap_m.mp3
+459,megvár,megvárni,Megvárlak téged a sarkon.,дождаться (кого-л.),Я дождусь тебя на углу.,0459_megvar_m.mp3
+460,töröl,törölni,Most törlöm a régi fényképeket.,"удалять, стирать",Сейчас я удаляю старые фотографии.,0460_torol_m.mp3
+461,vásárol,vásárolni,A piacon zöldséget vásárolok.,покупать,Я покупаю овощи на рынке.,0461_vasarol_m.mp3
+462,összezavarodik,összezavarodni,Teljesen összezavarodtam a sok új szótól.,"запутаться, растеряться",Я совсем запутался от множества новых слов.,0462_osszezavarodik_m.mp3
+463,elpusztít,elpusztítani,A tűz tegnap elpusztította a régi házat.,"уничтожить, истребить",Огонь вчера уничтожил старый дом.,0463_elpusztit_m.mp3
+464,visszahív,visszahívni,Holnap reggel biztosan visszahívlak telefonon.,перезвонить (кому-л.),Завтра утром я обязательно перезвоню тебе по телефону.,0464_visszahiv_m.mp3
+465,gyűjt,gyűjteni,Minden nyáron pénzt gyűjtök egy új biciklire.,"собирать, копить",Каждое лето я коплю деньги на новый велосипед.,0465_gyujt_m.mp3
+466,lezár,lezárni,Este mindig lezárom az ajtót.,"закрыть, запереть, перекрыть",Вечером я всегда закрываю дверь на замок.,0466_lezar_m.mp3
+467,nyújt,nyújtani,Szívesen nyújtok neked segítséget.,оказывать,Я с удовольствием окажу тебе помощь.,0467_nyujt_m.mp3
+468,átél,átélni,Tegnap egy szép pillanatot éltem át.,"пережить, испытать",Вчера я пережил один прекрасный момент.,0468_atel_m.mp3
+469,szólít,szólítani,A tanár mindig a nevemen szólít.,"называть, обращаться (к кому-л.)",Учитель всегда называет меня по имени.,0469_szolit_m.mp3
+470,szégyell,szégyellni,Néha szégyellem a régi fényképeimet.,"стыдиться, стесняться",Иногда я стыжусь своих старых фотографий.,0470_szegyell_m.mp3
+471,ebédel,ebédelni,Ma egy étteremben ebédelek.,обедать,Сегодня я обедаю в ресторане.,0471_ebedel_m.mp3
+472,értesít,értesíteni,Holnap értesítjük a vendégeket a változásról.,"уведомлять, извещать",Завтра мы уведомим гостей об изменении.,0472_ertesit_m.mp3
+473,kivesz,kivenni,Kiveszek egy könyvet a táskából.,"вынимать, доставать",Я вынимаю книгу из сумки.,0473_kivesz_m.mp3
+474,átver,átverni,A boltban tegnap átvertek engem.,"обмануть, надуть",В магазине меня вчера обманули.,0474_atver_m.mp3
+475,bevall,bevallani,"Végül bevallottam, hogy hibáztam.","признаться, сознаться","В конце концов я признался, что ошибся.",0475_bevall_m.mp3
+476,hazaér,hazaérni,Este későn hazaértem a munkából.,добраться,Вечером я поздно добрался домой с работы.,0476_hazaer_m.mp3
+477,szexel,szexelni,Tegnap este sokáig szexeltünk.,заниматься сексом,Вчера вечером мы долго занимались сексом.,0477_szexel_m.mp3
+478,elfog,elfogni,Tegnap elfogták a tolvajt.,поймать,Вчера они поймали вора.,0478_elfog_m.mp3
+479,céloz,célozni,A táblára célzol a nyíllal.,целишься,Ты целишься в мишень стрелой.,0479_celoz_m.mp3
+480,ereszt,ereszteni,Eresztem a vizet a kádba.,"пускать, отпускать",Я пускаю воду в ванну.,0480_ereszt_m.mp3
+481,megerősít,megerősíteni,E-mailben megerősítettem a foglalást.,подтвердить,Я подтвердил бронирование по электронной почте.,0481_megerosit_m.mp3
+482,visszaad,visszaadni,Holnap visszaadom neked a könyvet.,"вернуть, отдать обратно",Завтра я верну тебе книгу.,0482_visszaad_m.mp3
+483,stimmel,stimmelni,A számla összege most stimmel.,"сходиться, быть верным",Сумма счёта теперь сходится.,0483_stimmel_m.mp3
+484,igyekszik,igyekezni,Munka után mindig igyekszem haza.,"спешить, стараться",После работы я всегда спешу домой.,0484_igyekszik_m.mp3
+485,derít,deríteni,Végre fényt derítünk a rejtélyre.,раскроем,Наконец-то мы раскроем эту тайну.,0485_derit_m.mp3
+486,betör,betörni,Az éjjel betörtek a boltba.,"вломиться, проникнуть со взломом (betör valahová)",Этой ночью они вломились в магазин.,0486_betor_m.mp3
+487,leesik,leesni,Tegnap leestem a bicikliről.,"упасть, свалиться",Вчера я упал с велосипеда.,0487_leesik_m.mp3
+488,lejár,lejárni,Holnap lejár az igazolványom.,истекать (о сроке),Завтра истекает срок моего удостоверения.,0488_lejar_m.mp3
+489,letesz,letenni,Leteszem a táskát az asztalra.,"положить, поставить (вниз); повесить трубку",Я кладу сумку на стол.,0489_letesz_m.mp3
+490,oszt,osztani,Most osztom a kártyákat.,"раздавать, делить",Сейчас я раздаю карты.,0490_oszt_m.mp3
+491,megcsókol,megcsókolni,Reggel gyengéden megcsókoltam az arcát.,поцеловать (кого-л.),Утром я нежно поцеловал её в щёку.,0491_megcsokol_m.mp3
+492,leáll,leállni,A liftünk hirtelen leállt a harmadik emeleten.,"остановиться, прекратиться",Наш лифт внезапно остановился на третьем этаже.,0492_leall_m.mp3
+493,bejut,bejutni,Végre bejutottunk a moziba.,"попасть (внутрь), пробраться",Наконец-то мы попали в кинотеатр.,0493_bejut_m.mp3
+494,levág,levágni,Reggel mindig levágom a kenyér héját.,"отрезать, срезать",Утром я всегда срезаю корку с хлеба.,0494_levag_m.mp3
+495,összejön,összejönni,Ma este összejövünk a barátokkal.,"собраться, сойтись",Сегодня вечером мы соберёмся с друзьями.,0495_osszejon_m.mp3
+496,érint,érinteni,Ez a kérdés mindenkit érint.,"касаться, затрагивать (кого/что — вин.)",Этот вопрос касается всех.,0496_erint_m.mp3
+497,elvisel,elviselni,Nehezen viselem el a nagy meleget.,"терпеть, выносить",Я с трудом переношу сильную жару.,0497_elvisel_m.mp3
+498,süt,sütni,Ma reggel szépen süt a nap.,"светить (о солнце); печь, жарить",Сегодня утром ярко светит солнце.,0498_sut_m.mp3
+499,szavaz,szavazni,Holnap először szavazok a választáson.,голосовать,Завтра я впервые голосую на выборах.,0499_szavaz_m.mp3
+500,juttat,juttatni,Minden hónapban pénzt juttatok nekik.,"предоставлять, доставлять (кому-л.)",Каждый месяц я предоставляю им деньги.,0500_juttat_m.mp3
+501,kelt,kelteni,A film jó benyomást keltett bennem.,будить; вызывать (впечатление),Фильм произвёл на меня хорошее впечатление.,0501_kelt_m.mp3
+502,közöl,közölni,Holnap közlöm veled a döntésemet.,"сообщать, объявлять",Завтра я сообщу тебе своё решение.,0502_kozol_m.mp3
+503,megeszik,megenni,Reggelire megettem egy almát.,съесть,На завтрак я съел одно яблоко.,0503_megeszik_m.mp3
+504,rabol,rabolni,A maffia gyakran rabol bankokat.,грабить,Мафия часто грабит банки.,0504_rabol_m.mp3
+505,lefogad,lefogadni,"Lefogadom, hogy holnap esni fog.","спорить, биться об заклад","Спорим, что завтра будет дождь.",0505_lefogad_m.mp3
+506,meghall,meghallani,Hirtelen meghallottam a kutya ugatását.,услышать,Я вдруг услышал лай собаки.,0506_meghall_m.mp3
+507,elvégez,elvégezni,Tegnap elvégeztem az összes feladatot.,"выполнить, завершить",Вчера я выполнил все задания.,0507_elvegez_m.mp3
+508,un,unni,Nagyon unom ezt a hosszú filmet.,"скучать, не нравиться (из-за скуки)",Мне очень скучно от этого длинного фильма.,0508_un_m.mp3
+509,ítél,ítélni,Öt évre ítéltem a tolvajt.,приговорить,Я приговорил вора к пяти годам.,0509_itel_m.mp3
+510,meghallgat,meghallgatni,Figyelmesen meghallgattam a véleményedet.,"выслушать, прослушать",Я внимательно выслушал твоё мнение.,0510_meghallgat_m.mp3
+511,szállít,szállítani,Holnap szállítjuk a bútorokat a házba.,"доставлять, перевозить",Завтра мы доставим мебель в дом.,0511_szallit_m.mp3
+512,ideér,ideérni,Holnap reggel ideérek a vonattal.,"добраться сюда, успеть сюда",Завтра утром я доберусь сюда на поезде.,0512_ideer_m.mp3
+513,áld,áldani,Minden vasárnap áldja a híveket.,благословляет,Каждое воскресенье он благословляет прихожан.,0513_ald_m.mp3
+514,felrobbant,felrobbantani,Felrobbantották a régi hidat.,взорвать,Они взорвали старый мост.,0514_felrobbant_m.mp3
+515,üzen,üzenni,Holnap üzenek neked telefonon.,"передавать сообщение, дать знать",Завтра я передам тебе сообщение по телефону.,0515_uzen_m.mp3
+516,őriz,őrizni,A kutya éjszaka őrzi a házat.,"охранять, стеречь",Собака ночью охраняет дом.,0516_oriz_m.mp3
+517,megjelenik,megjelenni,Holnap megjelenik az új könyvem a boltokban.,"появляться, выходить (о публикации)",Завтра моя новая книга выйдет в магазинах.,0517_megjelenik_m.mp3
+518,elmesél,elmesélni,Tegnap elmeséltem neki egy vicces történetet.,рассказать,Вчера я рассказал ему смешную историю.,0518_elmesel_m.mp3
+519,panaszkodik,panaszkodni,Mindig a rossz időre panaszkodik.,жаловаться (на что-л.),Он всегда жалуется на плохую погоду.,0519_panaszkodik_m.mp3
+520,felajánl,felajánlani,Felajánlottam neki a helyemet a buszon.,предложить,Я предложил ему своё место в автобусе.,0520_felajanl_m.mp3
+521,kipróbál,kipróbálni,Holnap kipróbálom az új biciklit.,"попробовать, испытать",Завтра я попробую (испытаю) новый велосипед.,0521_kiprobal_m.mp3
+522,elfogy,elfogyni,Reggelre elfogyott a kávé.,"закончиться, иссякнуть",К утру кофе закончился.,0522_elfogy_m.mp3
+523,forog,forogni,A Föld lassan forog a tengelye körül.,"вращаться, крутиться",Земля медленно вращается вокруг своей оси.,0523_forog_m.mp3
+524,becsuk,becsukni,Mindig becsukom az ablakot este.,"закрыть, захлопнуть",Я всегда закрываю окно вечером.,0524_becsuk_m.mp3
+525,elismer,elismerni,Végül elismerte a hibáját.,признать / признавать (что-л.),В конце концов он признал свою ошибку.,0525_elismer_m.mp3
+526,kilép,kilépni,Reggel kilépek a házból.,"выйти, выходить",Утром я выхожу из дома.,0526_kilep_m.mp3
+527,elkezdődik,elkezdődni,Minden hamarosan elkezdődik.,начаться,Скоро всё начнётся.,0527_elkezdodik_m.mp3
+528,izgul,izgulni,Mindig izgulok a vizsga előtt.,"волноваться, нервничать",Я всегда волнуюсь перед экзаменом.,0528_izgul_m.mp3
+529,veszteget,vesztegetni,Ne vesztegesd az időt!,тратить,Не трать время!,0529_veszteget_m.mp3
+530,összetör,összetörni,Tegnap véletlenül összetörtem egy poharat.,"разбить, сломать",Вчера я случайно разбил стакан.,0530_osszetor_m.mp3
+531,megvizsgál,megvizsgálni,Tegnap alaposan megvizsgáltam a beteget.,осмотрел,Вчера я тщательно осмотрел больного.,0531_megvizsgal_m.mp3
+532,elkerül,elkerülni,Reggel mindig elkerülöm a forgalmat.,избегать / избежать (что-л.),Утром я всегда избегаю пробок.,0532_elkerul_m.mp3
+533,kísér,kísérni,Minden reggel az iskolába kísérem.,"сопровождать, провожать",Каждое утро я провожаю его в школу.,0533_kiser_m.mp3
+534,szúr,szúrni,Megint az ujjamba szúrtam a tűvel.,"колоть, уколоть",Я снова уколол себе палец иголкой.,0534_szur_m.mp3
+535,vadászik,vadászni,Télen gyakran vadászunk az erdőben.,охотиться,Зимой мы часто охотимся в лесу.,0535_vadaszik_m.mp3
+536,jelez,jelezni,A piros lámpa veszélyt jelez.,"сигнализировать, обозначать",Красный свет сигнализирует об опасности.,0536_jelez_m.mp3
+537,megakadályoz,megakadályozni,Tegnap megakadályoztam egy nagy balesetet.,"предотвратить, помешать (чему-л.)",Вчера я предотвратил большую аварию.,0537_megakadalyoz_m.mp3
+538,szán,szánni,Ezt a könyvet neked szánom.,предназначать (что-л. кому-л.),Эту книгу я предназначаю тебе.,0538_szan_m.mp3
+539,látogat,látogatni,Gyakran látogatom a beteg barátomat.,"навещать, посещать",Я часто навещаю своего больного друга.,0539_latogat_m.mp3
+540,leszáll,leszállni,A buszról a következő megállónál szállok le.,"сойти, выйти (из транспорта); приземлиться",Я выйду из автобуса на следующей остановке.,0540_leszall_m.mp3
+541,veszekedik,veszekedni,Megint veszekszünk a szomszéddal.,"ссориться, ругаться",Мы снова ссоримся с соседом.,0541_veszekedik_m.mp3
+542,lélegzik,lélegezni,"Mély levegőt veszek, és lassan lélegzem.",дышать,Я делаю глубокий вдох и медленно дышу.,0542_lelegzik_m.mp3
+543,rávesz,rávenni,Tegnap rávettem a barátomat egy közös vacsorára.,"уговорить, склонить (кого-л. на что-л.)",Вчера я уговорил друга вместе поужинать.,0543_ravesz_m.mp3
+544,eltalál,eltalálni,Végre eltaláltam a helyes választ.,"угадать, попасть",Наконец-то я угадал правильный ответ.,0544_eltalal_m.mp3
+545,bevesz,bevenni,Reggel beveszem a gyógyszert.,принять (внутрь),Утром я принимаю лекарство.,0545_bevesz_m.mp3
+546,rendelkezik,rendelkezni,Most elég pénzzel rendelkezem az úthoz.,"располагать (чем-л.), иметь в распоряжении",Сейчас я располагаю достаточными деньгами на поездку.,0546_rendelkezik_m.mp3
+547,vitatkozik,vitatkozni,Gyakran vitatkozunk a politikáról.,"спорить (о чём-л., с кем-л.)",Мы часто спорим о политике.,0547_vitatkozik_m.mp3
+548,megoszt,megosztani,Megosztottam a fotót a barátaimmal.,поделиться (чем-л. с кем-л.),Я поделился фотографией с друзьями.,0548_megoszt_m.mp3
+549,kihoz,kihozni,Mindjárt kihozom a kávét a teraszra.,вынести (наружу),Я сейчас вынесу кофе на террасу.,0549_kihoz_m.mp3
+550,ás,ásni,A kertben egy mély gödröt ások.,"копать, рыть",Я копаю глубокую яму в саду.,0550_as_m.mp3
+551,visszahoz,visszahozni,Holnap visszahozom a könyvet a könyvtárból.,принести обратно,Завтра я принесу книгу обратно из библиотеки.,0551_visszahoz_m.mp3
+552,haldoklik,haldokolni,A beteg már napok óta haldoklik.,"умирать, быть при смерти",Больной уже несколько дней при смерти.,0552_haldoklik_m.mp3
+553,nyomoz,nyomozni,A rendőrök most egy lopás után nyomoznak.,"расследовать, вести следствие",Полицейские сейчас расследуют кражу.,0553_nyomoz_m.mp3
+554,fenyeget,fenyegetni,Gyakran fenyegeti az ellenségeit.,угрожает,Он часто угрожает своим врагам.,0554_fenyeget_m.mp3
+555,kiad,kiadni,Jövőre kiadom az első könyvemet.,"издать, выпустить",В следующем году я издам свою первую книгу.,0555_kiad_m.mp3
+556,megüt,megütni,Véletlenül megütöttem a térdemet.,ударить,Я случайно ударился коленом.,0556_megut_m.mp3
+557,kinéz,kinézni,Ma nagyon fáradtnak nézek ki.,выглядеть (как-л.),Сегодня я выгляжу очень усталым.,0557_kinez_m.mp3
+558,öltözik,öltözni,Reggel mindig gyorsan öltözöm.,одеваться,Утром я всегда одеваюсь быстро.,0558_oltozik_m.mp3
+559,takarít,takarítani,Minden reggel takarítom a konyhát.,"убирать, чистить",Каждое утро я убираю кухню.,0559_takarit_m.mp3
+560,utánanéz,utánanézni,Holnap utánanézek az áraknak az interneten.,"разузнать, проверить",Завтра я узнаю цены в интернете.,0560_utananez_m.mp3
+561,elszúr,elszúrni,Tegnap teljesen elszúrtam a vizsgát.,"испортить, провалить, напортачить",Вчера я полностью провалил экзамен.,0561_elszur_m.mp3
+562,követel,követelni,Több pénzt követelünk a főnöktől.,требовать,Мы требуем больше денег от начальника.,0562_kovetel_m.mp3
+563,tájékoztat,tájékoztatni,A rádió pontosan tájékoztat minket az időjárásról.,"информировать, оповещать (о чём-л. — valamiről)",Радио точно информирует нас о погоде.,0563_tajekoztat_m.mp3
+564,eltör,eltörni,Tegnap véletlenül eltörtem egy poharat.,"сломать, разбить",Вчера я случайно разбил(а) стакан.,0564_eltor_m.mp3
+565,elront,elrontani,Tegnap elrontottam a vacsorát.,"испортить, испоганить",Вчера я испортил ужин.,0565_elront_m.mp3
+566,megszeg,megszegni,Tegnap megszegtem az ígéretemet.,"нарушить (обещание, закон)",Вчера я нарушил своё обещание.,0566_megszeg_m.mp3
+567,kutat,kutatni,A laborban új gyógyszert kutatunk.,исследовать,В лаборатории мы исследуем новое лекарство.,0567_kutat_m.mp3
+568,megbán,megbánni,Most már nagyon megbántam a döntésemet.,"пожалеть, раскаяться (в чём-л.)",Теперь я уже очень пожалел о своём решении.,0568_megban_m.mp3
+569,tagad,tagadni,A rendőrségen mindent tagadott.,отрицать,В полиции он всё отрицал.,0569_tagad_m.mp3
+570,bebizonyít,bebizonyítani,Végre bebizonyítottam az igazamat.,доказать,Наконец-то я доказал свою правоту.,0570_bebizonyit_m.mp3
+571,rejteget,rejtegetni,Te mindig titkokat rejtegetsz előlem.,"прятать, скрывать",Ты всегда прячешь от меня секреты.,0571_rejteget_m.mp3
+572,megír,megírni,Holnap megírom a levelet.,написать,Завтра я напишу письмо.,0572_megir_m.mp3
+573,lemarad,lemaradni,Majdnem lemaradtam a buszról reggel.,"опоздать (на что-л.), отстать",Утром я чуть не опоздал на автобус.,0573_lemarad_m.mp3
+574,kiáll,kiállni,Mindig kiállok a barátaim mellett.,заступиться (за кого-л. — mellett); выйти,Я всегда заступаюсь за своих друзей.,0574_kiall_m.mp3
+575,szervez,szervezni,Minden évben bulit szervezünk a parkban.,организовывать,Каждый год мы организуем вечеринку в парке.,0575_szervez_m.mp3
+576,tiltakozik,tiltakozni,Hangosan tiltakoztunk a döntés ellen.,"протестовать, возражать (против чего-л. — ellen)",Мы громко протестовали против этого решения.,0576_tiltakozik_m.mp3
+577,lassít,lassítani,A kanyarban mindig lassítok.,"замедлять, сбавлять скорость",На повороте я всегда замедляю (скорость).,0577_lassit_m.mp3
+578,feláll,felállni,A buszon mindig felállok az idős néniknek.,вставать,В автобусе я всегда встаю ради пожилых женщин.,0578_felall_m.mp3
+579,elmenekül,elmenekülni,Gyorsan elmenekültünk a tűz elől.,"сбежать, спастись бегством",Мы быстро сбежали от огня.,0579_elmenekul_m.mp3
+580,éget,égetni,Most égetem a régi leveleket a kertben.,"жечь, сжигать",Сейчас я сжигаю старые письма в саду.,0580_eget_m.mp3
+581,leír,leírni,Leírom a címet egy papírra.,записать; описать,Я запишу адрес на листок бумаги.,0581_leir_m.mp3
+582,elcsesz ⚠️,elcseszni,Megint elcsesztem a vizsgát.,"испортить, запороть, просрать",Я снова провалил экзамен.,0582_elcsesz_m.mp3
+583,elutasít,elutasítani,Udvariasan elutasítottam a meghívást.,"отклонить, отказать(ся)",Я вежливо отклонил приглашение.,0583_elutasit_m.mp3
+584,ráér,ráérni,Holnap délután ráérek.,"иметь время, быть свободным",Завтра во второй половине дня у меня есть время.,0584_raer_m.mp3
+585,meggyilkol,meggyilkolni,A filmben tegnap meggyilkolták a királyt.,убить (совершить убийство),В фильме вчера убили короля.,0585_meggyilkol_m.mp3
+586,merészel,merészelni,Nem merészelek éjszaka egyedül sétálni.,"сметь, осмеливаться (что-л. сделать)",Я не осмеливаюсь гулять ночью один.,0586_mereszel_m.mp3
+587,kever,keverni,Kanállal keverem a teát.,"мешать, размешивать; смешивать",Я мешаю чай ложкой.,0587_kever_m.mp3
+588,rejt,rejteni,A mosolya szomorúságot rejt.,"прятать, скрывать",Её улыбка скрывает грусть.,0588_rejt_m.mp3
+589,elválik,elválni,Tavaly elváltam a férjemtől.,"развестись (с кем-л. — от кого-л., -tól/-től)",В прошлом году я развелась с мужем.,0589_elvalik_m.mp3
+590,kienged,kiengedni,Kiengedtem a kutyát a kertbe.,"выпустить, отпустить",Я выпустил собаку в сад.,0590_kienged_m.mp3
+591,tol,tolni,Reggel mindig én tolom a babakocsit.,толкать,Утром я всегда толкаю коляску.,0591_tol_m.mp3
+592,behoz,behozni,Mindig behozom a postát reggel.,вносить / заносить (внутрь); навёрстывать,Я всегда заношу почту утром.,0592_behoz_m.mp3
+593,kihúz,kihúzni,Gyorsan kihúztam a szöget a falból.,вытащил,Я быстро вытащил гвоздь из стены.,0593_kihuz_m.mp3
+594,alkot,alkotni,Esténként szép dolgokat alkotok.,создаю,По вечерам я создаю красивые вещи.,0594_alkot_m.mp3
+595,fárad,fáradni,Munka után gyakran nagyon fáradok.,уставать / устать,После работы я часто очень устаю.,0595_farad_m.mp3
+596,képvisel,képviselni,Holnap én képviselem a cégünket.,представлять (кого/что — в вин. п.),Завтра я буду представлять нашу фирму.,0596_kepvisel_m.mp3
+597,reménykedik,reménykedni,Mindig jó hírben reménykedem.,надеяться,Я всегда надеюсь на хорошие новости.,0597_remenykedik_m.mp3
+598,megfizet,megfizetni,Holnap megfizetem az adósságomat.,заплачу,Завтра я заплачу свой долг.,0598_megfizet_m.mp3
+599,terjed,terjedni,A tűz gyorsan terjed a száraz erdőben.,распространяться,Огонь быстро распространяется в сухом лесу.,0599_terjed_m.mp3
+600,lazít,lazítani,Munka után mindig lazítok egy kicsit.,расслабляться; ослаблять,После работы я всегда немного расслабляюсь.,0600_lazit_m.mp3
+601,bukkan,bukkanni,A padláson egy régi fényképre bukkantam.,натыкаться / наткнуться (на что-л.),На чердаке я наткнулся на старую фотографию.,0601_bukkan_m.mp3
+602,felnő,felnőni,Egy kis faluban nőttem fel.,"вырастать / вырасти, взрослеть",Я вырос(ла) в маленькой деревне.,0602_felno_m.mp3
+603,átgondol,átgondolni,Holnapig még átgondolom az ajánlatot.,обдумывать / обдумать,До завтра я ещё обдумаю это предложение.,0603_atgondol_m.mp3
+604,beismer,beismerni,Végre beismerte a hibáját.,признавать / признать,Он наконец признал свою ошибку.,0604_beismer_m.mp3
+605,tartóztat,tartóztatni,Sokáig tartóztattak minket a határon.,задерживали,Нас долго задерживали на границе.,0605_tartoztat_m.mp3
+606,felfedez,felfedezni,Tegnap felfedeztünk egy új éttermet.,открывать / обнаруживать,Вчера мы открыли для себя новый ресторан.,0606_felfedez_m.mp3
+607,kikapcsol,kikapcsolni,Este mindig kikapcsolom a telefonomat.,выключать / выключить,Вечером я всегда выключаю свой телефон.,0607_kikapcsol_m.mp3
+608,ellenáll,ellenállni,Nem tudok ellenállni a csokoládénak.,"сопротивляться, устоять (перед чем-л. — dat.)",Я не могу устоять перед шоколадом.,0608_ellenall_m.mp3
+609,érdeklődik,érdeklődni,Mindig érdeklődöm a magyar zene iránt.,интересоваться (чем-л.),Я всегда интересуюсь венгерской музыкой.,0609_erdeklodik_m.mp3
+610,megijed,megijedni,Tegnap nagyon megijedtem a kutyától.,испугаться (чего-л. — vmitől),Вчера я очень испугался собаки.,0610_megijed_m.mp3
+611,elutazik,elutazni,Holnap elutazom Budapestre.,уезжать / уехать,Завтра я уезжаю в Будапешт.,0611_elutazik_m.mp3
+612,mászik,mászni,Ügyesen mászom a fára.,"лезть, карабкаться, ползти",Я ловко лезу на дерево.,0612_maszik_m.mp3
+613,befog,befogni,Reggel befogja a lovakat a szekér elé.,запрягает,Утром он запрягает лошадей в телегу.,0613_befog_m.mp3
+614,bulizik,bulizni,Ma este a barátaimmal bulizom.,"тусоваться, веселиться",Сегодня вечером я тусуюсь с друзьями.,0614_bulizik_m.mp3
+615,megsérül,megsérülni,Tegnap megsérültem a meccsen.,"получить травму, пораниться",Вчера я получил травму на матче.,0615_megserul_m.mp3
+616,zajlik,zajlani,Most fontos esemény zajlik a városban.,"происходить, протекать",Сейчас в городе происходит важное событие.,0616_zajlik_m.mp3
+617,eltéved,eltévedni,Tegnap eltévedtem a nagy városban.,"заблудиться, потеряться",Вчера я заблудился в большом городе.,0617_elteved_m.mp3
+618,előfordul,előfordulni,Ilyen hiba ritkán fordul elő.,"случаться, встречаться",Такая ошибка случается редко.,0618_elofordul_m.mp3
+619,ráz,rázni,Reggel mindig rázom a takarót.,встряхиваю,Утром я всегда встряхиваю одеяло.,0619_raz_m.mp3
+620,rajzol,rajzolni,Most egy nagy házat rajzolok.,рисовать,Сейчас я рисую большой дом.,0620_rajzol_m.mp3
+621,végződik,végződni,A vizsgám jól végződött.,заканчиваться / закончиться,Мой экзамен закончился хорошо.,0621_vegzodik_m.mp3
+622,házasodik,házasodni,"Jövőre házasodom, alig várom!","жениться, вступать в брак","В следующем году я женюсь, жду не дождусь!",0622_hazasodik_m.mp3
+623,bukik,bukni,Nyáron a víz alá bukok.,нырять / ныряю,Летом я ныряю под воду.,0623_bukik_m.mp3
+624,elkövet,elkövetni,Tegnap egy nagy hibát követtem el.,совершать / совершить,Вчера я совершил большую ошибку.,0624_elkovet_m.mp3
+625,eldob,eldobni,Ezt most eldobom.,выбросить,Я сейчас это выброшу.,0625_eldob_m.mp3
+626,költ,költeni,Sok pénzt költök ruhákra.,тратить,Я трачу много денег на одежду.,0626_kolt_m.mp3
+627,lefoglal,lefoglalni,Tegnap lefoglaltam egy szállodai szobát.,забронировал,Вчера я забронировал номер в гостинице.,0627_lefoglal_m.mp3
+628,folytatódik,folytatódni,A film holnap folytatódik a moziban.,продолжаться,Фильм продолжится завтра в кинотеатре.,0628_folytatodik_m.mp3
+629,összeszed,összeszedni,Gyorsan összeszedem a játékokat a földről.,собирать / собрать,Я быстро собираю игрушки с пола.,0629_osszeszed_m.mp3
+630,nevel,nevelni,Két kislányt nevelünk otthon.,"воспитывать, растить",Мы воспитываем дома двух маленьких дочек.,0630_nevel_m.mp3
+631,megfordul,megfordulni,"Lassan megfordultam, és rád néztem.","обернуться, повернуться",Я медленно обернулся и посмотрел на тебя.,0631_megfordul_m.mp3
+632,ered,eredni,Régi nemesi családból eredek.,происходить,Я происхожу из старинного дворянского рода.,0632_ered_m.mp3
+633,gyilkol,gyilkolni,A filmben a gonosz ember kegyetlenül gyilkol.,"убивать, совершать убийства",В фильме злой человек жестоко убивает.,0633_gyilkol_m.mp3
+634,beleegyezik,beleegyezni,Végül beleegyezett a tervbe.,согласился,В конце концов он согласился на план.,0634_beleegyezik_m.mp3
+635,szorít,szorítani,Ma este a magyar csapatnak szorítunk.,болеть за (кого-л.); сжимать,Сегодня вечером мы болеем за венгерскую команду.,0635_szorit_m.mp3
+636,jelenik,jelenni,Néha furcsa hibák jelennek meg a képernyőn.,появляться,Иногда странные ошибки появляются на экране.,0636_jelenik_m.mp3
+637,felbukkan,felbukkanni,Hirtelen felbukkant egy ismerős arc.,"появляться, всплывать",Внезапно появилось знакомое лицо.,0637_felbukkan_m.mp3
+638,alkalmaz,alkalmazni,Ezt a módszert gyakran alkalmazzuk a munkában.,применять; нанимать на работу,Этот метод мы часто применяем на работе.,0638_alkalmaz_m.mp3
+639,forgat,forgatni,Most egy új filmet forgatnak a parkban.,"снимать (фильм); вращать, крутить",Сейчас они снимают новый фильм в парке.,0639_forgat_m.mp3
+640,feled,feledni,Sosem feledem ezt a szép napot.,забывать / забыть,Я никогда не забуду этот прекрасный день.,0640_feled_m.mp3
+641,mar,marni,A füst marja a szememet.,"кусать; разъедать, есть",Дым ест мне глаза.,0641_mar_m.mp3
+642,idehoz,idehozni,Holnap idehozom a könyvedet.,приносить сюда,Завтра я принесу сюда твою книгу.,0642_idehoz_m.mp3
+643,szorul,szorulni,Most segítségre szorulunk.,нуждаться (в чём-л.); застревать,Сейчас мы нуждаемся в помощи.,0643_szorul_m.mp3
+644,megbízik,megbízni,Teljesen megbízom benned.,"доверять (кому-л.), полагаться",Я полностью тебе доверяю.,0644_megbizik_m.mp3
+645,elrejt,elrejteni,Gyorsan elrejtettem a kulcsot a szőnyeg alá.,прятать / спрятать,Я быстро спрятал ключ под ковёр.,0645_elrejt_m.mp3
+646,tárgyal,tárgyalni,Holnap a főnökkel tárgyalok a fizetésről.,обсуждать,Завтра я веду переговоры с начальником о зарплате.,0646_targyal_m.mp3
+647,zuhan,zuhanni,Tegnap majdnem a földre zuhantam.,падать,Вчера я чуть не упал на землю.,0647_zuhan_m.mp3
+648,csodál,csodálni,Gyakran csodálom a naplementét a tengernél.,"восхищаться, любоваться (кем-/чем-л.)",Я часто любуюсь закатом у моря.,0648_csodal_m.mp3
+649,boldogul,boldogulni,Egyedül is jól boldogulok a munkámmal.,"справляться, преуспевать",Я и один хорошо справляюсь со своей работой.,0649_boldogul_m.mp3
+650,passzol,passzolni,Ez a sapka jól passzol a kabátodhoz.,"подходить, сочетаться (к чему-л.)",Эта шапка хорошо подходит к твоему пальто.,0650_passzol_m.mp3
+651,leállít,leállítani,Gyorsan leállítottam a gépet.,останавливать / остановить,Я быстро остановил машину (станок).,0651_leallit_m.mp3
+652,megtanít,megtanítani,Megtanítlak úszni a nyáron.,"научить, обучить (кого-л. чему-л.)",Я научу тебя плавать летом.,0652_megtanit_m.mp3
+653,visszautasít,visszautasítani,Udvariasan visszautasítottam a meghívást.,отклонять / отвергать (что-л.),Я вежливо отклонил приглашение.,0653_visszautasit_m.mp3
+654,mér,mérni,Minden reggel mérem a súlyomat.,взвешиваться,Каждое утро я взвешиваюсь.,0654_mer_m.mp3
+655,pisil,pisilni,A kutya minden reggel a fa mellé pisil.,"писать, мочиться",Собака каждое утро писает возле дерева.,0655_pisil_m.mp3
+656,megijeszt,megijeszteni,Tegnap este nagyon megijesztettél engem.,"напугать, испугать",Вчера вечером ты меня очень напугал.,0656_megijeszt_m.mp3
+657,elvág,elvágni,Késsel elvágtam a zsineget.,"перерезать, отрезать",Я перерезал верёвку ножом.,0657_elvag_m.mp3
+658,csökken,csökkenni,Télen gyorsan csökken a hőmérséklet.,"уменьшаться, снижаться",Зимой температура быстро снижается.,0658_csokken_m.mp3
+659,etet,etetni,Reggel mindig etetem a macskát.,кормить,Утром я всегда кормлю кошку.,0659_etet_m.mp3
+660,megúszik,megúszni,Szerencsére megúsztam a büntetést.,"избежать, отделаться","К счастью, я отделался без штрафа.",0660_meguszik_m.mp3
+661,meghoz,meghozni,Ma meghozzuk a fontos döntést.,принести; принять (решение),Сегодня мы примем важное решение.,0661_meghoz_m.mp3
+662,kussol ⚠️,kussolni,"Most kussolj egy kicsit, kérlek!","помалкивать, заткнуться","Помолчи сейчас немного, пожалуйста!",0662_kussol_m.mp3
+663,felír,felírni,Felírom a címet egy papírra.,"записать, выписать",Я записываю адрес на бумажку.,0663_felir_m.mp3
+664,vonul,vonulni,A tüntetők lassan vonulnak a téren.,"двигаться (колонной), шествовать",Демонстранты медленно шествуют по площади.,0664_vonul_m.mp3
+665,izgat,izgatni,Nagyon izgatom magam a vizsga előtt.,"волновать, возбуждать; (себя) — волноваться",Я очень волнуюсь перед экзаменом.,0665_izgat_m.mp3
+666,mondogat,mondogatni,"Gyakran mondogatja, hogy fáradt.","поговаривать, твердить","Он часто твердит, что устал.",0666_mondogat_m.mp3
+667,pakol,pakolni,Most pakolom a bőröndömet.,"паковать, складывать",Сейчас я укладываю свой чемодан.,0667_pakol_m.mp3
+668,megkönnyebbül,megkönnyebbülni,A jó hír hallatán végre megkönnyebbültem.,почувствовать облегчение,"Услышав хорошую новость, я наконец почувствовал облегчение.",0668_megkonnyebbul_m.mp3
+669,emelkedik,emelkedni,A nap lassan emelkedik az égen.,"подниматься, возвышаться",Солнце медленно поднимается на небе.,0669_emelkedik_m.mp3
+670,meglehet,meglehetni,"Meglehet, hogy holnap esik az eső.","возможно, может быть","Возможно, завтра будет дождь.",0670_meglehet_m.mp3
+671,meglepődik,meglepődni,Nagyon meglepődtem az ajándékon.,удивляться / удивиться (чему-л.),Я очень удивился подарку.,0671_meglepodik_m.mp3
+672,garantál,garantálni,Garantálom a gyors szállítást holnapra.,гарантировать,Я гарантирую быструю доставку к завтрашнему дню.,0672_garantal_m.mp3
+673,elfoglal,elfoglalni,Mindig elfoglalom a legjobb helyet.,"занимать, захватывать",Я всегда занимаю лучшее место.,0673_elfoglal_m.mp3
+674,megver,megverni,Tegnap megvertek a meccsen.,"избить, побить",Вчера меня побили на матче.,0674_megver_m.mp3
+675,bevisz,bevinni,Reggel beviszem a biciklit a garázsba.,"вносить, заводить (внутрь)",Утром я завожу велосипед в гараж.,0675_bevisz_m.mp3
+676,bérel,bérelni,Nyáron egy kis lakást bérelünk a tengernél.,"арендовать, снимать",Летом мы снимаем маленькую квартиру у моря.,0676_berel_m.mp3
+677,megiszik,meginni,Reggel mindig megiszom egy csésze kávét.,выпить,Утром я всегда выпиваю чашку кофе.,0677_megiszik_m.mp3
+678,dumál,dumálni,Egész nap a barátaimmal dumálok.,"болтать, трепаться (разг.)",Я целый день болтаю с друзьями.,0678_dumal_m.mp3
+679,kivisz,kivinni,Reggel kiviszem a szemetet.,"выносить, вывозить",Утром я выношу мусор.,0679_kivisz_m.mp3
+680,bűzlik,bűzleni,A szemét már nagyon bűzlik a konyhában.,"вонять, смердеть",Мусор уже сильно воняет на кухне.,0680_buzlik_m.mp3
+681,teremt,teremteni,Gyönyörű világot teremtek.,создаю,Я создаю прекрасный мир.,0681_teremt_m.mp3
+682,visszaszerez,visszaszerezni,Tegnap visszaszereztem a pénzemet.,"вернуть, отвоевать (обратно)",Вчера я вернул свои деньги.,0682_visszaszerez_m.mp3
+683,kirabol,kirabolni,Tegnap kiraboltak egy nagy bankot.,ограбить,Вчера они ограбили большой банк.,0683_kirabol_m.mp3
+684,akadályoz,akadályozni,Néha akadályozlak a tanulásban.,"мешать, препятствовать (кому-л.)",Иногда я мешаю тебе учиться.,0684_akadalyoz_m.mp3
+685,titkol,titkolni,Titkolom az érzéseimet előled.,"скрывать, таить",Я скрываю свои чувства от тебя.,0685_titkol_m.mp3
+686,nyír,nyírni,Minden héten nyírom a füvet.,"стричь, косить",Каждую неделю я кошу траву.,0686_nyir_m.mp3
+687,bejelent,bejelenteni,Holnap bejelentem a jó hírt.,"объявлять, заявлять",Завтра я объявлю хорошую новость.,0687_bejelent_m.mp3
+688,visszaér,visszaérni,Estére biztosan visszaérek a városból.,"вернуться, успеть назад",К вечеру я точно вернусь из города.,0688_visszaer_m.mp3
+689,kóstol,kóstolni,Ma este új levest kóstolok.,пробовать (на вкус),Сегодня вечером я пробую новый суп.,0689_kostol_m.mp3
+690,vérzik,vérezni,Erősen vérzik az ujjam.,кровоточить,Мой палец сильно кровоточит.,0690_verzik_m.mp3
+691,ízlik,ízleni,Nagyon ízlik nekem ez a leves.,"быть вкусным, нравиться (о еде)",Этот суп мне очень нравится (очень вкусный).,0691_izlik_m.mp3
+692,belegondol,belegondolni,"Ha jobban belegondolok, igazad van.","вдуматься, поразмыслить","Если я хорошенько подумаю, ты прав.",0692_belegondol_m.mp3
+693,megbíz,megbízni,Megbíztalak egy fontos feladattal.,поручать (кому-л. что-л.),Я поручил тебе важное задание.,0693_megbiz_m.mp3
+694,lerombol,lerombolni,Tegnap lerombolták a régi házat.,"снести, разрушить",Вчера снесли старый дом.,0694_lerombol_m.mp3
+695,hazavisz,hazavinni,Este hazaviszem a barátomat kocsival.,отвезти/отнести домой,Вечером я отвезу своего друга домой на машине.,0695_hazavisz_m.mp3
+696,tettet,tettetni,Néha betegséget tettetek a munkahelyen.,"притворяться, симулировать",Иногда я притворяюсь больным на работе.,0696_tettet_m.mp3
+697,létrehoz,létrehozni,Tegnap létrehoztam egy új e-mail-fiókot.,"создавать, учреждать",Вчера я создал новый почтовый ящик.,0697_letrehoz_m.mp3
+698,felhasznál,felhasználni,Ma minden tojást felhasználtam a süteményhez.,"использовать, израсходовать",Сегодня я использовала все яйца для пирога.,0698_felhasznal_m.mp3
+699,visszavon,visszavonni,Tegnap visszavontam a kérdésemet.,"отзывать, отменять",Вчера я отозвал свой вопрос.,0699_visszavon_m.mp3
+700,szakad,szakadni,Mindig szakadok a nevetéstől.,умирать (от смеха),Я всегда умираю от смеха.,0700_szakad_m.mp3
+701,helyrehoz,helyrehozni,Holnap helyrehozom a hibámat.,"исправлять, налаживать",Завтра я исправлю свою ошибку.,0701_helyrehoz_m.mp3
+702,átjön,átjönni,Holnap átjössz hozzánk vacsorára?,"заходить (в гости), приходить",Ты завтра зайдёшь к нам на ужин?,0702_atjon_m.mp3
+703,elfut,elfutni,A kutya gyorsan elfutott az utcán.,убегать,Собака быстро убежала по улице.,0703_elfut_m.mp3
+704,gyújt,gyújtani,Este gyertyát gyújtok a konyhában.,зажигать,Вечером я зажигаю свечу на кухне.,0704_gyujt_m.mp3
+705,tartalmaz,tartalmazni,Ez a leves sok zöldséget tartalmaz.,"содержать, включать в себя",Этот суп содержит много овощей.,0705_tartalmaz_m.mp3
+706,hülyéskedik,hülyéskedni,"Ne hülyéskedj most, sietünk!","валять дурака, дурачиться","Не валяй дурака сейчас, мы спешим!",0706_hulyeskedik_m.mp3
+707,leszar ⚠️,leszarni,Én leszarom az egészet.,"плевать на (что-л.), забить на",Мне плевать на всё это.,0707_leszar_m.mp3
+708,kínoz,kínozni,Ne kínozd a macskát!,мучить,Не мучай кошку!,0708_kinoz_m.mp3
+709,megjavít,megjavítani,Tegnap megjavítottam a régi kerékpárt.,"починить, исправить",Вчера я починил старый велосипед.,0709_megjavit_m.mp3
+710,szül,szülni,Tavaly egészséges kislányt szült.,рожать / родить,В прошлом году она родила здоровую девочку.,0710_szul_m.mp3
+711,csodálkozik,csodálkozni,Nagyon csodálkozom a hideg időn.,удивляться (чему-л.),Я очень удивляюсь холодной погоде.,0711_csodalkozik_m.mp3
+712,betesz,betenni,Beteszem a tejet a hűtőbe.,"класть/ставить внутрь, помещать",Я ставлю молоко в холодильник.,0712_betesz_m.mp3
+713,zaklat,zaklatni,Ne zaklass engem ilyen késő este!,"приставать, домогаться, беспокоить",Не приставай ко мне так поздно вечером!,0713_zaklat_m.mp3
+714,ölel,ölelni,Boldogan ölelem a barátomat.,обнимать,Я счастливо обнимаю своего друга.,0714_olel_m.mp3
+715,megérint,megérinteni,Óvatosan megérintettem a forró tányért.,"коснуться, дотронуться (до чего-л.)",Я осторожно дотронулся до горячей тарелки.,0715_megerint_m.mp3
+716,ránéz,ránézni,Reggel mindig ránézek az órára.,взглянуть (на) — ránéz valamire,Утром я всегда смотрю на часы.,0716_ranez_m.mp3
+717,visszavonul,visszavonulni,Este korán visszavonulok a szobámba.,"удаляться, отступать, уходить на покой",Вечером я рано удаляюсь в свою комнату.,0717_visszavonul_m.mp3
+718,benéz,benézni,Holnap benézek hozzátok egy kávéra.,"заглянуть, зайти (ненадолго)",Завтра я загляну к вам на чашку кофе.,0718_benez_m.mp3
+719,pusztít,pusztítani,A vihar gyakran pusztítja a falvakat.,"уничтожать, опустошать",Буря часто опустошает деревни.,0719_pusztit_m.mp3
+720,uralkodik,uralkodni,Sokáig uralkodott az országban.,правил,Он долго правил в стране.,0720_uralkodik_m.mp3
+721,ront,rontani,A sok cukor rontja az egészséget.,"портить, ухудшать",Много сахара портит здоровье.,0721_ront_m.mp3
+722,idéz,idézni,Gyakran idézem a kedvenc írómat.,цитировать,Я часто цитирую моего любимого писателя.,0722_idez_m.mp3
+723,megragad,megragadni,Gyorsan megragadtam a kezét.,"схватить, ухватить",Я быстро схватил его руку.,0723_megragad_m.mp3
+724,találgat,találgatni,Egész nap találgattuk a helyes választ.,"гадать, строить догадки","Мы весь день гадали, какой ответ правильный.",0724_talalgat_m.mp3
+725,meghúz,meghúzni,Erősen meghúztam a csavart.,"затянуть, потянуть",Я крепко затянул винт.,0725_meghuz_m.mp3
+726,bead,beadni,Holnap beadom a kérvényt az irodában.,"подавать / подать, сдавать",Завтра я подам заявление в офисе.,0726_bead_m.mp3
+727,aggaszt,aggasztani,Mostanában nagyon aggasztasz engem.,"тревожить, беспокоить (кого-л.)",В последнее время ты меня очень тревожишь.,0727_aggaszt_m.mp3
+728,kapcsolódik,kapcsolódni,Ma este szívesen kapcsolódom a beszélgetéshez.,присоединяться,Сегодня вечером я с удовольствием присоединюсь к разговору.,0728_kapcsolodik_m.mp3
+729,utasít,utasítani,"Most arra utasítalak, hogy maradj.",приказывать,Сейчас я приказываю тебе остаться.,0729_utasit_m.mp3
+730,befolyásol,befolyásolni,Az időjárás gyakran befolyásolja a hangulatomat.,влиять / повлиять (на что-л.),Погода часто влияет на моё настроение.,0730_befolyasol_m.mp3
+731,megerőszakol,megerőszakolni,A bíróság szerint megerőszakolta az áldozatot.,изнасиловать (кого-л.),"По мнению суда, он изнасиловал жертву.",0731_megeroszakol_m.mp3
+732,átkutat,átkutatni,Tegnap átkutattam az egész lakást.,обыскивать / обыскать,Вчера я обыскал всю квартиру.,0732_atkutat_m.mp3
+733,elmúlik,elmúlni,Már elmúltam húszéves.,проходить / пройти; миновать (о возрасте — исполниться больше),Мне уже больше двадцати лет.,0733_elmulik_m.mp3
+734,dől,dőlni,"Vigyázz, mert a falnak dőlsz!",прислонишься,"Осторожно, а то ты прислонишься к стене!",0734_dol_m.mp3
+735,fejlődik,fejlődni,Mostanában sokat fejlődöm a magyarban.,прогрессирую,В последнее время я сильно прогрессирую в венгерском.,0735_fejlodik_m.mp3
+736,megbánt,megbántani,Tegnap véletlenül megbántottam a barátomat.,обижать / обидеть (кого-л.),Вчера я случайно обидел своего друга.,0736_megbant_m.mp3
+737,mozgat,mozgatni,Reggel mindig mozgatom a karomat.,"двигать, шевелить (что-л.)",Утром я всегда двигаю рукой.,0737_mozgat_m.mp3
+738,harap,harapni,A kutya néha megijed és harap.,кусать / укусить,Собака иногда пугается и кусает.,0738_harap_m.mp3
+739,parkol,parkolni,Mindig a ház előtt parkolok.,парковаться,Я всегда паркуюсь перед домом.,0739_parkol_m.mp3
+740,vonatkozik,vonatkozni,Ez a szabály mindenkire vonatkozik.,"относиться, касаться (кого/чего — -re/-ra)",Это правило относится ко всем.,0740_vonatkozik_m.mp3
+741,hozzászokik,hozzászokni,Lassan hozzászokom az új munkához.,привыкать (к чему-л.),Я постепенно привыкаю к новой работе.,0741_hozzaszokik_m.mp3
+742,kiver,kiverni,Tegnap kivertem a port a szőnyegből.,выбить,Вчера я выбил пыль из ковра.,0742_kiver_m.mp3
+743,lejön,lejönni,Mindjárt lejövök a lépcsőn.,спускаться / спуститься,Я сейчас спущусь по лестнице.,0743_lejon_m.mp3
+744,összehoz,összehozni,Tegnap összehoztam egy fontos találkozót.,организовать,Вчера я организовал важную встречу.,0744_osszehoz_m.mp3
+745,különbözik,különbözni,Ez a város nagyon különbözik a miénktől.,отличаться (от чего-л.),Этот город очень отличается от нашего.,0745_kulonbozik_m.mp3
+746,kilyukad,kilyukadni,Tegnap kilyukadt a zoknim a sétán.,"прохудиться, продырявиться",Вчера на прогулке у меня прохудился носок.,0746_kilyukad_m.mp3
+747,üzletel,üzletelni,Régóta üzletelünk ezzel a céggel.,"вести дела, торговать",Мы давно ведём дела с этой фирмой.,0747_uzletel_m.mp3
+748,szalad,szaladni,Reggelente a parkban szaladok.,бегаю,По утрам я бегаю в парке.,0748_szalad_m.mp3
+749,belehal,belehalni,Majdnem belehaltam a szégyenbe tegnap.,умереть от чего-либо (belehalni vmibe),Я вчера чуть не умер от стыда.,0749_belehal_m.mp3
+750,unatkozik,unatkozni,Mindig unatkozom a buszon.,"скучать, томиться от скуки",Я всегда скучаю в автобусе.,0750_unatkozik_m.mp3
+751,beszáll,beszállni,Reggel mindig beszállok a buszba.,садиться (в транспорт),Утром я всегда сажусь в автобус.,0751_beszall_m.mp3
+752,örököl,örökölni,Tavaly egy régi házat örököltem.,наследовать / унаследовать,В прошлом году я унаследовал старый дом.,0752_orokol_m.mp3
+753,engedélyez,engedélyezni,Ma engedélyeztem a szabadságodat.,разрешил,Сегодня я разрешил твой отпуск.,0753_engedelyez_m.mp3
+754,összeházasodik,összeházasodni,Tavaly nyáron házasodtunk össze.,"пожениться, вступить в брак",Прошлым летом мы поженились.,0754_osszehazasodik_m.mp3
+755,gyógyul,gyógyulni,A seb gyorsan gyógyul.,"выздоравливать, заживать",Рана быстро заживает.,0755_gyogyul_m.mp3
+756,közelít,közelíteni,A vonat lassan közelít az állomáshoz.,приближаться (к чему-л.),Поезд медленно приближается к станции.,0756_kozelit_m.mp3
+757,ragyog,ragyogni,Ma reggel ragyogok a boldogságtól.,"сиять, сверкать",Сегодня утром я сияю от счастья.,0757_ragyog_m.mp3
+758,erőltet,erőltetni,Ne erőltesd a dolgot!,форсировать,Не форсируй это дело!,0758_eroltet_m.mp3
+759,sodor,sodorni,Reggel cigarettát sodrok a kertben.,скручивать; нести (течением),Утром я скручиваю сигарету в саду.,0759_sodor_m.mp3
+760,nyílik,nyílni,Tavasszal nyílnak a virágok a kertben.,"распускаться, открываться",Весной в саду распускаются цветы.,0760_nyilik_m.mp3
+761,súg,súgni,Halkan súgok neked egy titkot.,"шептать, подсказывать (на ухо)",Я тихо шепну тебе один секрет.,0761_sug_m.mp3
+762,gyanít,gyanítani,"Gyanítom, hogy ma esni fog.","подозревать, догадываться","Подозреваю, что сегодня будет дождь.",0762_gyanit_m.mp3
+763,kitart,kitartani,Még két napig kitartok a diétám mellett.,"держаться, выдерживать",Я продержусь на своей диете ещё два дня.,0763_kitart_m.mp3
+764,óhajt,óhajtani,Békét és nyugalmat óhajtok.,желаю,Я желаю мира и покоя.,0764_ohajt_m.mp3
+765,megsért,megsérteni,"Ne haragudj, nem akartalak megsérteni.","обижать, оскорблять","Не сердись, я не хотел тебя обидеть.",0765_megsert_m.mp3
+766,beleszeret,beleszeretni,Első látásra beleszerettem a városba.,влюбляться / влюбиться (в кого-/что-л.),Я влюбился в этот город с первого взгляда.,0766_beleszeret_m.mp3
+767,megtagad,megtagadni,Mindig megtagadom tőle a segítséget.,отказывать,Я всегда отказываю ему в помощи.,0767_megtagad_m.mp3
+768,együttműködik,együttműködni,Szívesen együttműködöm a csapattal.,сотрудничать (с кем-л.),Я охотно сотрудничаю с командой.,0768_egyuttmukodik_m.mp3
+769,edz,edzeni,Minden reggel a parkban edzek.,тренироваться,Каждое утро я тренируюсь в парке.,0769_edz_m.mp3
+770,fogy,fogyni,Gyorsan fogy a pénzünk.,"убывать, кончаться; худеть",Наши деньги быстро кончаются.,0770_fogy_m.mp3
+771,fázik,fázni,Télen mindig nagyon fázom.,"мёрзнуть, зябнуть",Зимой я всегда очень мёрзну.,0771_fazik_m.mp3
+772,jegyez,jegyezni,Mindig jegyzem a határidőket a naptáramba.,"записывать, замечать",Я всегда записываю сроки в свой календарь.,0772_jegyez_m.mp3
+773,ismétel,ismételni,Lefekvés előtt gyakran ismétlem a szavakat.,повторять / повторить,Перед сном я часто повторяю слова.,0773_ismetel_m.mp3
+774,rémlik,rémleni,"Most úgy rémlik, hogy bezártam az ajtót.","смутно припоминаться, казаться","Сейчас мне смутно помнится, что я запер дверь.",0774_remlik_m.mp3
+775,megesik,megesni,Velem is megesik néha.,"случаться, происходить",Со мной это тоже иногда случается.,0775_megesik_m.mp3
+776,dong,dongani,Egy méh hangosan dong a kertben.,"жужжать, гудеть",Пчела громко жужжит в саду.,0776_dong_m.mp3
+777,közeleg,közelegni,Lassan közeleg a tavasz.,"приближаться, надвигаться",Медленно приближается весна.,0777_kozeleg_m.mp3
+778,időzít,időzíteni,Az utazást a nyári szünetre időzítettem.,"приурочивать, выбирать время",Я приурочил поездку к летним каникулам.,0778_idozit_m.mp3
+779,igazol,igazolni,Holnap igazolom a hiányzásomat az orvosnál.,подтвержу,Завтра я подтвержу своё отсутствие у врача.,0779_igazol_m.mp3
+780,elkísér,elkísérni,Reggel elkísérlek a buszmegállóig.,"провожать, сопровождать (кого-л.)",Утром я провожу тебя до автобусной остановки.,0780_elkiser_m.mp3
+781,bujkál,bujkálni,Egész nap a szobájában bujkált.,"прятаться, скрываться",Он весь день прятался в своей комнате.,0781_bujkal_m.mp3
+782,eltávolít,eltávolítani,Gyorsan eltávolítom a foltot a pólóról.,"удалять / удалить, устранять",Я быстро удаляю пятно с футболки.,0782_eltavolit_m.mp3
+783,visszavisz,visszavinni,Holnap visszaviszem a könyvet a könyvtárba.,"относить обратно, возвращать",Завтра я отнесу книгу обратно в библиотеку.,0783_visszavisz_m.mp3
+784,temet,temetni,Ma temetik a katonákat a temetőben.,хоронить,Сегодня хоронят солдат на кладбище.,0784_temet_m.mp3
+785,megzavar,megzavarni,"Bocsánat, megzavartalak a munkában?","мешать, сбивать с толку","Извини, я помешал тебе в работе?",0785_megzavar_m.mp3
+786,szökik,szökni,Éjjel szöktem a börtönből.,сбежать,Ночью я сбежал из тюрьмы.,0786_szokik_m.mp3
+787,megköszön,megköszönni,Megköszöntem a tanárnőnek a segítséget.,поблагодарить (за что-л. кого-л.),Я поблагодарил учительницу за помощь.,0787_megkoszon_m.mp3
+788,kimarad,kimaradni,Sajnos kimaradtam a buliból.,"пропускать, оставаться вне (чего-л.)","К сожалению, я пропустил вечеринку.",0788_kimarad_m.mp3
+789,tartózkodik,tartózkodni,Most a szállodában tartózkodom.,"находиться, пребывать",Сейчас я нахожусь в гостинице.,0789_tartozkodik_m.mp3
+790,feltör,feltörni,Tegnap feltörték az e-mail fiókomat.,взломать; вскрыть,Вчера взломали мой почтовый ящик.,0790_feltor_m.mp3
+791,erősít,erősíteni,Minden reggel edzéssel erősítem a hátizmaimat.,укреплять / усиливать,Каждое утро я укрепляю мышцы спины тренировкой.,0791_erosit_m.mp3
+792,ural,uralni,Sokáig uralták az egész vidéket.,"господствовать, властвовать над (+ вин. падеж)",Они долго господствовали над всей округой.,0792_ural_m.mp3
+793,szabadít,szabadítani,Most szabadítjuk a foglyot a rabságból.,освобождаем,Сейчас мы освобождаем пленника из плена.,0793_szabadit_m.mp3
+794,vonz,vonzani,A nagyvárosok mindig vonzanak engem.,привлекать,Большие города всегда привлекают меня.,0794_vonz_m.mp3
+795,becsül,becsülni,Nagyon becsüllek téged a munkádért.,"уважать, ценить",Я очень ценю тебя за твою работу.,0795_becsul_m.mp3
+796,kizár,kizárni,Ezt a lehetőséget most nem zárom ki.,исключать / исключить,Эту возможность я сейчас не исключаю.,0796_kizar_m.mp3
+797,ellát,ellátni,Mindennap friss vízzel látom el a kutyát.,"снабжать, обеспечивать (чем-л.)",Каждый день я обеспечиваю собаку свежей водой.,0797_ellat_m.mp3
+798,megsemmisít,megsemmisíteni,A tűz tegnap megsemmisítette a régi raktárt.,уничтожать / уничтожить,Огонь вчера уничтожил старый склад.,0798_megsemmisit_m.mp3
+799,megfullad,megfulladni,Majdnem megfulladtam a sűrű füstben.,"задохнуться, утонуть",Я чуть не задохнулся в густом дыму.,0799_megfullad_m.mp3
+800,lecsap,lecsapni,Egy légyre csaptam le az asztalon.,прихлопнуть; обрушиться (на что-л.),Я прихлопнул муху на столе.,0800_lecsap_m.mp3
+801,becsap,becsapni,Ne csapj be engem többé!,обманывать,Не обманывай меня больше!,0801_becsap_m.mp3
+802,kételkedik,kételkedni,Néha kételkedem a döntéseimben.,сомневаться (в ком/чём-л.),Иногда я сомневаюсь в своих решениях.,0802_ketelkedik_m.mp3
+803,kiszed,kiszedni,Kiszedem a húst a fagyasztóból.,"вынимать / вынуть, извлекать",Я вынимаю мясо из морозилки.,0803_kiszed_m.mp3
+804,csuk,csukni,Este mindig csukom az ablakot.,закрывать / закрыть,Вечером я всегда закрываю окно.,0804_csuk_m.mp3
+805,növel,növelni,Minden héten növelem a megtakarításomat.,увеличивать / увеличить,Каждую неделю я увеличиваю свои сбережения.,0805_novel_m.mp3
+806,verekedik,verekedni,Tegnap az iskolában verekedtem egy fiúval.,драться / подраться (с кем-л.),Вчера в школе я подрался с одним мальчиком.,0806_verekedik_m.mp3
+807,merül,merülni,Nyáron mélyen a vízbe merülök.,погружаться / погрузиться,Летом я глубоко погружаюсь в воду.,0807_merul_m.mp3
+808,felszáll,felszállni,Reggel mindig a hatos buszra szállok fel.,садиться (в транспорт); взлетать,Утром я всегда сажусь на шестой автобус.,0808_felszall_m.mp3
+809,dohányzik,dohányozni,A teraszon mindig dohányzik vacsora után.,курить,Он всегда курит на террасе после ужина.,0809_dohanyzik_m.mp3
+810,kicserél,kicserélni,Holnap kicserélem a régi telefonomat.,заменять / заменить (на новое),Завтра я заменю свой старый телефон.,0810_kicserel_m.mp3
+811,tűnődik,tűnődni,Néha sokáig tűnődöm a jövőmön.,"размышлять, раздумывать (о чём-л.)",Иногда я долго размышляю о своём будущем.,0811_tunodik_m.mp3
+812,retteg,rettegni,Mindig rettegek a fogorvostól.,"бояться, страшиться (кого/чего-л.)",Я всегда боюсь стоматолога.,0812_retteg_m.mp3
+813,odavan,odalenni,Odavagyok ezért a süteményért.,"быть в восторге (от чего-л., -ért)",Я в восторге от этого пирожного.,0813_odavan_m.mp3
+814,köszönt,köszönteni,Reggel mindig vidáman köszöntöm a szomszédokat.,"приветствовать, поздравлять",Утром я всегда весело приветствую соседей.,0814_koszont_m.mp3
+815,megemlít,megemlíteni,A megbeszélésen megemlítettem ezt a problémát.,упомянуть (что-л.),На совещании я упомянул эту проблему.,0815_megemlit_m.mp3
+816,büntet,büntetni,Igazságosan büntetjük a bűnösöket.,наказываем,Мы справедливо наказываем виновных.,0816_buntet_m.mp3
+817,bekapcsol,bekapcsolni,Reggel mindig bekapcsolom a rádiót.,включать / включить,Утром я всегда включаю радио.,0817_bekapcsol_m.mp3
+818,csökkent,csökkenteni,Csökkentettük a költségeket tavaly.,снизили,Мы снизили расходы в прошлом году.,0818_csokkent_m.mp3
+819,feláldoz,feláldozni,Sokat feláldoztam a családomért.,"приносить в жертву, жертвовать",Я многим пожертвовал ради своей семьи.,0819_felaldoz_m.mp3
+820,reggelizik,reggelizni,Reggel mindig otthon reggelizem.,завтракать,Утром я всегда завтракаю дома.,0820_reggelizik_m.mp3
+821,belefárad,belefáradni,Hamar belefáradtam a várakozásba.,устать (от чего-то),Я быстро устал от ожидания.,0821_belefarad_m.mp3
+822,kibír,kibírni,Már nem bírom ki ezt a hideget.,"выдержать, вытерпеть",Я уже не выдерживаю этот холод.,0822_kibir_m.mp3
+823,észlel,észlelni,Reggel azonnal észleltem a hibát.,"замечать / заметить, воспринимать",Утром я сразу заметил ошибку.,0823_eszlel_m.mp3
+824,kerget,kergetni,A kutya minden reggel kergeti a macskát.,"гнать, гоняться за кем-л.",Собака каждое утро гоняется за кошкой.,0824_kerget_m.mp3
+825,kitesz,kitenni,Reggel kiteszem a szemetet az utcára.,"выставлять, выносить (наружу)",Утром я выставляю мусор на улицу.,0825_kitesz_m.mp3
+826,megcsal,megcsalni,Sajnos megcsalt engem tavaly nyáron.,изменить (партнёру),"К сожалению, он(а) изменил(а) мне прошлым летом.",0826_megcsal_m.mp3
+827,lovagol,lovagolni,Minden vasárnap lovagolok a réten.,"ездить верхом, кататься верхом",Каждое воскресенье я катаюсь верхом на лугу.,0827_lovagol_m.mp3
+828,bedob,bedobni,Reggel gyorsan bedobom a leveleket a postaládába.,бросать/забросить (внутрь),Утром я быстро бросаю письма в почтовый ящик.,0828_bedob_m.mp3
+829,kérdezősködik,kérdezősködni,A szomszédról kérdezősködtem a boltban.,расспрашивать (о ком-/чём-либо),Я расспрашивал о соседе в магазине.,0829_kerdezoskodik_m.mp3
+830,rejtőzik,rejtőzni,Most a fa mögött rejtőzöm.,"прятаться, скрываться",Сейчас я прячусь за деревом.,0830_rejtozik_m.mp3
+831,meggyógyul,meggyógyulni,"Remélem, hamarosan meggyógyulsz.",выздоравливать / выздороветь,"Надеюсь, ты скоро выздоровеешь.",0831_meggyogyul_m.mp3
+832,idead,ideadni,"Kérlek, ideadod most a sót?","передать (сюда), дать сюда","Пожалуйста, передашь мне сейчас соль?",0832_idead_m.mp3
+833,elvár,elvárni,Mindig sok segítséget várok el tőled.,"ожидать, требовать (от кого-л.)",Я всегда жду от тебя большой помощи.,0833_elvar_m.mp3
+834,jelöl,jelölni,Pirossal jelölöm az utat a térképen.,отмечаю,Я отмечаю дорогу красным на карте.,0834_jelol_m.mp3
+835,bújik,bújni,Ő gyorsan az ágy alá bújik.,прятаться; залезать (куда-л.),Он быстро прячется под кровать.,0835_bujik_m.mp3
+836,bekerül,bekerülni,A csapatba végre bekerültem.,попасть (внутрь),Я наконец-то попал(а) в команду.,0836_bekerul_m.mp3
+837,megmérgez,megmérgezni,Tegnap véletlenül megmérgezte a patkányokat.,отравить,Вчера он случайно отравил крыс.,0837_megmergez_m.mp3
+838,alakít,alakítani,A színész egy orvost alakít a filmben.,играть роль; формировать,Актёр играет роль врача в фильме.,0838_alakit_m.mp3
+839,csomagol,csomagolni,Most csomagolom a bőröndömet.,упаковывать / паковать,Сейчас я упаковываю свой чемодан.,0839_csomagol_m.mp3
+840,végignéz,végignézni,Tegnap végignéztem egy jó filmet.,"просмотреть до конца, оглядеть",Вчера я посмотрел до конца один хороший фильм.,0840_vegignez_m.mp3
+841,elhatároz,elhatározni,"Elhatároztam, hogy holnap korán kelek.",решать / решить,"Я решил(а), что завтра встану рано.",0841_elhataroz_m.mp3
+842,keveredik,keveredni,Tegnap véletlenül egy vitába keveredtem.,"впутываться, ввязываться (во что-л.)",Вчера я случайно ввязался в спор.,0842_keveredik_m.mp3
+843,tanulmányoz,tanulmányozni,Most a térképet tanulmányozom.,изучать / изучить,Сейчас я изучаю карту.,0843_tanulmanyoz_m.mp3
+844,beindul,beindulni,Reggel az autó nem indult be.,"заводиться / завестись (о моторе, машине)",Утром машина не завелась.,0844_beindul_m.mp3
+845,odanéz,odanézni,"Gyorsan odanéztem, de már nem volt ott senki.","посмотреть туда, взглянуть","Я быстро посмотрел туда, но там уже никого не было.",0845_odanez_m.mp3
+846,csalódik,csalódni,Nagyon csalódtam ebben a filmben.,разочаровываться / разочароваться (в ком-чём),Я очень разочаровался в этом фильме.,0846_csalodik_m.mp3
+847,tartogat,tartogatni,A jó híreket a végére tartogatom.,"припасать, приберегать (про запас)",Хорошие новости я приберегаю напоследок.,0847_tartogat_m.mp3
+848,besétál,besétálni,Lassan besétáltam a boltba.,"входить (не спеша), заходить",Я не спеша зашёл в магазин.,0848_besetal_m.mp3
+849,kísért,kísérteni,Ne kísérts engem édességgel!,"искушать, соблазнять; являться (о призраке)",Не искушай меня сладостями!,0849_kisert_m.mp3
+850,felhúz,felhúzni,Reggel gyorsan felhúzom a kabátomat.,надевать (натягивать); заводить (часы),Утром я быстро надеваю своё пальто.,0850_felhuz_m.mp3
+851,lenyomoz,lenyomozni,Végül lenyomoztuk a tolvajt.,"разыскать, выследить",В конце концов мы разыскали вора.,0851_lenyomoz_m.mp3
+852,növekszik,növekedni,Tavasszal gyorsan növekszik a fű.,"расти, увеличиваться",Весной трава быстро растёт.,0852_novekszik_m.mp3
+853,körülnéz,körülnézni,A boltban lassan körülnéztem.,"осматриваться, оглядываться",Я не спеша осмотрелся в магазине.,0853_korulnez_m.mp3
+854,eltemet,eltemetni,Tegnap eltemettük a kutyánkat a kertben.,хоронить / похоронить,Вчера мы похоронили нашу собаку в саду.,0854_eltemet_m.mp3
+855,kefél ⚠️,kefélni,Minden reggel kefélem a hajamat.,расчёсывать щёткой,Каждое утро я расчёсываю волосы щёткой.,0855_kefel_m.mp3
+856,gyógyít,gyógyítani,Ő gyógyítja a betegeket a kórházban.,"лечить, исцелять",Он(а) лечит больных в больнице.,0856_gyogyit_m.mp3
+857,felemel,felemelni,Könnyen felemelem ezt a nehéz táskát.,поднимать / поднять,Я легко поднимаю эту тяжёлую сумку.,0857_felemel_m.mp3
+858,kínál,kínálni,Mindig kávéval kínálom a vendégeket.,"угощать, предлагать",Я всегда угощаю гостей кофе.,0858_kinal_m.mp3
+859,remeg,remegni,A hidegben remegtem egy kicsit.,"дрожать, трястись",На холоде я немного дрожал.,0859_remeg_m.mp3
+860,pazarol,pazarolni,Ne pazarold a vizet reggel!,"тратить впустую, расточать",Не трать впустую воду по утрам!,0860_pazarol_m.mp3
+861,kiborul,kiborulni,Néha teljesen kiborulok a munkahelyen.,"выходить из себя, психовать",Иногда я совершенно выхожу из себя на работе.,0861_kiborul_m.mp3
+862,tüntet,tüntetni,Holnap a téren tüntetünk a békéért.,"участвовать в митинге, протестовать",Завтра мы будем митинговать на площади за мир.,0862_tuntet_m.mp3
+863,hozzáér,hozzáérni,Ne érj hozzá a forró tűzhelyhez!,"прикасаться, дотрагиваться (к чему-л. — -hez/-hoz/-höz)",Не прикасайся к горячей плите!,0863_hozzaer_m.mp3
+864,leszed,leszedni,Ebéd után leszedem az asztalt.,"убирать (со стола), снимать; собирать",После обеда я убираю со стола.,0864_leszed_m.mp3
+865,higgad,higgadni,A vita után lassan higgadok.,успокаиваться,После ссоры я постепенно успокаиваюсь.,0865_higgad_m.mp3
+866,tesztel,tesztelni,Holnap teszteljük az új programot.,"тестировать, испытывать",Завтра мы протестируем новую программу.,0866_tesztel_m.mp3
+867,hozzámegy,hozzámenni,Hozzámegyek egy orvoshoz.,выходить замуж,Я выхожу замуж за врача.,0867_hozzamegy_m.mp3
+868,szembenéz,szembenézni,Bátran szembenézünk a nehézségekkel.,"смотреть в лицо, противостоять (чему-л.)",Мы смело смотрим в лицо трудностям.,0868_szembenez_m.mp3
+869,kerít,keríteni,Holnapra kerítek két jegyet a koncertre.,"раздобыть, достать",К завтрашнему дню я раздобуду два билета на концерт.,0869_kerit_m.mp3
+870,továbblép,továbblépni,Most már továbblépünk a következő feladatra.,"идти дальше, переходить (к чему-л.)",Теперь мы переходим к следующему заданию.,0870_tovabblep_m.mp3
+871,csíp,csípni,Nyáron mindig csípnek a szúnyogok.,"щипать, кусать; разг. нравиться",Летом меня всегда кусают комары.,0871_csip_m.mp3
+872,mászkál,mászkálni,Egész nap a parkban mászkáltunk.,"бродить, слоняться",Мы весь день бродили по парку.,0872_maszkal_m.mp3
+873,felébreszt,felébreszteni,Reggel hatkor felébresztelek téged.,будить / разбудить (кого-то),Я разбужу тебя утром в шесть.,0873_felebreszt_m.mp3
+874,eltart,eltartani,Egyedül tartom el őt.,содержать (кого-л.); длиться,Я содержу его одна.,0874_eltart_m.mp3
+875,igényel,igényelni,Holnap új igazolványt igénylek.,"требовать, нуждаться; запрашивать (что-л. — вин. падеж)",Завтра я запрошу новое удостоверение личности.,0875_igenyel_m.mp3
+876,tűr,tűrni,Nehezen tűröm a nagy meleget nyáron.,"терпеть, выносить",Я с трудом переношу сильную жару летом.,0876_tur_m.mp3
+877,eljátszik,eljátszani,Tegnap eljátszottam az összes pénzemet.,"растратить, проиграть (деньги); сыграть",Вчера я растратил(а) все свои деньги.,0877_eljatszik_m.mp3
+878,adódik,adódni,Néha váratlan problémák adódnak a munkában.,"возникать, появляться",Иногда на работе возникают неожиданные проблемы.,0878_adodik_m.mp3
+879,tanúskodik,tanúskodni,Holnap a bíróságon fogok tanúskodni.,"давать показания, свидетельствовать",Завтра я буду давать показания в суде.,0879_tanuskodik_m.mp3
+880,gyárt,gyártani,Ez a gyár autókat gyárt.,производить / изготавливать,Этот завод производит автомобили.,0880_gyart_m.mp3
+881,ellenez,ellenezni,Én is ellenzem ezt a tervet.,"возражать (против), противиться",Я тоже против этого плана.,0881_ellenez_m.mp3
+882,ütközik,ütközni,A sötétben egy falba ütköztem.,столкнуться / врезаться (во что-то),В темноте я врезался в стену.,0882_utkozik_m.mp3
+883,derül,derülni,Egy jó vicctől mindig jókedvre derülök.,веселеть,От хорошей шутки я всегда веселею.,0883_derul_m.mp3
+884,ugrál,ugrálni,Vidáman ugrálok a parkban.,"прыгать, скакать",Я весело прыгаю в парке.,0884_ugral_m.mp3
+885,kisétál,kisétálni,Reggel kisétáltam a házból a kertbe.,вышел,Утром я вышел (прогуливаясь) из дома в сад.,0885_kisetal_m.mp3
+886,beáll,beállni,Beálltam a sorba a boltban.,встал,Я встал в очередь в магазине.,0886_beall_m.mp3
+887,felmond,felmondani,Holnap felmondok a munkahelyemen.,увольняться (с работы),Завтра я увольняюсь с работы.,0887_felmond_m.mp3
+888,hever,heverni,A macska egész nap a kanapén hever.,"лежать, валяться",Кошка весь день валяется на диване.,0888_hever_m.mp3
+889,megjegyez,megjegyezni,Könnyen megjegyzem az új szavakat.,запоминать / запомнить,Я легко запоминаю новые слова.,0889_megjegyez_m.mp3
+890,tippel,tippelni,Mindig rosszul tippelek a meccs eredményére.,угадывать,Я всегда неправильно угадываю результат матча.,0890_tippel_m.mp3
+891,megtilt,megtiltani,Megtiltotta nekem a dohányzást.,запрещать / запретить,Он запретил мне курить.,0891_megtilt_m.mp3
+892,megfenyeget,megfenyegetni,Tegnap megfenyegették a szomszédot.,"пригрозить, угрожать (кому-л.)",Вчера они пригрозили соседу.,0892_megfenyeget_m.mp3
+893,sül,sülni,A kenyér most sül a sütőben.,"печься, жариться",Хлеб сейчас печётся в духовке.,0893_sul_m.mp3
+894,tép,tépni,Reggel mindig tépek egy virágot a kertben.,рвать,Утром я всегда рву цветок в саду.,0894_tep_m.mp3
+895,elhúz,elhúzni,Reggel mindig elhúzom a függönyt.,"отдёргивать, отодвигать (в сторону)",Утром я всегда отдёргиваю штору.,0895_elhuz_m.mp3
+896,elájul,elájulni,A melegben majdnem elájultam.,падать / упасть в обморок,На жаре я чуть не упал в обморок.,0896_elajul_m.mp3
+897,elítél,elítélni,Szigorúan elítélem az erőszakot.,осуждать / осудить; приговаривать,Я строго осуждаю насилие.,0897_elitel_m.mp3
+898,elterel,elterelni,Elterelem a figyelmét egy vicces történettel.,отвлекать / отводить,Я отвлекаю его внимание смешной историей.,0898_elterel_m.mp3
+899,rátalál,rátalálni,Végre rátaláltam a kulcsomra.,находить / найти (что-л.),Наконец-то я нашёл свой ключ.,0899_ratalal_m.mp3
+900,helyettesít,helyettesíteni,Ma én helyettesítem a beteg kollégámat.,"заменять, замещать (кого-то)",Сегодня я замещаю своего больного коллегу.,0900_helyettesit_m.mp3
+901,gyűlik,gyűlni,Gyűlik a pénzünk a nyaralásra.,копиться,У нас копятся деньги на отпуск.,0901_gyulik_m.mp3
+902,megszólal,megszólalni,Hirtelen megszólalt a telefonom.,зазвучать; зазвонить; заговорить,Внезапно зазвонил мой телефон.,0902_megszolal_m.mp3
+903,járkál,járkálni,Idegesen járkáltam a szobában.,"расхаживать, ходить туда-сюда",Я нервно расхаживал по комнате.,0903_jarkal_m.mp3
+904,elszáll,elszállni,A madarak ősszel délre elszállnak.,улетать / улететь,Птицы осенью улетают на юг.,0904_elszall_m.mp3
+905,betart,betartani,Mindig betartom a szabályokat.,соблюдать,Я всегда соблюдаю правила.,0905_betart_m.mp3
+906,kiüt,kiütni,Egyetlen ütéssel kiütötte az ellenfelét.,выбивать; нокаутировать,Одним ударом он нокаутировал соперника.,0906_kiut_m.mp3
+907,elvezet,elvezetni,Elvezetem a vendéget a szobájába.,отводить / отвести,Я провожу гостя в его комнату.,0907_elvezet_m.mp3
+908,megállapít,megállapítani,Gyorsan megállapítottam az okot.,установил,Я быстро установил причину.,0908_megallapit_m.mp3
+909,fürdik,fürdeni,Nyáron mindennap a tóban fürdünk.,купаться,Летом мы каждый день купаемся в озере.,0909_furdik_m.mp3
+910,kémkedik,kémkedni,Gyakran kémkedik a szomszédok után.,шпионить (за кем-л.),Он часто шпионит за соседями.,0910_kemkedik_m.mp3
+911,köszönhet,köszönhetni,Neki köszönhetem a jó munkámat.,быть обязанным (кому-л. чем-л.),Хорошей работой я обязан ему.,0911_koszonhet_m.mp3
+912,képez,képezni,Most jó szakembereket képezünk.,"обучать, готовить (кадры)",Сейчас мы готовим хороших специалистов.,0912_kepez_m.mp3
+913,zuhanyozik,zuhanyozni,Reggel mindig hideg vízzel zuhanyozom.,принимать душ,Утром я всегда принимаю душ холодной водой.,0913_zuhanyozik_m.mp3
+914,visszatart,visszatartani,Alig tudtam visszatartani a nevetésemet.,сдерживать / удерживать,Я едва смог сдержать свой смех.,0914_visszatart_m.mp3
+915,rohad,rohadni,A gyümölcs lassan rohad a konyhában.,"гнить, сгнить",Фрукт медленно гниёт на кухне.,0915_rohad_m.mp3
+916,lel,lelni,Végre nyugalmat leltem itthon.,находить / обрести,Наконец-то я обрёл покой дома.,0916_lel_m.mp3
+917,felhoz,felhozni,Mindig ezt a témát hozza fel a vacsoránál.,"поднимать, затрагивать (тему)",Он всегда поднимает эту тему за ужином.,0917_felhoz_m.mp3
+918,elfárad,elfáradni,Este nagyon elfáradtam a munkában.,"устать, утомиться",Вечером я очень устал на работе.,0918_elfarad_m.mp3
+919,megőriz,megőrizni,Mindig megőrzöm a régi fényképeket.,"хранить, сохранять; беречь",Я всегда храню старые фотографии.,0919_megoriz_m.mp3
+920,mutatkozik,mutatkozni,Ő ritkán mutatkozik a nyilvánosság előtt.,показываться,Он редко появляется на публике.,0920_mutatkozik_m.mp3
+921,idegesít,idegesíteni,Nagyon idegesít ez a hangos zene.,"раздражать, нервировать",Меня очень раздражает эта громкая музыка.,0921_idegesit_m.mp3
+922,javul,javulni,Az időjárás holnap javul.,улучшаться / улучшиться,Завтра погода улучшится.,0922_javul_m.mp3
+923,kommunikál,kommunikálni,Az ügyfelekkel mindig udvariasan kommunikálunk.,"общаться, коммуницировать",Мы всегда вежливо общаемся с клиентами.,0923_kommunikal_m.mp3
+924,elbukik,elbukni,A vizsgán majdnem elbuktam.,"провалиться, потерпеть неудачу",Я чуть не провалился на экзамене.,0924_elbukik_m.mp3
+925,ültet,ültetni,Tavasszal virágokat ültetek a kertbe.,сажать / посадить,Весной я сажаю цветы в сад.,0925_ultet_m.mp3
+926,süllyed,süllyedni,A hajó lassan süllyed a vízben.,тонуть; погружаться,Корабль медленно тонет в воде.,0926_sullyed_m.mp3
+927,izzad,izzadni,Nyáron mindig izzadok a melegben.,потеть,Летом я всегда потею в жару.,0927_izzad_m.mp3
+928,elvet,elvetni,Mindig elvetem a rossz javaslatokat.,отвергать,Я всегда отвергаю плохие предложения.,0928_elvet_m.mp3
+929,lenyúl,lenyúlni,Gyorsan lenyúltam a leesett kulcsért.,тянуться/нагибаться вниз (за чем-л.); стащить,Я быстро потянулся вниз за упавшим ключом.,0929_lenyul_m.mp3
+930,lenyűgöz,lenyűgözni,A film tegnap teljesen lenyűgözött minket.,"восхищать, поражать (кого-л.)",Фильм вчера полностью поразил нас.,0930_lenyugoz_m.mp3
+931,megnyugtat,megnyugtatni,A zene este mindig megnyugtat engem.,успокаивает,Музыка вечером всегда успокаивает меня.,0931_megnyugtat_m.mp3
+932,beenged,beengedni,"Hideg van, ezért nem engedlek be.",впускать / впустить,"Холодно, поэтому я тебя не впущу.",0932_beenged_m.mp3
+933,kiválaszt,kiválasztani,Mindig a legolcsóbb terméket választom ki.,выбирать / выбрать; отбирать,Я всегда выбираю самый дешёвый товар.,0933_kivalaszt_m.mp3
+934,elkészít,elkészíteni,Gyorsan elkészítem a vacsorát.,"приготовить, изготовить",Я быстро приготовлю ужин.,0934_elkeszit_m.mp3
+935,szétrúg,szétrúgni,Dühösen szétrúgta a homokvárat.,разбить пинками; раскидать ногами,Он злобно разбил пинками песочный замок.,0935_szetrug_m.mp3
+936,játszadozik,játszadozni,A gyerekek a parkban játszadoznak.,"играть, забавляться",Дети играют в парке.,0936_jatszadozik_m.mp3
+937,megházasodik,megházasodni,Tavaly nyáron megházasodott.,жениться (о мужчине),Прошлым летом он женился.,0937_meghazasodik_m.mp3
+938,határoz,határozni,Holnap határozunk a nyaralásról.,"решать, выносить решение (о чём-л., с -ról/-ről)",Завтра мы примем решение об отпуске.,0938_hataroz_m.mp3
+939,beindít,beindítani,Reggel mindig beindítom a számítógépet.,запускать / завести,Утром я всегда запускаю компьютер.,0939_beindit_m.mp3
+940,átöltözik,átöltözni,Munka után gyorsan átöltözöm otthon.,переодеваться / переодеться,После работы я быстро переодеваюсь дома.,0940_atoltozik_m.mp3
+941,megkezd,megkezdeni,Holnap megkezdjük a munkát.,начать / начинать,Завтра мы начнём работу.,0941_megkezd_m.mp3
+942,felnéz,felnézni,Nagyon felnézek a tanáromra.,смотреть вверх; уважать (кого-то — felnéz valakire),Я очень уважаю своего учителя.,0942_felnez_m.mp3
+943,megnyit,megnyitni,Reggel megnyitottam egy fontos fájlt.,открыть,Утром я открыл важный файл.,0943_megnyit_m.mp3
+944,meggyógyít,meggyógyítani,Az orvos gyorsan meggyógyított engem.,"вылечить, исцелить",Врач быстро вылечил меня.,0944_meggyogyit_m.mp3
+945,feljön,feljönni,Reggel korán feljön a nap.,подниматься / всходить,Утром солнце поднимается рано.,0945_feljon_m.mp3
+946,alapul,alapulni,A döntésem a tapasztalatomon alapul.,основываться (на чём-л.),Моё решение основывается на моём опыте.,0946_alapul_m.mp3
+947,nyilatkozik,nyilatkozni,Holnap nyilatkozik a televíziónak.,заявлять / делать заявление,Завтра он сделает заявление телевидению.,0947_nyilatkozik_m.mp3
+948,megérez,megérezni,Rögtön megéreztem a veszélyt.,"почувствовать, ощутить",Я сразу почувствовал опасность.,0948_megerez_m.mp3
+949,átlép,átlépni,Óvatosan átléptem a tócsán.,переступить,Я осторожно переступил через лужу.,0949_atlep_m.mp3
+950,elveszik,elveszni,Mindig elveszek a nagy városban.,теряться,Я всегда теряюсь в большом городе.,0950_elveszik_m.mp3
+951,megszokik,megszokni,Lassan megszoktam az új munkahelyet.,привыкать / привыкнуть (к чему-л.),Я постепенно привык к новому месту работы.,0951_megszokik_m.mp3
+952,nyaral,nyaralni,Idén nyáron a tengernél nyaralunk.,"проводить лето, отдыхать (на отдыхе)",Этим летом мы отдыхаем у моря.,0952_nyaral_m.mp3
+953,megállapodik,megállapodni,Végül megállapodtunk az árban.,договариваться / договориться (о чём-л. — valamiben),В конце концов мы договорились о цене.,0953_megallapodik_m.mp3
+954,megnyugszik,megnyugodni,Végre megnyugodtam egy kicsit.,успокаиваться / успокоиться,Я наконец немного успокоился.,0954_megnyugszik_m.mp3
+955,elsétál,elsétálni,Reggel elsétáltam a parkig.,дошёл,Утром я прогулочным шагом дошёл до парка.,0955_elsetal_m.mp3
+956,óv,óvni,Mindig óvom a bőrömet a naptól.,защищать,Я всегда защищаю свою кожу от солнца.,0956_ov_m.mp3
+957,lecsuk,lecsukni,Este mindig lecsukom a laptopot.,закрывать,Вечером я всегда закрываю ноутбук.,0957_lecsuk_m.mp3
+958,takar,takarni,Este takaróval takarom a kutyát.,"укрывать, накрывать",Вечером я укрываю собаку одеялом.,0958_takar_m.mp3
+959,önt,önteni,Vizet öntök a pohárba.,"лить, наливать",Я наливаю воду в стакан.,0959_ont_m.mp3
+960,felfed,felfedni,Végre felfedte az igazságot.,раскрыла,Наконец-то она раскрыла правду.,0960_felfed_m.mp3
+961,belekeveredik,belekeveredni,Véletlenül belekeveredtem egy vitába.,"впутаться, ввязаться (во что-л.)",Я случайно ввязался в спор.,0961_belekeveredik_m.mp3
+962,lead,leadni,Holnap leadom a házi feladatot.,сдавать / сдать (отдавать),Завтра я сдам домашнее задание.,0962_lead_m.mp3
+963,előjön,előjönni,Végre előjött a fa mögül.,вышел,Он наконец вышел из-за дерева.,0963_elojon_m.mp3
+964,kifejez,kifejezni,Szavakkal nehéz kifejezni az érzéseimet.,выражать / выразить,Словами трудно выразить мои чувства.,0964_kifejez_m.mp3
+965,rajtakap,rajtakapni,Tegnap rajtakaptam a macskát lopáson.,"застать врасплох, застигнуть (на чём-л.)",Вчера я застал кошку на воровстве.,0965_rajtakap_m.mp3
+966,beállít,beállítani,Most beállítom az ébresztőórát reggelre.,"настраивать / устанавливать, ставить",Сейчас я ставлю будильник на утро.,0966_beallit_m.mp3
+967,felgyújt,felgyújtani,Tegnap este felgyújtottam a villanyt.,поджигать / зажигать,Вчера вечером я зажёг свет.,0967_felgyujt_m.mp3
+968,aktivál,aktiválni,Most aktiválom az új bankkártyámat.,активировать,Сейчас я активирую свою новую банковскую карту.,0968_aktival_m.mp3
+969,idefigyel,idefigyelni,"Most idefigyelj, mert ez fontos!","слушать сюда, внимать","А ну-ка слушай сюда, потому что это важно!",0969_idefigyel_m.mp3
+970,ügyel,ügyelni,Mindig ügyelek a rendre.,"следить, присматривать (за чем-л. — на -ra/-re)",Я всегда слежу за порядком.,0970_ugyel_m.mp3
+971,felvet,felvetni,A megbeszélésen mindig felvetek egy fontos kérdést.,"поднимать (вопрос), затрагивать",На совещании я всегда поднимаю один важный вопрос.,0971_felvet_m.mp3
+972,tár,tárni,Reggel mindig szélesre tárom az ablakot.,"распахивать, раскрывать (что-л.)",Утром я всегда широко распахиваю окно.,0972_tar_m.mp3
+973,megünnepel,megünnepelni,Holnap megünnepeljük a győzelmet.,отпраздновать (что-л.),Завтра мы отпразднуем победу.,0973_megunnepel_m.mp3
+974,összeveszik,összeveszni,Tegnap összevesztem a barátommal.,ссориться / поссориться (с кем-л.),Вчера я поссорился с другом.,0974_osszeveszik_m.mp3
+975,barátkozik,barátkozni,Az iskolában könnyen barátkozom új emberekkel.,"дружить, заводить друзей (с кем-л. — vkivel)",В школе я легко завожу дружбу с новыми людьми.,0975_baratkozik_m.mp3
+976,belenéz,belenézni,Reggel mindig belenézek a postaládába.,заглядывать / заглянуть (внутрь),Утром я всегда заглядываю в почтовый ящик.,0976_belenez_m.mp3
+977,megelőz,megelőzni,Az autópályán megelőztünk egy lassú teherautót.,обгонять / обогнать; предотвращать,На автомагистрали мы обогнали медленный грузовик.,0977_megeloz_m.mp3
+978,meglép,meglépni,A tolvaj gyorsan meglépett a pénzzel.,"улизнуть, смыться",Вор быстро смылся с деньгами.,0978_meglep_m.mp3
+979,fektet,fektetni,Az ágyra fektetem a babát.,кладу,Я кладу малыша на кровать.,0979_fektet_m.mp3
+980,lehúz,lehúzni,Gyorsan lehúztam a vizes pulóveremet.,стягивать / стянуть (снять),Я быстро стянул мокрый свитер.,0980_lehuz_m.mp3
+981,megtör,megtörni,A rossz hír végül megtört engem.,"сломить, надломить",Плохая новость в конце концов сломила меня.,0981_megtor_m.mp3
+982,elköltözik,elköltözni,Jövő hónapban elköltözöm egy másik városba.,переезжать / переехать,В следующем месяце я переезжаю в другой город.,0982_elkoltozik_m.mp3
+983,robbant,robbantani,A bányában tegnap követ robbantottak.,взрывать / взорвать,Вчера в шахте взрывали камень.,0983_robbant_m.mp3
+984,fenntart,fenntartani,Fenntartok nektek két helyet az asztalnál.,резервировать,Я резервирую для вас два места за столом.,0984_fenntart_m.mp3
+985,megbukik,megbukni,Tegnap megbuktam a vizsgán.,проваливаться / провалиться (на экзамене),Вчера я провалился на экзамене.,0985_megbukik_m.mp3
+986,megfogad,megfogadni,Mindig megfogadom anyám jó tanácsát.,"послушаться, последовать (совету)",Я всегда следую хорошему совету мамы.,0986_megfogad_m.mp3
+987,lekapcsol,lekapcsolni,Este mindig lekapcsolom a villanyt.,выключать / выключить,Вечером я всегда выключаю свет.,0987_lekapcsol_m.mp3
+988,tisztít,tisztítani,Minden reggel tisztítom a cipőmet.,чистить,Каждое утро я чищу свою обувь.,0988_tisztit_m.mp3
+989,kikerül,kikerülni,Mindig kikerülöm a tócsákat az úton.,"обходить, избегать (что-л.)",Я всегда обхожу лужи на дороге.,0989_kikerul_m.mp3
+990,tanácsol,tanácsolni,Mindig türelmet tanácsol nekünk.,советует,Он всегда советует нам терпение.,0990_tanacsol_m.mp3
+991,elüt,elütni,Tegnap majdnem elütöttem egy kutyát.,сбить (машиной),Вчера я чуть не сбил собаку.,0991_elut_m.mp3
+992,ijeszt,ijeszteni,Te néha hangosan ijeszted a macskát.,пугать / напугать,Ты иногда громко пугаешь кошку.,0992_ijeszt_m.mp3
+993,elkészül,elkészülni,A vacsora hamarosan elkészül.,"быть готовым, завершаться",Ужин скоро будет готов.,0993_elkeszul_m.mp3
+994,épül,épülni,A ház most épül a városban.,"строиться, возводиться",Дом сейчас строится в городе.,0994_epul_m.mp3
+995,borul,borulni,Ő ijedten a földre borult.,опрокидываться; пасмурнеть,Он испуганно повалился на землю.,0995_borul_m.mp3
+996,elrendez,elrendezni,Holnap elrendezem a papírjaimat.,"уладить, привести в порядок, упорядочить",Завтра я приведу в порядок свои бумаги.,0996_elrendez_m.mp3
+997,teker,tekerni,Minden reggel gyorsan tekerem a pedált.,"крутить, наматывать; крутить педали",Каждое утро я быстро кручу педаль.,0997_teker_m.mp3
+998,megnősül,megnősülni,Jövőre végre megnősülök.,жениться (о мужчине),В следующем году я наконец женюсь.,0998_megnosul_m.mp3
+999,kinyílik,kinyílni,Tavasszal kinyílnak a virágok a kertben.,"открываться, распускаться",Весной цветы в саду распускаются.,0999_kinyilik_m.mp3
+1000,megvitat,megvitatni,Holnap megvitatjuk a tervet a munkahelyen.,обсудить (что-л.),Завтра мы обсудим план на работе.,1000_megvitat_m.mp3
